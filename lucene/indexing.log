@@ -1,0 +1,858 @@
+Compiling ingester project...
+[INFO] Scanning for projects...
+[WARNING] 
+[WARNING] Some problems were encountered while building the effective model for ingester:ingester:jar:0.0.1-SNAPSHOT
+[WARNING] 'build.plugins.plugin.version' for org.apache.maven.plugins:maven-compiler-plugin is missing. @ line 10, column 15
+[WARNING] 
+[WARNING] It is highly recommended to fix these problems because they threaten the stability of your build.
+[WARNING] 
+[WARNING] For this reason, future Maven versions might no longer support building such malformed projects.
+[WARNING] 
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building Lucene/Solr Benchmarks 0.0.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ ingester ---
+[INFO] Deleting /media/workspace/IR-Reproducibility/systems/lucene/ingester/target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.3:resources (default-resources) @ ingester ---
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /media/workspace/IR-Reproducibility/systems/lucene/ingester/src/main/resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:2.0.2:compile (default-compile) @ ingester ---
+[INFO] Compiling 5 source files to /media/workspace/IR-Reproducibility/systems/lucene/ingester/target/classes
+[INFO] 
+[INFO] --- maven-assembly-plugin:2.2-beta-5:single (default-cli) @ ingester ---
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/analysis/ already added, skipping
+[INFO] org/apache/lucene/codecs/ already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.Codec already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.DocValuesFormat already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.PostingsFormat already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/search/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/search/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/index/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] com/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/codecs/ already added, skipping
+[INFO] org/apache/lucene/codecs/blocktree/ already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.Codec already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.DocValuesFormat already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.PostingsFormat already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/codecs/ already added, skipping
+[INFO] org/apache/lucene/search/ already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.PostingsFormat already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/commons/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/http/ already added, skipping
+[INFO] org/apache/http/impl/ already added, skipping
+[INFO] META-INF/DEPENDENCIES already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/maven/org.apache.httpcomponents/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/http/ already added, skipping
+[INFO] org/apache/http/entity/ already added, skipping
+[INFO] META-INF/DEPENDENCIES already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/maven/org.apache.httpcomponents/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] LICENSE.txt already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] com/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/commons/ already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] Building jar: /media/workspace/IR-Reproducibility/systems/lucene/ingester/target/ingester-0.0.1-SNAPSHOT-jar-with-dependencies.jar
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/analysis/ already added, skipping
+[INFO] org/apache/lucene/codecs/ already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.Codec already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.DocValuesFormat already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.PostingsFormat already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/search/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/search/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/index/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] com/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/codecs/ already added, skipping
+[INFO] org/apache/lucene/codecs/blocktree/ already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.Codec already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.DocValuesFormat already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.PostingsFormat already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/lucene/ already added, skipping
+[INFO] org/apache/lucene/codecs/ already added, skipping
+[INFO] org/apache/lucene/search/ already added, skipping
+[INFO] META-INF/services/org.apache.lucene.codecs.PostingsFormat already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/commons/ already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/http/ already added, skipping
+[INFO] org/apache/http/impl/ already added, skipping
+[INFO] META-INF/DEPENDENCIES already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/maven/org.apache.httpcomponents/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/http/ already added, skipping
+[INFO] org/apache/http/entity/ already added, skipping
+[INFO] META-INF/DEPENDENCIES already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/maven/org.apache.httpcomponents/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] LICENSE.txt already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/LICENSE already added, skipping
+[INFO] META-INF/NOTICE already added, skipping
+[INFO] META-INF/services/ already added, skipping
+[INFO] com/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] META-INF/ already added, skipping
+[INFO] META-INF/MANIFEST.MF already added, skipping
+[INFO] org/ already added, skipping
+[INFO] org/apache/ already added, skipping
+[INFO] org/apache/commons/ already added, skipping
+[INFO] META-INF/NOTICE.txt already added, skipping
+[INFO] META-INF/LICENSE.txt already added, skipping
+[INFO] META-INF/maven/ already added, skipping
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 7.208s
+[INFO] Finished at: Wed Aug 05 02:39:00 UTC 2015
+[INFO] Final Memory: 62M/1515M
+[INFO] ------------------------------------------------------------------------
+Starting indexing...
+Index path: gov2.lucene/index
+Doc count limit: all docs
+Threads: 32
+Verbose: no
+Positions: no
+IW config=analyzer=org.apache.lucene.analysis.en.EnglishAnalyzer
+ramBufferSizeMB=16.0
+maxBufferedDocs=-1
+maxBufferedDeleteTerms=-1
+mergedSegmentWarmer=null
+delPolicy=org.apache.lucene.index.KeepOnlyLastCommitDeletionPolicy
+commit=null
+openMode=CREATE
+similarity=org.apache.lucene.search.similarities.DefaultSimilarity
+mergeScheduler=ConcurrentMergeScheduler: maxThreadCount=-1, maxMergeCount=-1, ioThrottle=true
+default WRITE_LOCK_TIMEOUT=1000
+writeLockTimeout=1000
+codec=Lucene50
+infoStream=org.apache.lucene.util.InfoStream$NoOutput
+mergePolicy=[TieredMergePolicy: maxMergeAtOnce=10, maxMergeAtOnceExplicit=30, maxMergedSegmentMB=5120.0, floorSegmentMB=2.0, forceMergeDeletesPctAllowed=10.0, segmentsPerTier=10.0, maxCFSSegmentSizeMB=8.796093022207999E12, noCFSRatio=0.1
+indexerThreadPool=org.apache.lucene.index.DocumentsWriterPerThreadPool@340f438e
+readerPooling=false
+perThreadHardLimitMB=1945
+useCompoundFile=true
+commitOnClose=true
+writer=null
+
+
+Indexer: start
+Indexer: 100000 docs... (29.662 sec)
+Indexer: 200000 docs... (51.909 sec)
+Failed: -1
+Failed: null
+Indexer: 300000 docs... (69.903 sec)
+Failed: null
+Indexer: 400000 docs... (86.446 sec)
+Indexer: 500000 docs... (105.223 sec)
+Indexer: 600000 docs... (124.898 sec)
+Indexer: 700000 docs... (141.783 sec)
+Indexer: 800000 docs... (158.549 sec)
+Indexer: 900000 docs... (187.339 sec)
+Indexer: 1000000 docs... (212.232 sec)
+Indexer: 1100000 docs... (231.239 sec)
+Indexer: 1200000 docs... (248.345 sec)
+Indexer: 1300000 docs... (266.056 sec)
+Indexer: 1400000 docs... (284.909 sec)
+Indexer: 1500000 docs... (310.829 sec)
+Indexer: 1600000 docs... (334.924 sec)
+Indexer: 1700000 docs... (351.769 sec)
+Indexer: 1800000 docs... (372.958 sec)
+Indexer: 1900000 docs... (394.217 sec)
+Indexer: 2000000 docs... (415.539 sec)
+Indexer: 2100000 docs... (441.979 sec)
+Indexer: 2200000 docs... (466.39 sec)
+Indexer: 2300000 docs... (489.585 sec)
+Indexer: 2400000 docs... (508.631 sec)
+Indexer: 2500000 docs... (529.761 sec)
+Indexer: 2600000 docs... (548.729 sec)
+Indexer: 2700000 docs... (567.997 sec)
+Indexer: 2800000 docs... (586.581 sec)
+Indexer: 2900000 docs... (606.725 sec)
+Indexer: 3000000 docs... (625.808 sec)
+Indexer: 3100000 docs... (646.579 sec)
+Indexer: 3200000 docs... (667.66 sec)
+Indexer: 3300000 docs... (688.472 sec)
+Indexer: 3400000 docs... (706.158 sec)
+Indexer: 3500000 docs... (724.79 sec)
+Failed: null
+Indexer: 3600000 docs... (741.265 sec)
+Failed: null
+Indexer: 3700000 docs... (759.256 sec)
+Indexer: 3800000 docs... (781.862 sec)
+Indexer: 3900000 docs... (802.61 sec)
+Indexer: 4000000 docs... (819.395 sec)
+Indexer: 4100000 docs... (841.328 sec)
+Failed: null
+Failed: null
+Indexer: 4200000 docs... (861.312 sec)
+Failed: null
+Indexer: 4300000 docs... (885.385 sec)
+Indexer: 4400000 docs... (915.939 sec)
+Indexer: 4500000 docs... (934.43 sec)
+Indexer: 4600000 docs... (951.644 sec)
+Indexer: 4700000 docs... (970.906 sec)
+Indexer: 4800000 docs... (992.764 sec)
+Indexer: 4900000 docs... (1010.362 sec)
+Failed: null
+Indexer: 5000000 docs... (1027.597 sec)
+Failed: null
+Failed: null
+Failed: null
+Indexer: 5100000 docs... (1044.657 sec)
+Indexer: 5200000 docs... (1070.849 sec)
+Indexer: 5300000 docs... (1089.217 sec)
+Indexer: 5400000 docs... (1108.432 sec)
+Indexer: 5500000 docs... (1129.018 sec)
+Indexer: 5600000 docs... (1147.629 sec)
+Indexer: 5700000 docs... (1167.168 sec)
+Indexer: 5800000 docs... (1192.253 sec)
+Indexer: 5900000 docs... (1214.146 sec)
+Indexer: 6000000 docs... (1241.064 sec)
+Indexer: 6100000 docs... (1263.587 sec)
+Failed: null
+Failed: null
+Indexer: 6200000 docs... (1281.214 sec)
+Indexer: 6300000 docs... (1309.415 sec)
+Indexer: 6400000 docs... (1330.776 sec)
+Indexer: 6500000 docs... (1350.915 sec)
+Indexer: 6600000 docs... (1370.879 sec)
+Indexer: 6700000 docs... (1389.913 sec)
+Indexer: 6800000 docs... (1408.578 sec)
+Failed: null
+Failed: null
+Indexer: 6900000 docs... (1426.24 sec)
+Indexer: 7000000 docs... (1447.105 sec)
+Indexer: 7100000 docs... (1465.662 sec)
+Indexer: 7200000 docs... (1485.336 sec)
+Indexer: 7300000 docs... (1503.987 sec)
+Indexer: 7400000 docs... (1528.338 sec)
+Indexer: 7500000 docs... (1552.757 sec)
+Indexer: 7600000 docs... (1572.253 sec)
+Indexer: 7700000 docs... (1590.558 sec)
+Indexer: 7800000 docs... (1610.002 sec)
+Indexer: 7900000 docs... (1628.455 sec)
+Indexer: 8000000 docs... (1649.928 sec)
+Indexer: 8100000 docs... (1671.401 sec)
+Indexer: 8200000 docs... (1689.982 sec)
+Indexer: 8300000 docs... (1707.156 sec)
+Indexer: 8400000 docs... (1726.555 sec)
+Indexer: 8500000 docs... (1745.84 sec)
+Indexer: 8600000 docs... (1768.128 sec)
+Indexer: 8700000 docs... (1790.557 sec)
+Failed: null
+Indexer: 8800000 docs... (1810.43 sec)
+Failed: null
+Indexer: 8900000 docs... (1828.468 sec)
+Failed: null
+Indexer: 9000000 docs... (1848.324 sec)
+Indexer: 9100000 docs... (1866.007 sec)
+Indexer: 9200000 docs... (1887.661 sec)
+Indexer: 9300000 docs... (1907.354 sec)
+Indexer: 9400000 docs... (1924.306 sec)
+Indexer: 9500000 docs... (1941.602 sec)
+Indexer: 9600000 docs... (1962.115 sec)
+Indexer: 9700000 docs... (1982.703 sec)
+Indexer: 9800000 docs... (2004.308 sec)
+Indexer: 9900000 docs... (2030.083 sec)
+Indexer: 10000000 docs... (2049.309 sec)
+Indexer: 10100000 docs... (2065.365 sec)
+Indexer: 10200000 docs... (2086.499 sec)
+Indexer: 10300000 docs... (2107.546 sec)
+Indexer: 10400000 docs... (2125.854 sec)
+Indexer: 10500000 docs... (2145.444 sec)
+Indexer: 10600000 docs... (2161.862 sec)
+Indexer: 10700000 docs... (2183.365 sec)
+Indexer: 10800000 docs... (2199.425 sec)
+Indexer: 10900000 docs... (2216.062 sec)
+Indexer: 11000000 docs... (2236.24 sec)
+Indexer: 11100000 docs... (2257.105 sec)
+Indexer: 11200000 docs... (2274.344 sec)
+Indexer: 11300000 docs... (2294.785 sec)
+Indexer: 11400000 docs... (2313.271 sec)
+Indexer: 11500000 docs... (2330.406 sec)
+Indexer: 11600000 docs... (2348.822 sec)
+Indexer: 11700000 docs... (2368.35 sec)
+Indexer: 11800000 docs... (2388.545 sec)
+Indexer: 11900000 docs... (2409.742 sec)
+Indexer: 12000000 docs... (2431.573 sec)
+Indexer: 12100000 docs... (2448.651 sec)
+Failed: null
+Indexer: 12200000 docs... (2465.636 sec)
+Failed: null
+Indexer: 12300000 docs... (2482.504 sec)
+Indexer: 12400000 docs... (2502.012 sec)
+Indexer: 12500000 docs... (2525.614 sec)
+Failed: null
+Indexer: 12600000 docs... (2541.698 sec)
+Indexer: 12700000 docs... (2571.094 sec)
+Failed: null
+Indexer: 12800000 docs... (2593.439 sec)
+Indexer: 12900000 docs... (2611.137 sec)
+Indexer: 13000000 docs... (2633.928 sec)
+Indexer: 13100000 docs... (2660.856 sec)
+Indexer: 13200000 docs... (2684.14 sec)
+Indexer: 13300000 docs... (2703.24 sec)
+Indexer: 13400000 docs... (2721.925 sec)
+Indexer: 13500000 docs... (2738.585 sec)
+Indexer: 13600000 docs... (2760.402 sec)
+Indexer: 13700000 docs... (2778.704 sec)
+Indexer: 13800000 docs... (2799.872 sec)
+Indexer: 13900000 docs... (2819.448 sec)
+Indexer: 14000000 docs... (2836.9 sec)
+Indexer: 14100000 docs... (2856.943 sec)
+Indexer: 14200000 docs... (2878.366 sec)
+Failed: null
+Indexer: 14300000 docs... (2897.187 sec)
+Indexer: 14400000 docs... (2916.973 sec)
+Indexer: 14500000 docs... (2937.582 sec)
+Indexer: 14600000 docs... (2959.898 sec)
+Indexer: 14700000 docs... (2988.43 sec)
+Indexer: 14800000 docs... (3013.046 sec)
+Indexer: 14900000 docs... (3037.225 sec)
+Indexer: 15000000 docs... (3056.14 sec)
+Indexer: 15100000 docs... (3078.354 sec)
+Indexer: 15200000 docs... (3099.528 sec)
+Indexer: 15300000 docs... (3119.391 sec)
+Indexer: 15400000 docs... (3135.937 sec)
+Indexer: 15500000 docs... (3157.395 sec)
+Indexer: 15600000 docs... (3179.545 sec)
+Indexer: 15700000 docs... (3204.014 sec)
+Indexer: 15800000 docs... (3227.812 sec)
+Indexer: 15900000 docs... (3245.456 sec)
+Indexer: 16000000 docs... (3267.139 sec)
+Indexer: 16100000 docs... (3288.187 sec)
+Indexer: 16200000 docs... (3308.636 sec)
+Indexer: 16300000 docs... (3331.793 sec)
+Indexer: 16400000 docs... (3361.889 sec)
+Indexer: 16500000 docs... (3382.984 sec)
+Indexer: 16600000 docs... (3403.377 sec)
+Indexer: 16700000 docs... (3421.58 sec)
+Indexer: 16800000 docs... (3438.26 sec)
+Indexer: 16900000 docs... (3461.172 sec)
+Indexer: 17000000 docs... (3481.774 sec)
+Indexer: 17100000 docs... (3502.942 sec)
+Indexer: 17200000 docs... (3520.829 sec)
+Indexer: 17300000 docs... (3545.191 sec)
+Indexer: 17400000 docs... (3567.079 sec)
+Indexer: 17500000 docs... (3584.813 sec)
+Indexer: 17600000 docs... (3607.955 sec)
+Indexer: 17700000 docs... (3634.539 sec)
+Failed: null
+Failed: null
+Indexer: 17800000 docs... (3652.001 sec)
+Indexer: 17900000 docs... (3668.336 sec)
+Indexer: 18000000 docs... (3687.331 sec)
+Indexer: 18100000 docs... (3708.115 sec)
+Indexer: 18200000 docs... (3728.854 sec)
+Indexer: 18300000 docs... (3747.13 sec)
+Indexer: 18400000 docs... (3766.626 sec)
+Failed: null
+Indexer: 18500000 docs... (3784.439 sec)
+Indexer: 18600000 docs... (3805.756 sec)
+Indexer: 18700000 docs... (3830.335 sec)
+Indexer: 18800000 docs... (3849.822 sec)
+Failed: null
+Failed: null
+Indexer: 18900000 docs... (3866.298 sec)
+Failed: null
+Indexer: 19000000 docs... (3885.463 sec)
+Indexer: 19100000 docs... (3904.084 sec)
+Indexer: 19200000 docs... (3924.996 sec)
+Indexer: 19300000 docs... (3946.056 sec)
+Indexer: 19400000 docs... (3968.267 sec)
+Indexer: 19500000 docs... (3985.569 sec)
+Indexer: 19600000 docs... (4006.313 sec)
+Indexer: 19700000 docs... (4027.204 sec)
+Indexer: 19800000 docs... (4045.172 sec)
+Indexer: 19900000 docs... (4065.944 sec)
+Failed: null
+Failed: null
+Failed: null
+Indexer: 20000000 docs... (4082.58 sec)
+Indexer: 20100000 docs... (4102.637 sec)
+Indexer: 20200000 docs... (4121.93 sec)
+Failed: null
+Indexer: 20300000 docs... (4138.809 sec)
+Indexer: 20400000 docs... (4155.213 sec)
+Indexer: 20500000 docs... (4172.738 sec)
+Indexer: 20600000 docs... (4193.059 sec)
+Indexer: 20700000 docs... (4219.836 sec)
+Indexer: 20800000 docs... (4237.891 sec)
+Indexer: 20900000 docs... (4255.692 sec)
+Indexer: 21000000 docs... (4274.01 sec)
+Indexer: 21100000 docs... (4291.882 sec)
+Indexer: 21200000 docs... (4313.281 sec)
+Failed: null
+Indexer: 21300000 docs... (4330.631 sec)
+Indexer: 21400000 docs... (4351.016 sec)
+Indexer: 21500000 docs... (4369.958 sec)
+Indexer: 21600000 docs... (4387.821 sec)
+Indexer: 21700000 docs... (4412.241 sec)
+Indexer: 21800000 docs... (4430.971 sec)
+Indexer: 21900000 docs... (4448.543 sec)
+Indexer: 22000000 docs... (4470.25 sec)
+Indexer: 22100000 docs... (4491.478 sec)
+Indexer: 22200000 docs... (4510.743 sec)
+Indexer: 22300000 docs... (4528.597 sec)
+Indexer: 22400000 docs... (4545.211 sec)
+Failed: null
+Failed: null
+Indexer: 22500000 docs... (4561.675 sec)
+Indexer: 22600000 docs... (4578.82 sec)
+Indexer: 22700000 docs... (4598.921 sec)
+Indexer: 22800000 docs... (4618.013 sec)
+Indexer: 22900000 docs... (4640.435 sec)
+Indexer: 23000000 docs... (4664.106 sec)
+Indexer: 23100000 docs... (4691.608 sec)
+Indexer: 23200000 docs... (4712.806 sec)
+Indexer: 23300000 docs... (4734.266 sec)
+Indexer: 23400000 docs... (4754.883 sec)
+Failed: null
+Indexer: 23500000 docs... (4773.606 sec)
+Indexer: 23600000 docs... (4797.276 sec)
+Indexer: 23700000 docs... (4821.046 sec)
+Indexer: 23800000 docs... (4841.184 sec)
+Indexer: 23900000 docs... (4862.083 sec)
+Indexer: 24000000 docs... (4884.206 sec)
+Indexer: 24100000 docs... (4905.676 sec)
+Indexer: 24200000 docs... (4930.386 sec)
+Indexer: 24300000 docs... (4951.611 sec)
+Indexer: 24400000 docs... (4972.923 sec)
+Indexer: 24500000 docs... (5001.121 sec)
+Indexer: 24600000 docs... (5023.229 sec)
+Indexer: 24700000 docs... (5043.671 sec)
+Indexer: 24800000 docs... (5060.763 sec)
+Failed: null
+Failed: null
+Indexer: 24900000 docs... (5077.724 sec)
+
+Indexer: indexing done (5077.855 sec); total 24900602 docs
+
+Indexer: commit multi (took 1.187 sec)
+
+Indexer: at close: _8xg(5.2.1):C9045941 _30v(5.2.1):C1562003 _87b(5.2.1):c1387858 _9j5(5.2.1):c1205286 _aax(5.2.1):c1368338 _b1j(5.2.1):c1176308 _ch7(5.2.1):c1082438 _bsg(5.2.1):c1231935 _dbh(5.2.1):c1413119 _e44(5.2.1):c1285464 _dew(5.2.1):c32773 _fkx(5.2.1):c1137002 _eib(5.2.1):c162157 _el3(5.2.1):c171086 _etf(5.2.1):c50722 _eyz(5.2.1):c203951 _f1r(5.2.1):c190780 _ffd(5.2.1):c176569 _fcv(5.2.1):c110559 _ftk(5.2.1):c103173 _g28(5.2.1):c85759 _fze(5.2.1):c139137 _fo1(5.2.1):c172084 _fqt(5.2.1):c183098 _g4y(5.2.1):c159246 _fwd(5.2.1):c208561 _g75(5.2.1):c164238 _g9y(5.2.1):c159024 _gle(5.2.1):c83726 _gib(5.2.1):c49320 _gat(5.2.1):c12399 _gft(5.2.1):c40546 _gh6(5.2.1):c11612 _ghh(5.2.1):c23501 _ghr(5.2.1):c23206 _gi1(5.2.1):c23282 _gil(5.2.1):c6597 _gj6(5.2.1):c6687 _glp(5.2.1):c6608 _glx(5.2.1):c11676 _gms(5.2.1):c13785 _gn2(5.2.1):c14714 _gmi(5.2.1):c14411 _gm7(5.2.1):c13815 _gnc(5.2.1):c15079 _gnw(5.2.1):c14350 _gnm(5.2.1):c13878 _goz(5.2.1):c13097 _gop(5.2.1):c12739 _gog(5.2.1):c13622 _gpa(5.2.1):c12664 _gpk(5.2.1):c12590 _gqe(5.2.1):c13254 _gpu(5.2.1):c12745 _gq4(5.2.1):c12635 _gqo(5.2.1):c12472 _gqg(5.2.1):c1142 _gqi(5.2.1):c1249 _gqh(5.2.1):c1464 _gqk(5.2.1):c1248 _gqj(5.2.1):c1250 _gql(5.2.1):c1342 _gqm(5.2.1):c1330 _gqp(5.2.1):c1200 _gqn(5.2.1):c1527 _gqw(5.2.1):c182 _gqv(5.2.1):c423 _gqt(5.2.1):c764 _gqr(5.2.1):c1106 _gqq(5.2.1):c1260 _gqs(5.2.1):c812 _gqx(5.2.1):c100 _gqu(5.2.1):c584
+
+Indexer: close took 39.504 sec
+
+Indexer: finished (5118.546 sec)
+
+Indexer: net bytes indexed 449547014049
+
+Indexer: 294.46327475133273 GB/hour plain text
+Evaluating...
+Results:
+-------
+runid                 	all	lucene
+num_q                 	all	49
+num_ret               	all	49000
+num_rel               	all	10617
+num_rel_ret           	all	6548
+map                   	all	0.2684
+gm_map                	all	0.1813
+Rprec                 	all	0.3351
+bpref                 	all	0.3369
+recip_rank            	all	0.6905
+iprec_at_recall_0.00  	all	0.7627
+iprec_at_recall_0.10  	all	0.5369
+iprec_at_recall_0.20  	all	0.4736
+iprec_at_recall_0.30  	all	0.3922
+iprec_at_recall_0.40  	all	0.3390
+iprec_at_recall_0.50  	all	0.2870
+iprec_at_recall_0.60  	all	0.1926
+iprec_at_recall_0.70  	all	0.1289
+iprec_at_recall_0.80  	all	0.0664
+iprec_at_recall_0.90  	all	0.0313
+iprec_at_recall_1.00  	all	0.0000
+P_5                   	all	0.5510
+P_10                  	all	0.5286
+P_15                  	all	0.5211
+P_20                  	all	0.5143
+P_30                  	all	0.4878
+P_100                 	all	0.4018
+P_200                 	all	0.3212
+P_500                 	all	0.2116
+P_1000                	all	0.1336
+-------
+runid                 	all	lucene
+num_q                 	all	50
+num_ret               	all	50000
+num_rel               	all	10407
+num_rel_ret           	all	7407
+map                   	all	0.3347
+gm_map                	all	0.2601
+Rprec                 	all	0.3867
+bpref                 	all	0.3783
+recip_rank            	all	0.7990
+iprec_at_recall_0.00  	all	0.8525
+iprec_at_recall_0.10  	all	0.6355
+iprec_at_recall_0.20  	all	0.5512
+iprec_at_recall_0.30  	all	0.4715
+iprec_at_recall_0.40  	all	0.4257
+iprec_at_recall_0.50  	all	0.3455
+iprec_at_recall_0.60  	all	0.2581
+iprec_at_recall_0.70  	all	0.1833
+iprec_at_recall_0.80  	all	0.1205
+iprec_at_recall_0.90  	all	0.0560
+iprec_at_recall_1.00  	all	0.0032
+P_5                   	all	0.6720
+P_10                  	all	0.6400
+P_15                  	all	0.5947
+P_20                  	all	0.5690
+P_30                  	all	0.5493
+P_100                 	all	0.4432
+P_200                 	all	0.3785
+P_500                 	all	0.2357
+P_1000                	all	0.1481
+-------
+runid                 	all	lucene
+num_q                 	all	50
+num_ret               	all	50000
+num_rel               	all	5893
+num_rel_ret           	all	4267
+map                   	all	0.3050
+gm_map                	all	0.2045
+Rprec                 	all	0.3462
+bpref                 	all	0.3533
+recip_rank            	all	0.7911
+iprec_at_recall_0.00  	all	0.8565
+iprec_at_recall_0.10  	all	0.6214
+iprec_at_recall_0.20  	all	0.4967
+iprec_at_recall_0.30  	all	0.4185
+iprec_at_recall_0.40  	all	0.3505
+iprec_at_recall_0.50  	all	0.2902
+iprec_at_recall_0.60  	all	0.2354
+iprec_at_recall_0.70  	all	0.1848
+iprec_at_recall_0.80  	all	0.1103
+iprec_at_recall_0.90  	all	0.0534
+iprec_at_recall_1.00  	all	0.0024
+P_5                   	all	0.6000
+P_10                  	all	0.5620
+P_15                  	all	0.5440
+P_20                  	all	0.5280
+P_30                  	all	0.4900
+P_100                 	all	0.3508
+P_200                 	all	0.2658
+P_500                 	all	0.1470
+P_1000                	all	0.0853
