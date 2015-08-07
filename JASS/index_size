@@ -1,0 +1,6 @@
+640292287	CIdoclist.bin
+19097276480	CIpostings.bin
+959880744	CIvocab.bin
+421169541	CIvocab_terms.bin
+21118619052	total
+du -abc CIdoclist.bin CIpostings.bin CIvocab.bin CIvocab_terms.bin

@@ -1,0 +1,23 @@
+200704	collection/lookup
+0	collection/storage
+459935744	collection/reverseLookup0
+150	collection/manifest
+862829186	collection/forwardLookup0
+1322969880	collection
+0	deleted
+604924296	index/4/documentStatistics
+1280327680	index/4/infrequentString
+0	index/4/fieldsFile
+4596317	index/4/frequentTerms
+5513216	index/4/frequentID
+5160960	index/4/frequentString
+47858857145	index/4/invertedFile
+1319723008	index/4/infrequentID
+464	index/4/manifest
+100820716	index/4/documentLengths
+39738890347	index/4/directFile
+90918818245	index/4
+90918822341	index
+243	manifest
+92241792464	total
+du -abc collection deleted index manifest

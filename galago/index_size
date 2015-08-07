@@ -1,3 +1,8 @@
-ubuntu@ip-10-156-45-180:/media/workspace/IR-Reproducibility/systems/galago$ du -chs gov2.galago/
-58G     gov2.galago/
-58G     total
+702	buildManifest.json
+13592967119	counts.krovetz
+167294732	lengths
+543650477	names
+429672103	names.reverse
+46549688099	postings.krovetz
+61283273232	total
+du -abc buildManifest.json counts.krovetz lengths names names.reverse postings.krovetz

@@ -1,0 +1,11 @@
+314	gov2-text.properties
+5319937136	gov2-text.pointers
+55160710	gov2-text.pointersoffsets
+2101486472	gov2-text.counts
+19097910	gov2-text.countsoffsets
+29620496024	gov2-text.positions
+46708249	gov2-text.positionsoffsets
+51200054	gov2-text.sizes
+260948275	gov2-text.termmap
+37475035144	total
+du -abc gov2-text.properties gov2-text.pointers gov2-text.pointersoffsets gov2-text.counts gov2-text.countsoffsets gov2-text.positions gov2-text.positionsoffsets gov2-text.sizes gov2-text.termmap

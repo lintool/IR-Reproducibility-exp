@@ -1,0 +1,4 @@
+12367676086	dg2_index.aspt
+14575076004	dg2_quantized.aspt
+26942752090	total
+du -abc dg2_index.aspt dg2_quantized.aspt
