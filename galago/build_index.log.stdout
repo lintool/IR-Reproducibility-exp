@@ -1,0 +1,47 @@
+Created executor: org.lemurproject.galago.tupleflow.forkmode.ForkModeStageExecutor@50b8ae8d
+2015-08-02 22:30:43.231:INFO:oejs.Server:jetty-7.6.8.v20121106
+2015-08-02 22:30:43.260:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:49088
+job-launched: inputSplit
+jobid: galago-inputSplit-0
+Stage inputSplit completed with 0 errors.
+job-launched: parsePostings
+jobid: galago-parsePostings-0
+jobid: galago-parsePostings-1
+jobid: galago-parsePostings-2
+jobid: galago-parsePostings-3
+jobid: galago-parsePostings-4
+jobid: galago-parsePostings-5
+jobid: galago-parsePostings-6
+jobid: galago-parsePostings-7
+jobid: galago-parsePostings-8
+jobid: galago-parsePostings-9
+jobid: galago-parsePostings-10
+jobid: galago-parsePostings-11
+jobid: galago-parsePostings-12
+jobid: galago-parsePostings-13
+jobid: galago-parsePostings-14
+jobid: galago-parsePostings-15
+Stage parsePostings completed with 0 errors.
+job-launched: writeCounts-krovetz
+jobid: galago-writeCounts-krovetz-0
+job-launched: writeNames
+jobid: galago-writeNames-0
+job-launched: writeFields
+jobid: galago-writeFields-0
+job-launched: writeLengths
+jobid: galago-writeLengths-0
+job-launched: writePostings-krovetz
+jobid: galago-writePostings-krovetz-0
+job-launched: writeNamesRev
+jobid: galago-writeNamesRev-0
+Stage writeFields completed with 0 errors.
+Stage writeLengths completed with 0 errors.
+Stage writeNames completed with 0 errors.
+Stage writeNamesRev completed with 0 errors.
+Stage writeCounts-krovetz completed with 0 errors.
+Stage writePostings-krovetz completed with 0 errors.
+Done Indexing.
+  - 26.57 Hours
+  - 1593.97 Minutes
+  - 95637.91 Seconds
+Documents Indexed: 25205179.
