@@ -1,0 +1,22 @@
+ubuntu@ip-10-156-45-180:/media/workspace/IR-Reproducibility/systems/MG4J$ du -chs gov2-text.{{counts,pointers}{,offsets},properties,sizes,termmap}
+2.0G    gov2-text.counts
+19M     gov2-text.countsoffsets
+5.0G    gov2-text.pointers
+53M     gov2-text.pointersoffsets
+4.0K    gov2-text.properties
+49M     gov2-text.sizes
+249M    gov2-text.termmap
+7.3G    total
+
+ubuntu@ip-10-156-45-180:/media/workspace/IR-Reproducibility/systems/MG4J$ du -chs gov2-text.{{counts,poin
+ters,positions}{,offsets},properties,sizes,termmap}
+2.0G    gov2-text.counts
+19M     gov2-text.countsoffsets
+5.0G    gov2-text.pointers
+53M     gov2-text.pointersoffsets
+28G     gov2-text.positions
+45M     gov2-text.positionsoffsets
+4.0K    gov2-text.properties
+49M     gov2-text.sizes
+249M    gov2-text.termmap
+35G     total

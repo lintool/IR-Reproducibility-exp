@@ -1,0 +1,1090 @@
+mg4j-big-5.4.1/README
+mg4j-big-5.4.1/CHANGES
+mg4j-big-5.4.1/COPYING
+mg4j-big-5.4.1/COPYING.LESSER
+mg4j-big-5.4.1/mg4j-big-5.4.1.jar
+mg4j-big-5.4.1/docs/
+mg4j-big-5.4.1/docs/serialized-form.html
+mg4j-big-5.4.1/docs/deprecated-list.html
+mg4j-big-5.4.1/docs/package-list
+mg4j-big-5.4.1/docs/index.html
+mg4j-big-5.4.1/docs/help-doc.html
+mg4j-big-5.4.1/docs/allclasses-frame.html
+mg4j-big-5.4.1/docs/script.js
+mg4j-big-5.4.1/docs/allclasses-noframe.html
+mg4j-big-5.4.1/docs/overview-frame.html
+mg4j-big-5.4.1/docs/stylesheet.css
+mg4j-big-5.4.1/docs/index-all.html
+mg4j-big-5.4.1/docs/constant-values.html
+mg4j-big-5.4.1/docs/overview-tree.html
+mg4j-big-5.4.1/docs/it/
+mg4j-big-5.4.1/docs/it/unimi/
+mg4j-big-5.4.1/docs/it/unimi/di/
+mg4j-big-5.4.1/docs/it/unimi/di/big/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/VirtualDocumentResolver.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/PartitionLexically.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Scan.IndexingType.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Scan.Completeness.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Combine.IndexType.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/DumpVirtualDocumentFragments.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Merge.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/URLMPHVirtualDocumentResolver.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Paste.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/ScanMetadata.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Scan.VirtualDocumentFragment.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/IndexBuilder.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Scan.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Scan.PayloadAccumulator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/PartitionDocumentally.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Combine.GammaCodedIntIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Combine.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/PartitionLexically.LongWordInputBitStream.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/Concatenate.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/tool/ComputeNumBitsPositions.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/MarkingMutableString.EscapeStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/Query.Command.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/Query.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/QueryParser.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/SimpleCharStream.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/SimpleParser.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/Token.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/TokenMgrError.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/ParseException.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/QueryParserException.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/SimpleParserTokenManager.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/parser/SimpleParserConstants.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/Marker.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/IntervalSelector.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/HttpQueryServer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/SelectedInterval.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/QueryEngine.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/TextMarker.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/GenericItem.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/HttpFileServer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/HelpPage.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/BrowseItem.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/InputStreamItem.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/Query.OutputType.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/QueryServlet.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/SelectedInterval.IntervalType.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/MarkingMutableString.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/FileSystemItem.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/False.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Inclusion.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Align.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/True.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Query.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/AbstractTermExpander.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Containment.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Term.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Select.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Or.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Remap.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Queries.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/And.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Not.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/MultiTerm.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/CheckForSelectQueryVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/QueryBuilderVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Annotation.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/AbstractQueryBuilderVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Consecutive.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Composite.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/MultiIndexTermExpander.ExpanderVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/LowPass.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/MultiIndexTermExpander.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Prefix.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/OrderedAnd.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/AbstractTermExpander.ExpanderVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/QueryTransformer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Range.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Weight.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/QueryBuilderVisitorException.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/nodes/Difference.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/query/ResultItem.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/parser/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/parser/callback/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/parser/callback/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/parser/callback/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/parser/callback/AnchorExtractor.Anchor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/parser/callback/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/parser/callback/AnchorExtractor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/MimeTypeResolver.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/SemiExternalOffsetBigList.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/DocumentSequenceImmutableSequentialGraph.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/util/MG4JClassParser.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/AbstractDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/WikipediaDocumentSequence.MetadataKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/AbstractDocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/JdbcDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/SubsetDocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/SimpleCompressedDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ConcatenatedDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/SimpleCompressedDocumentCollection.FrequencyCodec.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DocumentFactory.FieldType.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/CompositeDocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ReplicatedDocumentFactory.ReplicatedDocument.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ZipDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/WikipediaDocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/TRECHeaderDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/WikipediaDocumentSequence.WikipediaHeaderFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/WikipediaDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DispatchingDocumentFactory.StringBasedDispatchingStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/AbstractDocument.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ZipDocumentCollection.ZipFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/SubDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/PropertyBasedDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/TRECDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/FileSetDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ZipDocumentCollectionBuilder.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/IdentityDocumentFactory.MetadataKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/TRECDocumentCollection.TRECDocumentDescriptor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ReplicatedDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DispatchingDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/Document.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DispatchingDocumentFactory.MetadataKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/CompositeDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/CompositeDocumentFactory.CompositeDocument.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ConcatenatedDocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/PdfDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/AbstractSimpleTikaDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/TextDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/TikaField.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/OpenDocumentDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/GreedyTikaField.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/AutoDetectDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/EPUBDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/RTFDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/MSOfficeDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/OOXMLDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/AbstractTikaDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/XMLDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/tika/HtmlDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/AbstractDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/PropertyBasedDocumentFactory.MetadataKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/IdentityDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/HtmlDocumentFactory.HtmlDocument.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/CSVDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/WikipediaDocumentSequence.SignedRedirectedStringMap.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/AbstractDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/AbstractDocumentCollection.PropertyKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/InputStreamDocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/WarcDocumentSequence.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/SimpleCompressedDocumentCollectionBuilder.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/HtmlDocumentFactory.MetadataKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/WikipediaDocumentCollection.WhitespaceWordReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DocumentCollectionBuilder.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/DispatchingDocumentFactory.DispatchingStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/JdbcDocumentCollection.JdbcDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/SubDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/ZipDocumentCollection.PropertyKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/HtmlDocumentFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/document/JavamailDocumentCollection.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamIndexReader.BitStreamIndexReaderIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/DiskBasedIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamHPIndexWriter.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/VariableQuantumIndexWriter.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/IntegerPayload.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/Payload.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/AbstractPayload.ComparatorPayloadPredicate.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/AbstractPayload.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/payload/DatePayload.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/Index.EmptyIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/SkipBitStreamIndexWriter.TowerData.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/InMemoryIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexWriter.Accumulator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/MultiTermIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.LongWordBitReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamHPIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexWriter.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamHPIndexWriter.TowerData.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.RankedIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/CompressionFlags.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/SwedishStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/DutchStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/PortugueseStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/HungarianStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/ItalianStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/PorterStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/EnglishStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/AbstractSnowballTermProcessor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/Among.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/German2Stemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/KraaijPohlmannStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/NorwegianStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/FrenchStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/GermanStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/FinnishStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/LovinsStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/SpanishStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/snowball/DanishStemmer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/AbstractIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamHPIndexReader.BitStreamHPIndexReaderIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/Index.UriKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/IndexIterators.PositionsIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/IndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.EliasFanoPointerReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/SkipGammaDeltaGammaDeltaBitStreamIndexReader.BitStreamIndexReaderIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/GammaDeltaGammaDeltaBitStreamIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/GammaDeltaGammaDeltaBitStreamHPIndexReader.BitStreamHPIndexReaderIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/GammaDeltaGammaDeltaBitStreamHPIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/GammaDeltaGammaDeltaBitStreamIndexReader.BitStreamIndexReaderIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/wired/SkipGammaDeltaGammaDeltaBitStreamIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/InMemoryHPIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamHPIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/IndexIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.PositionReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/MemoryMappedIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndex.PropertyKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.EliasFanoIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/DowncaseTermProcessor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/MemoryMappedHPIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.PointerReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/CompressionFlags.Coding.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/TooManyTermsException.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/FileHPIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/IndexIterators.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/TermProcessor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexWriter.LongWordOutputBitStream.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/NullTermProcessor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/FileIndex.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.CountReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/Index.PropertyKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.AbstractQuasiSuccinctIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamIndex.PropertyKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/SkipBitStreamIndexWriter.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/PartitioningStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalConcatenatedClusterIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/AbstractIndexClusterIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/LexicalClusterIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/IndexCluster.PropertyKeys.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalClusteringStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/ContiguousDocumentalStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalMergedClusterIndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalMergedClusterDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/LexicalClusteringStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/FrequencyLexicalStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/IdentityDocumentalStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalMergedCluster.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalConcatenatedCluster.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/LexicalStrategies.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/ContiguousLexicalStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalCluster.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalPartitioningStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/IndexCluster.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalStrategies.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/LexicalCluster.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/ClusteringStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalConcatenatedClusterDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/DocumentalClusterIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/ChainedLexicalClusteringStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/cluster/LexicalPartitioningStrategy.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/AbstractBitStreamIndexWriter.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/CompressionFlags.Component.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/Index.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/CachingOutputBitStream.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/IndexWriter.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/AbstractIndexReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/BitStreamIndexWriter.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/IndexIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexReader.RankedPointerReader.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/index/QuasiSuccinctIndexWriter.LongWordCache.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/OrDocumentIterator.OrIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/OrDocumentIterator.OrIndexIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractIntersectionDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AnnotationDocumentIterator.AnnotationIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AnnotationDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/TrueDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/ContainmentDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/DifferenceDocumentIterator.DifferenceIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractUnionDocumentIterator.IntHeapSemiIndirectPriorityQueue.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/ConsecutiveDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/FalseDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/DocumentIterators.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/AbstractAggregator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/ConstantScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/DecreasingDocumentRankScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/BM25FScorer.Visitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/ClarkeCormackScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/DocumentScoreInfo.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/DelegatingScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/TfIdfScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/Scorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/CountScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/DocumentRankScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/BM25Scorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/BM25FScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/ScoredDocumentBoundedSizeQueue.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/AbstractScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/LinearAggregator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/AbstractWeightedScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/score/VignaScorer.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/LowPassDocumentIterator.LowPassIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractCompositeDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/RemappingDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/PayloadPredicateDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractUnionDocumentIterator.LongHeapSemiIndirectPriorityQueue.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/ConsecutiveDocumentIterator.ConsecutiveIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/Index2IntervalIteratorMap.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/OrderedAndDocumentIterator.OrderedAndIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AlignDocumentIterator.AlignIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/NotDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/OrDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/LowPassDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/TermCollectionVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/TrueTermsCollectionVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/AbstractDocumentIteratorVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/DocumentIteratorVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/CounterSetupVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/visitor/CounterCollectionVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/DocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AndDocumentIterator.AndIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/CachingDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractCompositeDocumentIterator.AbstractCompositeIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractIntervalDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractCompositeDocumentIterator.AbstractCompositeIndexIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AlignDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/IntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/InclusionDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/IntervalIterators.FakeIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/DifferenceDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/IntervalIterators.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AndDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractUnionDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/ConsecutiveDocumentIterator.ConsecutiveIndexIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/ContainmentDocumentIterator.ContainmentIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/DocumentIteratorBuilderVisitor.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/OrderedAndDocumentIterator.OrderedAndIndexIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/OrderedAndDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AndDocumentIterator.AndIndexIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AbstractOrderedIntervalDocumentIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/InclusionDocumentIterator.InclusionIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/search/AlignDocumentIterator.AlignIndexIntervalIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/HadoopFileSystemIOFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/ArithmeticDecoder.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/IOFactories.FileLinesIterable.FileLinesIterator.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/InterpolativeCoding.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/IOFactory.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/IOFactories.FileLinesIterable.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/ArithmeticCoder.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/ByteArrayPostingList.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/io/IOFactories.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/test/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/test/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/test/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/test/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/test/Verifier.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/examples/
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/examples/package-tree.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/examples/package-summary.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/examples/package-frame.html
+mg4j-big-5.4.1/docs/it/unimi/di/big/mg4j/examples/RunQuery.html
+mg4j-big-5.4.1/docs/overview-summary.html
+mg4j-big-5.4.1/manual/manual.xml
+mg4j-big-5.4.1/manual/manual.pdf
+mg4j-big-5.4.1/manual/manual/
+mg4j-big-5.4.1/manual/manual/manual.proc
+commons-lang-2.6.jar
+netcdf4-4.5.5.jar
+bliki-core-3.0.19.jar
+opennlp-tools-1.5.3.jar
+wstx-asl-3.2.6.jar
+vorbis-java-tika-0.6.jar
+jets3t-0.6.1.jar
+commons-math-2.1.jar
+jaxb-api-2.2.2.jar
+hadoop-annotations-0.23.6.jar
+servlet-api-2.5-20081211.jar
+jaxb-impl-2.2.3-1.jar
+httpclient-4.5.jar
+commons-compress-1.9.jar
+commons-net-1.4.1.jar
+boilerpipe-1.1.0.jar
+fastutil-7.0.6.jar
+log4j-over-slf4j-1.7.12.jar
+netty-3.2.4.Final.jar
+commons-lang3-3.3.2.jar
+jasper-compiler-5.5.23.jar
+jackson-xc-1.8.8.jar
+oro-2.0.8.jar
+xmpcore-5.1.2.jar
+commons-codec-1.9.jar
+bcprov-jdk15on-1.52.jar
+poi-ooxml-3.12.jar
+java-libpst-0.8.1.jar
+jsoup-1.7.2.jar
+jsap-2.1.jar
+colt-1.2.0.jar
+maven-scm-provider-svnexe-1.4.jar
+bzip2-0.9.1.jar
+concurrent-1.3.4.jar
+commons-el-1.0.jar
+sis-utility-0.5.jar
+juniversalchardet-1.0.3.jar
+fontbox-1.8.9.jar
+commons-httpclient-3.1.jar
+webgraph-big-3.3.6.jar
+regexp-1.3.jar
+ehcache-core-2.6.2.jar
+aspectjrt-1.8.0.jar
+sis-netcdf-0.5.jar
+sis-storage-0.5.jar
+maven-scm-provider-svn-commons-1.4.jar
+avro-1.5.3.jar
+mail-1.5.0-b01.jar
+tagsoup-1.2.1.jar
+dsiutils-2.2.4.jar
+commons-fileupload-1.0.jar
+asm-debug-all-4.1.jar
+logback-classic-1.1.3.jar
+opennlp-maxent-3.0.3.jar
+c3p0-0.9.1.1.jar
+commons-vfs2-2.0.jar
+velocity-1.7.jar
+pdfbox-1.8.9.jar
+jhighlight-1.0.2.jar
+collections-generic-4.01.jar
+mx4j-tools-3.0.1.jar
+cdm-4.5.5.jar
+umlgraph-5.6.6.jar
+jj2000-5.2.jar
+sux4j-3.2.2.jar
+snappy-java-1.0.3.2.jar
+vorbis-java-core-0.6.jar
+bcpkix-jdk15on-1.52.jar
+jung-algorithms-2.0.1.jar
+mysql-connector-java-5.1.36.jar
+je-5.0.73.jar
+velocity-dep-1.4.jar
+struts-1.2.9.jar
+commons-validator-1.3.1.jar
+isoparser-1.0.2.jar
+tika-core-1.9.jar
+jcip-annotations-1.0.jar
+httpmime-4.2.6.jar
+apache-mime4j-core-0.7.2.jar
+jgroups-3.6.2.Final.jar
+logback-core-1.1.3.jar
+jersey-server-1.8.jar
+jmatio-1.0.jar
+plexus-utils-1.5.6.jar
+commons-collections-20040616.jar
+httpcore-4.4.1.jar
+paranamer-2.3.jar
+activation-1.1.jar
+poi-3.12.jar
+jempbox-1.8.9.jar
+httpservices-4.5.5.jar
+jericho-html-dev-20131217.jar
+jettison-1.1.jar
+bubing-0.9.11.jar
+xmlenc-0.52.jar
+jdom2-2.0.4.jar
+avro-ipc-1.5.3.jar
+webgraph-3.4.3.jar
+jwnl-1.3.3.jar
+jetty-util-6.1.26.jar
+geoapi-3.0.0.jar
+jdiff-1.0.9.jar
+commons-exec-1.3.jar
+commons-csv-1.0.jar
+jung-io-2.0.1.jar
+jsp-api-2.1.jar
+sis-referencing-0.5.jar
+junit-4.11.jar
+javacc-5.0.jar
+jcl-over-slf4j-1.7.12.jar
+rome-1.0.jar
+slf4j-api-1.7.12.jar
+jackson-jaxrs-1.8.8.jar
+commons-cli-1.2.jar
+antlr-2.7.2.jar
+sslext-1.2-0.jar
+kfs-0.3.jar
+jna-4.1.0.jar
+jdom-1.0.jar
+core-3.1.1.jar
+jai4j-2.0.11.jar
+protobuf-java-2.5.0.jar
+hadoop-common-0.23.6.jar
+tika-parsers-1.9.jar
+sis-metadata-0.5.jar
+junrar-0.7.jar
+commons-io-2.4.jar
+pojo-mbean-1.1.jar
+xz-1.5.jar
+maven-scm-api-1.4.jar
+guava-19.0-rc1.jar
+asm-3.2.jar
+jetty-6.1.26.jar
+jackson-mapper-asl-1.8.8.jar
+velocity-tools-1.3.jar
+commons-beanutils-1.8.3.jar
+joda-time-2.2.jar
+bcmail-jdk15on-1.52.jar
+poi-scratchpad-3.12.jar
+jcommander-1.35.jar
+hamcrest-core-1.3.jar
+commons-logging-api-1.1.jar
+commons-configuration-1.9.jar
+apache-mime4j-dom-0.7.2.jar
+quartz-2.2.0.jar
+jersey-json-1.8.jar
+metadata-extractor-2.8.0.jar
+hadoop-auth-0.23.6.jar
+commons-digester-2.1.jar
+stax-api-1.0.1.jar
+xalan-2.5.1.jar
+jung-api-2.0.1.jar
+commons-math3-3.5.jar
+grib-4.5.5.jar
+json-simple-1.1.1.jar
+poi-ooxml-schemas-3.12.jar
+jasper-runtime-5.5.23.jar
+jsr-275-0.9.3.jar
+mx4j-3.0.2.jar
+udunits-4.5.5.jar
+jersey-core-1.8.jar
+dnsjava-2.1.7.jar
+jackson-core-asl-1.8.8.jar
+commons-logging-1.2.jar
+xmlbeans-2.6.0.jar
+2015-08-05 01:22:31,802 884 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,827 862 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,833 934 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,866 1013 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,876 908 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,888 955 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,909 887 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,916 990 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:31,975 767 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:36,883 5898 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:36,902 5938 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:36,976 5884 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:36,980 6007 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:37,067 5779 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:37,108 6129 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:37,133 6041 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Parsing GZip files
+2015-08-05 01:22:41,857 10939 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 70 files, 10s, 6.97 files/s, 143.43 ms/file; 4% done, 3m 50s to end
+2015-08-05 01:22:41,919 11020 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 79 files, 10s, 7.84 files/s, 127.52 ms/file; 4% done, 3m 24s to end
+2015-08-05 01:22:41,949 10984 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 87 files, 10s, 8.60 files/s, 116.22 ms/file; 5% done, 3m 5s to end
+2015-08-05 01:22:41,979 11011 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 79 files, 10s, 7.83 files/s, 127.65 ms/file; 4% done, 3m 24s to end
+2015-08-05 01:22:41,982 11049 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 64 files, 10s, 6.35 files/s, 157.53 ms/file; 3% done, 4m 13s to end
+2015-08-05 01:22:41,994 11141 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 70 files, 10s, 6.92 files/s, 144.53 ms/file; 4% done, 3m 52s to end
+2015-08-05 01:22:42,011 10989 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 75 files, 10s, 7.43 files/s, 134.51 ms/file; 4% done, 3m 35s to end
+2015-08-05 01:22:42,010 11084 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 68 files, 10s, 6.75 files/s, 148.19 ms/file; 4% done, 3m 58s to end
+2015-08-05 01:22:42,115 10907 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 64 files, 10s, 6.32 files/s, 158.17 ms/file; 3% done, 4m 14s to end
+2015-08-05 01:22:46,939 15975 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 68 files, 10s, 6.78 files/s, 147.43 ms/file; 4% done, 3m 57s to end
+2015-08-05 01:22:47,027 16054 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 62 files, 10s, 6.18 files/s, 161.84 ms/file; 3% done, 4m 21s to end
+2015-08-05 01:22:47,037 16052 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 61 files, 10s, 6.03 files/s, 165.89 ms/file; 3% done, 4m 27s to end
+2015-08-05 01:22:47,088 15996 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 63 files, 10s, 6.24 files/s, 160.32 ms/file; 3% done, 4m 18s to end
+2015-08-05 01:22:47,164 16185 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 70 files, 10s, 6.97 files/s, 143.44 ms/file; 4% done, 3m 50s to end
+2015-08-05 01:22:47,195 15907 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 66 files, 10s, 6.52 files/s, 153.26 ms/file; 3% done, 4m 6s to end
+2015-08-05 01:22:47,230 16138 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 69 files, 10s, 6.84 files/s, 146.12 ms/file; 4% done, 3m 55s to end
+2015-08-05 01:22:51,861 20943 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 130 files, 20s, 6.48 files/s, 154.26 ms/file; 7% done, 4m 0s to end
+2015-08-05 01:22:52,021 21056 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 161 files, 20s, 7.97 files/s, 125.41 ms/file; 9% done, 3m 11s to end
+2015-08-05 01:22:52,028 21129 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 146 files, 20s, 7.23 files/s, 138.30 ms/file; 8% done, 3m 33s to end
+2015-08-05 01:22:52,041 21188 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 139 files, 20s, 6.89 files/s, 145.12 ms/file; 8% done, 3m 44s to end
+2015-08-05 01:22:52,080 21147 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 131 files, 20s, 6.49 files/s, 154.10 ms/file; 7% done, 3m 59s to end
+2015-08-05 01:22:52,091 21123 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 149 files, 20s, 7.37 files/s, 135.64 ms/file; 8% done, 3m 28s to end
+2015-08-05 01:22:52,104 21082 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 140 files, 20s, 6.93 files/s, 144.21 ms/file; 8% done, 3m 43s to end
+2015-08-05 01:22:52,136 21210 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 138 files, 20s, 6.83 files/s, 146.50 ms/file; 8% done, 3m 47s to end
+2015-08-05 01:22:52,174 20966 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 130 files, 20s, 6.44 files/s, 155.35 ms/file; 7% done, 4m 2s to end
+2015-08-05 01:22:56,978 26014 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 140 files, 20s, 6.97 files/s, 143.37 ms/file; 8% done, 3m 42s to end
+2015-08-05 01:22:57,080 26095 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 122 files, 20s, 6.04 files/s, 165.43 ms/file; 7% done, 4m 18s to end
+2015-08-05 01:22:57,094 26121 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 127 files, 20s, 6.32 files/s, 158.34 ms/file; 7% done, 4m 7s to end
+2015-08-05 01:22:57,226 26247 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 142 files, 20s, 7.06 files/s, 141.63 ms/file; 8% done, 3m 39s to end
+2015-08-05 01:22:57,230 26138 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 131 files, 20s, 6.47 files/s, 154.58 ms/file; 7% done, 4m 0s to end
+2015-08-05 01:22:57,243 26151 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 140 files, 20s, 6.96 files/s, 143.59 ms/file; 8% done, 3m 42s to end
+2015-08-05 01:22:57,319 26031 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 134 files, 20s, 6.62 files/s, 151.10 ms/file; 7% done, 3m 54s to end
+2015-08-05 01:23:02,020 31102 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 192 files, 30s, 6.35 files/s, 157.36 ms/file; 11% done, 3m 56s to end
+2015-08-05 01:23:02,034 31135 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 214 files, 30s, 7.09 files/s, 141.11 ms/file; 12% done, 3m 28s to end
+2015-08-05 01:23:02,090 31237 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 208 files, 30s, 6.88 files/s, 145.29 ms/file; 12% done, 3m 35s to end
+2015-08-05 01:23:02,095 31130 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 235 files, 30s, 7.77 files/s, 128.78 ms/file; 13% done, 3m 7s to end
+2015-08-05 01:23:02,116 31183 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 197 files, 30s, 6.52 files/s, 153.42 ms/file; 11% done, 3m 49s to end
+2015-08-05 01:23:02,147 31221 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 207 files, 30s, 6.85 files/s, 146.03 ms/file; 12% done, 3m 36s to end
+2015-08-05 01:23:02,180 31212 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 219 files, 30s, 7.23 files/s, 138.35 ms/file; 12% done, 3m 23s to end
+2015-08-05 01:23:02,181 31159 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 203 files, 30s, 6.71 files/s, 149.09 ms/file; 11% done, 3m 42s to end
+2015-08-05 01:23:02,295 31087 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 195 files, 30s, 6.43 files/s, 155.46 ms/file; 11% done, 3m 52s to end
+2015-08-05 01:23:07,014 36050 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 212 files, 30s, 7.04 files/s, 142.01 ms/file; 12% done, 3m 30s to end
+2015-08-05 01:23:07,143 36158 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 182 files, 30s, 6.02 files/s, 166.19 ms/file; 10% done, 4m 10s to end
+2015-08-05 01:23:07,203 36230 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 193 files, 30s, 6.39 files/s, 156.58 ms/file; 11% done, 3m 54s to end
+2015-08-05 01:23:07,251 36159 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 212 files, 30s, 7.04 files/s, 142.03 ms/file; 12% done, 3m 30s to end
+2015-08-05 01:23:07,264 36285 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 214 files, 30s, 7.10 files/s, 140.89 ms/file; 12% done, 3m 28s to end
+2015-08-05 01:23:07,331 36239 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 199 files, 30s, 6.56 files/s, 152.52 ms/file; 11% done, 3m 47s to end
+2015-08-05 01:23:07,446 36158 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 202 files, 30s, 6.65 files/s, 150.37 ms/file; 11% done, 3m 44s to end
+2015-08-05 01:23:12,098 41199 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 278 files, 40s, 6.90 files/s, 144.82 ms/file; 16% done, 3m 25s to end
+2015-08-05 01:23:12,102 41249 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 277 files, 40s, 6.88 files/s, 145.25 ms/file; 16% done, 3m 25s to end
+2015-08-05 01:23:12,110 41192 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 254 files, 40s, 6.30 files/s, 158.68 ms/file; 14% done, 3m 48s to end
+2015-08-05 01:23:12,175 41249 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 276 files, 40s, 6.86 files/s, 145.86 ms/file; 16% done, 3m 26s to end
+2015-08-05 01:23:12,189 41224 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 309 files, 40s, 7.66 files/s, 130.61 ms/file; 18% done, 3m 1s to end
+2015-08-05 01:23:12,250 41317 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 264 files, 40s, 6.54 files/s, 152.87 ms/file; 15% done, 3m 38s to end
+2015-08-05 01:23:12,256 41234 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 267 files, 40s, 6.62 files/s, 151.09 ms/file; 15% done, 3m 35s to end
+2015-08-05 01:23:12,280 41312 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 290 files, 40s, 7.18 files/s, 139.31 ms/file; 17% done, 3m 15s to end
+2015-08-05 01:23:12,382 41174 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 261 files, 40s, 6.46 files/s, 154.80 ms/file; 15% done, 3m 42s to end
+2015-08-05 01:23:17,106 46142 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 284 files, 40s, 7.06 files/s, 141.55 ms/file; 16% done, 3m 19s to end
+2015-08-05 01:23:17,208 46223 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 243 files, 40s, 6.03 files/s, 165.89 ms/file; 14% done, 4m 0s to end
+2015-08-05 01:23:17,273 46181 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 284 files, 40s, 7.08 files/s, 141.31 ms/file; 16% done, 3m 19s to end
+2015-08-05 01:23:17,280 46307 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 258 files, 40s, 6.40 files/s, 156.19 ms/file; 15% done, 3m 44s to end
+2015-08-05 01:23:17,340 46361 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 286 files, 40s, 7.11 files/s, 140.65 ms/file; 16% done, 3m 18s to end
+2015-08-05 01:23:17,362 46270 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 267 files, 40s, 6.61 files/s, 151.24 ms/file; 15% done, 3m 35s to end
+2015-08-05 01:23:17,593 46305 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 270 files, 40s, 6.66 files/s, 150.08 ms/file; 15% done, 3m 33s to end
+2015-08-05 01:23:22,110 51192 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 316 files, 50s, 6.28 files/s, 159.19 ms/file; 18% done, 3m 39s to end
+2015-08-05 01:23:22,168 51269 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 342 files, 50s, 6.79 files/s, 147.17 ms/file; 20% done, 3m 19s to end
+2015-08-05 01:23:22,191 51265 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 345 files, 50s, 6.86 files/s, 145.72 ms/file; 20% done, 3m 16s to end
+2015-08-05 01:23:22,216 51363 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 346 files, 50s, 6.87 files/s, 145.51 ms/file; 20% done, 3m 16s to end
+2015-08-05 01:23:22,246 51281 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 383 files, 50s, 7.60 files/s, 131.63 ms/file; 22% done, 2m 52s to end
+2015-08-05 01:23:22,265 51243 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 329 files, 50s, 6.53 files/s, 153.04 ms/file; 19% done, 3m 29s to end
+2015-08-05 01:23:22,306 51373 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 331 files, 50s, 6.57 files/s, 152.31 ms/file; 19% done, 3m 27s to end
+2015-08-05 01:23:22,374 51406 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 360 files, 50s, 7.13 files/s, 140.26 ms/file; 21% done, 3m 7s to end
+2015-08-05 01:23:22,407 51199 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 324 files, 50s, 6.43 files/s, 155.64 ms/file; 19% done, 3m 33s to end
+2015-08-05 01:23:27,166 56202 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 356 files, 50s, 7.08 files/s, 141.18 ms/file; 20% done, 3m 9s to end
+2015-08-05 01:23:27,227 56242 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 303 files, 50s, 6.02 files/s, 166.11 ms/file; 17% done, 3m 51s to end
+2015-08-05 01:23:27,345 56366 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 358 files, 50s, 7.13 files/s, 140.31 ms/file; 21% done, 3m 7s to end
+2015-08-05 01:23:27,371 56279 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 357 files, 50s, 7.11 files/s, 140.70 ms/file; 20% done, 3m 8s to end
+2015-08-05 01:23:27,400 56427 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 323 files, 50s, 6.41 files/s, 156.09 ms/file; 18% done, 3m 34s to end
+2015-08-05 01:23:27,419 56327 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 334 files, 50s, 6.62 files/s, 151.01 ms/file; 19% done, 3m 25s to end
+2015-08-05 01:23:27,729 56441 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 338 files, 50s, 6.67 files/s, 149.88 ms/file; 19% done, 3m 23s to end
+2015-08-05 01:23:32,163 61245 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 378 files, 1m 0s, 6.26 files/s, 159.67 ms/file; 22% done, 3m 30s to end
+2015-08-05 01:23:32,275 61349 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 415 files, 1m 0s, 6.88 files/s, 145.44 ms/file; 24% done, 3m 6s to end
+2015-08-05 01:23:32,290 61437 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 414 files, 1m 0s, 6.85 files/s, 145.94 ms/file; 24% done, 3m 7s to end
+2015-08-05 01:23:32,298 61399 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 409 files, 1m 0s, 6.76 files/s, 147.83 ms/file; 24% done, 3m 10s to end
+2015-08-05 01:23:32,316 61351 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 457 files, 1m 0s, 7.56 files/s, 132.35 ms/file; 26% done, 2m 44s to end
+2015-08-05 01:23:32,369 61436 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 398 files, 1m 0s, 6.58 files/s, 151.95 ms/file; 23% done, 3m 17s to end
+2015-08-05 01:23:32,401 61379 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 394 files, 1m 0s, 6.51 files/s, 153.52 ms/file; 23% done, 3m 19s to end
+2015-08-05 01:23:32,413 61445 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 429 files, 1m 0s, 7.09 files/s, 141.10 ms/file; 25% done, 2m 58s to end
+2015-08-05 01:23:32,517 61309 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 388 files, 1m 0s, 6.41 files/s, 156.03 ms/file; 22% done, 3m 24s to end
+2015-08-05 01:23:37,299 66335 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 429 files, 1m 0s, 7.10 files/s, 140.78 ms/file; 25% done, 2m 58s to end
+2015-08-05 01:23:37,332 66347 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 364 files, 1m 0s, 6.02 files/s, 166.03 ms/file; 21% done, 3m 41s to end
+2015-08-05 01:23:37,345 66366 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 430 files, 1m 0s, 7.14 files/s, 140.07 ms/file; 25% done, 2m 57s to end
+2015-08-05 01:23:37,384 66292 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 428 files, 1m 0s, 7.10 files/s, 140.76 ms/file; 25% done, 2m 58s to end
+2015-08-05 01:23:37,534 66442 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 402 files, 1m 0s, 6.64 files/s, 150.63 ms/file; 23% done, 3m 15s to end
+2015-08-05 01:23:37,538 66565 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 389 files, 1m 0s, 6.42 files/s, 155.67 ms/file; 22% done, 3m 23s to end
+2015-08-05 01:23:37,863 66575 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 406 files, 1m 0s, 6.68 files/s, 149.73 ms/file; 23% done, 3m 13s to end
+2015-08-05 01:23:42,225 71307 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 437 files, 1m 10s, 6.21 files/s, 161.14 ms/file; 25% done, 3m 23s to end
+2015-08-05 01:23:42,312 71386 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 485 files, 1m 10s, 6.89 files/s, 145.14 ms/file; 28% done, 2m 55s to end
+2015-08-05 01:23:42,407 71554 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 482 files, 1m 10s, 6.83 files/s, 146.34 ms/file; 28% done, 2m 57s to end
+2015-08-05 01:23:42,409 71444 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 531 files, 1m 10s, 7.52 files/s, 132.92 ms/file; 31% done, 2m 35s to end
+2015-08-05 01:23:42,413 71391 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 458 files, 1m 10s, 6.50 files/s, 153.93 ms/file; 26% done, 3m 10s to end
+2015-08-05 01:23:42,424 71525 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 475 files, 1m 10s, 6.73 files/s, 148.61 ms/file; 27% done, 3m 1s to end
+2015-08-05 01:23:42,445 71512 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 465 files, 1m 10s, 6.59 files/s, 151.73 ms/file; 27% done, 3m 6s to end
+2015-08-05 01:23:42,461 71493 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 499 files, 1m 10s, 7.07 files/s, 141.44 ms/file; 29% done, 2m 49s to end
+2015-08-05 01:23:42,627 71419 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 452 files, 1m 10s, 6.40 files/s, 156.30 ms/file; 26% done, 3m 14s to end
+2015-08-05 01:23:47,352 76388 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 500 files, 1m 10s, 7.10 files/s, 140.89 ms/file; 29% done, 2m 48s to end
+2015-08-05 01:23:47,400 76421 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 502 files, 1m 10s, 7.14 files/s, 140.01 ms/file; 29% done, 2m 47s to end
+2015-08-05 01:23:47,402 76310 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 499 files, 1m 10s, 7.10 files/s, 140.81 ms/file; 29% done, 2m 48s to end
+2015-08-05 01:23:47,416 76431 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 424 files, 1m 10s, 6.01 files/s, 166.32 ms/file; 24% done, 3m 31s to end
+2015-08-05 01:23:47,576 76484 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 469 files, 1m 10s, 6.64 files/s, 150.52 ms/file; 27% done, 3m 4s to end
+2015-08-05 01:23:47,689 76716 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 455 files, 1m 10s, 6.44 files/s, 155.40 ms/file; 26% done, 3m 13s to end
+2015-08-05 01:23:47,867 76579 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 473 files, 1m 10s, 6.68 files/s, 149.67 ms/file; 27% done, 3m 3s to end
+2015-08-05 01:23:52,313 81395 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 499 files, 1m 20s, 6.20 files/s, 161.34 ms/file; 29% done, 3m 13s to end
+2015-08-05 01:23:52,354 81428 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 555 files, 1m 20s, 6.90 files/s, 144.93 ms/file; 32% done, 2m 45s to end
+2015-08-05 01:23:52,425 81572 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 549 files, 1m 20s, 6.82 files/s, 146.73 ms/file; 32% done, 2m 48s to end
+2015-08-05 01:23:52,430 81465 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 605 files, 1m 20s, 7.51 files/s, 133.22 ms/file; 35% done, 2m 25s to end
+2015-08-05 01:23:52,452 81519 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 533 files, 1m 20s, 6.62 files/s, 151.14 ms/file; 31% done, 2m 56s to end
+2015-08-05 01:23:52,455 81556 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 541 files, 1m 20s, 6.71 files/s, 149.02 ms/file; 31% done, 2m 52s to end
+2015-08-05 01:23:52,460 81438 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 523 files, 1m 20s, 6.49 files/s, 154.01 ms/file; 30% done, 3m 0s to end
+2015-08-05 01:23:52,475 81507 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 569 files, 1m 20s, 7.06 files/s, 141.64 ms/file; 33% done, 2m 39s to end
+2015-08-05 01:23:52,679 81471 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 516 files, 1m 20s, 6.39 files/s, 156.39 ms/file; 30% done, 3m 4s to end
+2015-08-05 01:23:57,428 86443 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 483 files, 1m 20s, 6.00 files/s, 166.73 ms/file; 28% done, 3m 22s to end
+2015-08-05 01:23:57,469 86490 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 574 files, 1m 20s, 7.14 files/s, 139.99 ms/file; 33% done, 2m 37s to end
+2015-08-05 01:23:57,475 86511 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 574 files, 1m 20s, 7.12 files/s, 140.36 ms/file; 33% done, 2m 37s to end
+2015-08-05 01:23:57,519 86427 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 572 files, 1m 20s, 7.12 files/s, 140.52 ms/file; 33% done, 2m 38s to end
+2015-08-05 01:23:57,694 86602 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 537 files, 1m 20s, 6.65 files/s, 150.30 ms/file; 31% done, 2m 54s to end
+2015-08-05 01:23:57,723 86750 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 521 files, 1m 20s, 6.45 files/s, 154.97 ms/file; 30% done, 3m 2s to end
+2015-08-05 01:23:57,892 86604 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 540 files, 1m 20s, 6.68 files/s, 149.67 ms/file; 31% done, 2m 53s to end
+2015-08-05 01:24:02,345 91427 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 560 files, 1m 30s, 6.19 files/s, 161.68 ms/file; 32% done, 3m 3s to end
+2015-08-05 01:24:02,459 91526 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 602 files, 1m 30s, 6.65 files/s, 150.44 ms/file; 35% done, 2m 44s to end
+2015-08-05 01:24:02,473 91620 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 617 files, 1m 30s, 6.81 files/s, 146.85 ms/file; 36% done, 2m 38s to end
+2015-08-05 01:24:02,489 91524 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 679 files, 1m 30s, 7.49 files/s, 133.52 ms/file; 39% done, 2m 16s to end
+2015-08-05 01:24:02,501 91575 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 626 files, 1m 30s, 6.91 files/s, 144.70 ms/file; 36% done, 2m 35s to end
+2015-08-05 01:24:02,533 91565 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 640 files, 1m 30s, 7.06 files/s, 141.65 ms/file; 37% done, 2m 29s to end
+2015-08-05 01:24:02,547 91525 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 588 files, 1m 30s, 6.49 files/s, 154.14 ms/file; 34% done, 2m 51s to end
+2015-08-05 01:24:02,611 91712 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 607 files, 1m 30s, 6.69 files/s, 149.55 ms/file; 35% done, 2m 43s to end
+2015-08-05 01:24:02,828 91620 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 582 files, 1m 30s, 6.41 files/s, 156.10 ms/file; 34% done, 2m 54s to end
+2015-08-05 01:24:07,497 96512 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 542 files, 1m 30s, 5.98 files/s, 167.16 ms/file; 31% done, 3m 13s to end
+2015-08-05 01:24:07,558 96579 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 647 files, 1m 30s, 7.15 files/s, 139.79 ms/file; 38% done, 2m 27s to end
+2015-08-05 01:24:07,583 96619 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 648 files, 1m 30s, 7.15 files/s, 139.93 ms/file; 38% done, 2m 26s to end
+2015-08-05 01:24:07,625 96533 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 646 files, 1m 30s, 7.14 files/s, 140.07 ms/file; 37% done, 2m 27s to end
+2015-08-05 01:24:07,699 96607 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 604 files, 1m 30s, 6.66 files/s, 150.20 ms/file; 35% done, 2m 44s to end
+2015-08-05 01:24:07,740 96767 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 586 files, 1m 30s, 6.46 files/s, 154.87 ms/file; 34% done, 2m 52s to end
+2015-08-05 01:24:07,967 96679 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 608 files, 1m 30s, 6.69 files/s, 149.50 ms/file; 35% done, 2m 42s to end
+2015-08-05 01:24:12,432 101514 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 625 files, 1m 40s, 6.21 files/s, 161.00 ms/file; 36% done, 2m 52s to end
+2015-08-05 01:24:12,517 101591 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 696 files, 1m 40s, 6.92 files/s, 144.54 ms/file; 40% done, 2m 24s to end
+2015-08-05 01:24:12,582 101617 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 753 files, 1m 40s, 7.47 files/s, 133.80 ms/file; 44% done, 2m 6s to end
+2015-08-05 01:24:12,590 101737 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 687 files, 1m 40s, 6.82 files/s, 146.61 ms/file; 40% done, 2m 28s to end
+2015-08-05 01:24:12,604 101671 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 671 files, 1m 40s, 6.66 files/s, 150.09 ms/file; 39% done, 2m 34s to end
+2015-08-05 01:24:12,614 101646 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 710 files, 1m 40s, 7.05 files/s, 141.88 ms/file; 41% done, 2m 20s to end
+2015-08-05 01:24:12,665 101643 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 653 files, 1m 40s, 6.48 files/s, 154.29 ms/file; 38% done, 2m 41s to end
+2015-08-05 01:24:12,713 101814 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 673 files, 1m 40s, 6.67 files/s, 149.89 ms/file; 39% done, 2m 33s to end
+2015-08-05 01:24:12,962 101754 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 648 files, 1m 40s, 6.42 files/s, 155.84 ms/file; 38% done, 2m 43s to end
+2015-08-05 01:24:17,547 106562 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 601 files, 1m 40s, 5.97 files/s, 167.47 ms/file; 35% done, 3m 3s to end
+2015-08-05 01:24:17,590 106626 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 723 files, 1m 40s, 7.18 files/s, 139.26 ms/file; 42% done, 2m 15s to end
+2015-08-05 01:24:17,638 106546 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 718 files, 1m 40s, 7.14 files/s, 139.97 ms/file; 42% done, 2m 17s to end
+2015-08-05 01:24:17,690 106711 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 719 files, 1m 40s, 7.15 files/s, 139.88 ms/file; 42% done, 2m 17s to end
+2015-08-05 01:24:17,758 106666 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 671 files, 1m 40s, 6.66 files/s, 150.19 ms/file; 39% done, 2m 34s to end
+2015-08-05 01:24:17,876 106903 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 652 files, 1m 40s, 6.46 files/s, 154.74 ms/file; 38% done, 2m 42s to end
+2015-08-05 01:24:18,032 106744 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 676 files, 1m 40s, 6.70 files/s, 149.35 ms/file; 39% done, 2m 32s to end
+2015-08-05 01:24:22,541 111623 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 693 files, 1m 50s, 6.26 files/s, 159.79 ms/file; 40% done, 2m 40s to end
+2015-08-05 01:24:22,542 111616 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 766 files, 1m 50s, 6.92 files/s, 144.42 ms/file; 45% done, 2m 14s to end
+2015-08-05 01:24:22,605 111672 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 739 files, 1m 50s, 6.67 files/s, 149.81 ms/file; 43% done, 2m 23s to end
+2015-08-05 01:24:22,657 111689 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 780 files, 1m 50s, 7.04 files/s, 142.02 ms/file; 45% done, 2m 10s to end
+2015-08-05 01:24:22,716 111751 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 827 files, 1m 50s, 7.46 files/s, 134.08 ms/file; 48% done, 1m 56s to end
+2015-08-05 01:24:22,728 111706 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 717 files, 1m 50s, 6.47 files/s, 154.55 ms/file; 42% done, 2m 31s to end
+2015-08-05 01:24:22,738 111885 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 757 files, 1m 50s, 6.83 files/s, 146.46 ms/file; 44% done, 2m 17s to end
+2015-08-05 01:24:22,791 111892 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 739 files, 1m 50s, 6.66 files/s, 150.14 ms/file; 43% done, 2m 24s to end
+2015-08-05 01:24:23,102 111894 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 714 files, 1m 51s, 6.43 files/s, 155.63 ms/file; 41% done, 2m 33s to end
+2015-08-05 01:24:27,649 116685 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 797 files, 1m 50s, 7.20 files/s, 138.95 ms/file; 46% done, 2m 5s to end
+2015-08-05 01:24:27,654 116562 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 787 files, 1m 50s, 7.12 files/s, 140.42 ms/file; 46% done, 2m 8s to end
+2015-08-05 01:24:27,695 116710 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 659 files, 1m 50s, 5.95 files/s, 168.13 ms/file; 38% done, 2m 54s to end
+2015-08-05 01:24:27,750 116771 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 791 files, 1m 50s, 7.15 files/s, 139.87 ms/file; 46% done, 2m 7s to end
+2015-08-05 01:24:27,766 116674 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 737 files, 1m 50s, 6.65 files/s, 150.32 ms/file; 43% done, 2m 24s to end
+2015-08-05 01:24:27,969 116996 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 719 files, 1m 50s, 6.48 files/s, 154.36 ms/file; 42% done, 2m 31s to end
+2015-08-05 01:24:28,108 116820 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 744 files, 1m 51s, 6.70 files/s, 149.24 ms/file; 43% done, 2m 22s to end
+2015-08-05 01:24:32,542 121616 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 835 files, 2m 0s, 6.92 files/s, 144.46 ms/file; 49% done, 2m 4s to end
+2015-08-05 01:24:32,613 121680 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 804 files, 2m 0s, 6.66 files/s, 150.15 ms/file; 47% done, 2m 14s to end
+2015-08-05 01:24:32,683 121765 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 763 files, 2m 0s, 6.31 files/s, 158.42 ms/file; 44% done, 2m 28s to end
+2015-08-05 01:24:32,713 121745 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 850 files, 2m 0s, 7.03 files/s, 142.16 ms/file; 50% done, 2m 0s to end
+2015-08-05 01:24:32,753 121731 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 780 files, 2m 0s, 6.45 files/s, 154.92 ms/file; 45% done, 2m 22s to end
+2015-08-05 01:24:32,808 121843 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 901 files, 2m 0s, 7.45 files/s, 134.27 ms/file; 53% done, 1m 47s to end
+2015-08-05 01:24:32,814 121915 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 804 files, 2m 0s, 6.65 files/s, 150.47 ms/file; 47% done, 2m 14s to end
+2015-08-05 01:24:32,831 121978 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 826 files, 2m 0s, 6.83 files/s, 146.44 ms/file; 48% done, 2m 7s to end
+2015-08-05 01:24:33,122 121914 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 779 files, 2m 1s, 6.43 files/s, 155.51 ms/file; 45% done, 2m 23s to end
+2015-08-05 01:24:37,673 126581 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 850 files, 2m 0s, 7.05 files/s, 141.80 ms/file; 49% done, 2m 0s to end
+2015-08-05 01:24:37,720 126756 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 871 files, 2m 0s, 7.21 files/s, 138.71 ms/file; 51% done, 1m 54s to end
+2015-08-05 01:24:37,752 126767 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 719 files, 2m 0s, 5.95 files/s, 168.09 ms/file; 42% done, 2m 44s to end
+2015-08-05 01:24:37,812 126720 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 804 files, 2m 0s, 6.65 files/s, 150.29 ms/file; 47% done, 2m 14s to end
+2015-08-05 01:24:37,846 126867 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 864 files, 2m 0s, 7.16 files/s, 139.74 ms/file; 50% done, 1m 56s to end
+2015-08-05 01:24:37,992 127019 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 784 files, 2m 1s, 6.48 files/s, 154.35 ms/file; 46% done, 2m 21s to end
+2015-08-05 01:24:38,124 126836 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 812 files, 2m 1s, 6.71 files/s, 149.08 ms/file; 47% done, 2m 12s to end
+2015-08-05 01:24:42,642 131716 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 905 files, 2m 10s, 6.92 files/s, 144.45 ms/file; 53% done, 1m 54s to end
+2015-08-05 01:24:42,771 131803 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 920 files, 2m 10s, 7.03 files/s, 142.27 ms/file; 54% done, 1m 50s to end
+2015-08-05 01:24:42,773 131840 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 866 files, 2m 10s, 6.62 files/s, 151.13 ms/file; 50% done, 2m 5s to end
+2015-08-05 01:24:42,774 131856 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 831 files, 2m 10s, 6.35 files/s, 157.60 ms/file; 48% done, 2m 16s to end
+2015-08-05 01:24:42,857 131835 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 845 files, 2m 10s, 6.45 files/s, 154.96 ms/file; 49% done, 2m 12s to end
+2015-08-05 01:24:42,916 131951 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 975 files, 2m 11s, 7.44 files/s, 134.45 ms/file; 57% done, 1m 37s to end
+2015-08-05 01:24:42,918 132065 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 895 files, 2m 11s, 6.83 files/s, 146.42 ms/file; 52% done, 1m 57s to end
+2015-08-05 01:24:42,942 132043 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 872 files, 2m 11s, 6.65 files/s, 150.35 ms/file; 51% done, 2m 4s to end
+2015-08-05 01:24:43,243 132035 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 845 files, 2m 11s, 6.44 files/s, 155.34 ms/file; 49% done, 2m 12s to end
+2015-08-05 01:24:47,807 136715 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 915 files, 2m 10s, 7.00 files/s, 142.80 ms/file; 53% done, 1m 52s to end
+2015-08-05 01:24:47,812 136720 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 871 files, 2m 10s, 6.66 files/s, 150.21 ms/file; 51% done, 2m 4s to end
+2015-08-05 01:24:47,813 136849 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 947 files, 2m 10s, 7.23 files/s, 138.23 ms/file; 55% done, 1m 43s to end
+2015-08-05 01:24:47,904 136919 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 781 files, 2m 11s, 5.96 files/s, 167.74 ms/file; 45% done, 2m 33s to end
+2015-08-05 01:24:47,954 136975 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 938 files, 2m 10s, 7.17 files/s, 139.49 ms/file; 55% done, 1m 46s to end
+2015-08-05 01:24:48,072 137099 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 849 files, 2m 11s, 6.48 files/s, 154.40 ms/file; 49% done, 2m 11s to end
+2015-08-05 01:24:48,245 136957 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 881 files, 2m 11s, 6.72 files/s, 148.89 ms/file; 51% done, 2m 1s to end
+2015-08-05 01:24:52,698 141772 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 975 files, 2m 20s, 6.93 files/s, 144.39 ms/file; 57% done, 1m 44s to end
+2015-08-05 01:24:52,783 141815 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 990 files, 2m 20s, 7.03 files/s, 142.33 ms/file; 58% done, 1m 40s to end
+2015-08-05 01:24:52,830 141897 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 927 files, 2m 20s, 6.58 files/s, 152.04 ms/file; 54% done, 1m 57s to end
+2015-08-05 01:24:52,840 141922 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 897 files, 2m 21s, 6.36 files/s, 157.23 ms/file; 52% done, 2m 6s to end
+2015-08-05 01:24:52,866 141844 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 910 files, 2m 20s, 6.46 files/s, 154.89 ms/file; 53% done, 2m 2s to end
+2015-08-05 01:24:52,967 142068 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 939 files, 2m 21s, 6.65 files/s, 150.30 ms/file; 55% done, 1m 54s to end
+2015-08-05 01:24:53,024 142059 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,049 files, 2m 21s, 7.43 files/s, 134.60 ms/file; 61% done, 1m 27s to end
+2015-08-05 01:24:53,064 142211 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 965 files, 2m 21s, 6.83 files/s, 146.32 ms/file; 56% done, 1m 47s to end
+2015-08-05 01:24:53,266 142058 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 910 files, 2m 21s, 6.44 files/s, 155.26 ms/file; 53% done, 2m 2s to end
+2015-08-05 01:24:57,822 146730 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 938 files, 2m 20s, 6.66 files/s, 150.15 ms/file; 55% done, 1m 54s to end
+2015-08-05 01:24:57,892 146800 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 980 files, 2m 20s, 6.96 files/s, 143.62 ms/file; 57% done, 1m 43s to end
+2015-08-05 01:24:57,915 146951 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,022 files, 2m 21s, 7.25 files/s, 137.97 ms/file; 60% done, 1m 33s to end
+2015-08-05 01:24:57,920 146935 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 842 files, 2m 21s, 5.97 files/s, 167.49 ms/file; 49% done, 2m 23s to end
+2015-08-05 01:24:58,032 147053 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,011 files, 2m 20s, 7.17 files/s, 139.38 ms/file; 59% done, 1m 36s to end
+2015-08-05 01:24:58,095 147122 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 916 files, 2m 21s, 6.49 files/s, 154.05 ms/file; 53% done, 2m 0s to end
+2015-08-05 01:24:58,311 147023 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 949 files, 2m 21s, 6.72 files/s, 148.83 ms/file; 55% done, 1m 51s to end
+2015-08-05 01:25:02,764 151838 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,045 files, 2m 30s, 6.93 files/s, 144.35 ms/file; 61% done, 1m 34s to end
+2015-08-05 01:25:02,799 151831 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,060 files, 2m 30s, 7.02 files/s, 142.38 ms/file; 62% done, 1m 31s to end
+2015-08-05 01:25:02,836 151903 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 988 files, 2m 30s, 6.55 files/s, 152.78 ms/file; 58% done, 1m 48s to end
+2015-08-05 01:25:02,916 151894 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 975 files, 2m 31s, 6.46 files/s, 154.87 ms/file; 57% done, 1m 52s to end
+2015-08-05 01:25:02,947 152029 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 963 files, 2m 31s, 6.37 files/s, 156.95 ms/file; 56% done, 1m 55s to end
+2015-08-05 01:25:03,044 152145 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,004 files, 2m 31s, 6.64 files/s, 150.61 ms/file; 59% done, 1m 44s to end
+2015-08-05 01:25:03,131 152278 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,035 files, 2m 31s, 6.84 files/s, 146.15 ms/file; 60% done, 1m 37s to end
+2015-08-05 01:25:03,137 152172 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,123 files, 2m 31s, 7.42 files/s, 134.73 ms/file; 66% done, 1m 17s to end
+2015-08-05 01:25:03,303 152095 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 975 files, 2m 31s, 6.44 files/s, 155.20 ms/file; 57% done, 1m 52s to end
+2015-08-05 01:25:07,916 156824 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,044 files, 2m 30s, 6.92 files/s, 144.42 ms/file; 61% done, 1m 34s to end
+2015-08-05 01:25:07,927 156963 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,096 files, 2m 31s, 7.26 files/s, 137.79 ms/file; 64% done, 1m 23s to end
+2015-08-05 01:25:07,931 156839 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,006 files, 2m 30s, 6.66 files/s, 150.05 ms/file; 59% done, 1m 44s to end
+2015-08-05 01:25:07,940 156955 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 903 files, 2m 31s, 5.98 files/s, 167.27 ms/file; 53% done, 2m 13s to end
+2015-08-05 01:25:08,167 157194 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 986 files, 2m 31s, 6.52 files/s, 153.33 ms/file; 57% done, 1m 49s to end
+2015-08-05 01:25:08,167 157188 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,084 files, 2m 31s, 7.18 files/s, 139.35 ms/file; 63% done, 1m 25s to end
+2015-08-05 01:25:08,403 157115 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,018 files, 2m 31s, 6.73 files/s, 148.66 ms/file; 59% done, 1m 41s to end
+2015-08-05 01:25:12,872 161946 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,115 files, 2m 40s, 6.93 files/s, 144.35 ms/file; 65% done, 1m 24s to end
+2015-08-05 01:25:12,895 161962 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,050 files, 2m 41s, 6.52 files/s, 153.34 ms/file; 61% done, 1m 39s to end
+2015-08-05 01:25:12,933 161965 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,131 files, 2m 41s, 7.02 files/s, 142.40 ms/file; 66% done, 1m 20s to end
+2015-08-05 01:25:12,936 161914 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,040 files, 2m 41s, 6.46 files/s, 154.83 ms/file; 61% done, 1m 42s to end
+2015-08-05 01:25:13,050 162132 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,029 files, 2m 41s, 6.38 files/s, 156.70 ms/file; 60% done, 1m 45s to end
+2015-08-05 01:25:13,100 162201 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,069 files, 2m 41s, 6.63 files/s, 150.86 ms/file; 62% done, 1m 35s to end
+2015-08-05 01:25:13,246 162393 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,105 files, 2m 41s, 6.85 files/s, 146.04 ms/file; 65% done, 1m 26s to end
+2015-08-05 01:25:13,251 162286 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,197 files, 2m 41s, 7.42 files/s, 134.85 ms/file; 70% done, 1m 7s to end
+2015-08-05 01:25:13,352 162144 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,040 files, 2m 41s, 6.44 files/s, 155.17 ms/file; 61% done, 1m 42s to end
+2015-08-05 01:25:17,936 166972 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,170 files, 2m 41s, 7.27 files/s, 137.63 ms/file; 68% done, 1m 12s to end
+2015-08-05 01:25:17,973 166881 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,073 files, 2m 40s, 6.66 files/s, 150.04 ms/file; 63% done, 1m 33s to end
+2015-08-05 01:25:17,975 166990 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 964 files, 2m 41s, 5.98 files/s, 167.09 ms/file; 56% done, 2m 2s to end
+2015-08-05 01:25:18,047 166955 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,109 files, 2m 40s, 6.89 files/s, 145.09 ms/file; 65% done, 1m 25s to end
+2015-08-05 01:25:18,213 167234 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,157 files, 2m 41s, 7.18 files/s, 139.24 ms/file; 68% done, 1m 15s to end
+2015-08-05 01:25:18,217 167244 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,056 files, 2m 41s, 6.55 files/s, 152.68 ms/file; 62% done, 1m 38s to end
+2015-08-05 01:25:18,479 167191 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,087 files, 2m 41s, 6.73 files/s, 148.49 ms/file; 63% done, 1m 30s to end
+2015-08-05 01:25:22,914 171981 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,114 files, 2m 51s, 6.51 files/s, 153.52 ms/file; 65% done, 1m 29s to end
+2015-08-05 01:25:22,952 172026 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,185 files, 2m 51s, 6.93 files/s, 144.33 ms/file; 69% done, 1m 14s to end
+2015-08-05 01:25:22,976 172008 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,201 files, 2m 51s, 7.02 files/s, 142.46 ms/file; 70% done, 1m 11s to end
+2015-08-05 01:25:23,079 172057 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,106 files, 2m 51s, 6.46 files/s, 154.76 ms/file; 65% done, 1m 31s to end
+2015-08-05 01:25:23,125 172207 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,095 files, 2m 51s, 6.39 files/s, 156.46 ms/file; 64% done, 1m 34s to end
+2015-08-05 01:25:23,208 172309 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,135 files, 2m 51s, 6.62 files/s, 150.99 ms/file; 66% done, 1m 25s to end
+2015-08-05 01:25:23,292 172439 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,175 files, 2m 51s, 6.85 files/s, 145.89 ms/file; 69% done, 1m 16s to end
+2015-08-05 01:25:23,363 172398 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,271 files, 2m 51s, 7.41 files/s, 134.96 ms/file; 74% done, 57s to end
+2015-08-05 01:25:23,450 172242 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,106 files, 2m 51s, 6.45 files/s, 155.04 ms/file; 65% done, 1m 32s to end
+2015-08-05 01:25:27,947 176983 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,242 files, 2m 51s, 7.26 files/s, 137.71 ms/file; 73% done, 1m 3s to end
+2015-08-05 01:25:28,004 177019 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,025 files, 2m 51s, 5.99 files/s, 166.93 ms/file; 60% done, 1m 52s to end
+2015-08-05 01:25:28,080 176988 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,141 files, 2m 51s, 6.67 files/s, 149.96 ms/file; 67% done, 1m 23s to end
+2015-08-05 01:25:28,106 177014 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,174 files, 2m 50s, 6.87 files/s, 145.63 ms/file; 69% done, 1m 16s to end
+2015-08-05 01:25:28,328 177349 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,230 files, 2m 51s, 7.18 files/s, 139.20 ms/file; 72% done, 1m 5s to end
+2015-08-05 01:25:28,347 177374 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,127 files, 2m 51s, 6.58 files/s, 152.05 ms/file; 66% done, 1m 27s to end
+2015-08-05 01:25:28,564 177276 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,155 files, 2m 51s, 6.73 files/s, 148.48 ms/file; 67% done, 1m 20s to end
+2015-08-05 01:25:33,012 182079 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,175 files, 3m 1s, 6.49 files/s, 154.14 ms/file; 69% done, 1m 20s to end
+2015-08-05 01:25:33,041 182115 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,255 files, 3m 1s, 6.93 files/s, 144.32 ms/file; 73% done, 1m 4s to end
+2015-08-05 01:25:33,081 182113 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,272 files, 3m 1s, 7.02 files/s, 142.45 ms/file; 74% done, 1m 0s to end
+2015-08-05 01:25:33,218 182196 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,172 files, 3m 1s, 6.46 files/s, 154.70 ms/file; 68% done, 1m 21s to end
+2015-08-05 01:25:33,256 182338 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,161 files, 3m 1s, 6.40 files/s, 156.29 ms/file; 68% done, 1m 24s to end
+2015-08-05 01:25:33,274 182375 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,201 files, 3m 1s, 6.62 files/s, 151.07 ms/file; 70% done, 1m 15s to end
+2015-08-05 01:25:33,367 182402 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,344 files, 3m 1s, 7.40 files/s, 135.07 ms/file; 79% done, 48s to end
+2015-08-05 01:25:33,419 182566 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,245 files, 3m 1s, 6.86 files/s, 145.82 ms/file; 73% done, 1m 6s to end
+2015-08-05 01:25:33,486 182278 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,171 files, 3m 1s, 6.45 files/s, 155.00 ms/file; 68% done, 1m 22s to end
+2015-08-05 01:25:38,058 187094 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,316 files, 3m 1s, 7.26 files/s, 137.65 ms/file; 77% done, 52s to end
+2015-08-05 01:25:38,070 187085 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,087 files, 3m 1s, 6.00 files/s, 166.67 ms/file; 63% done, 1m 42s to end
+2015-08-05 01:25:38,107 187015 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,208 files, 3m 1s, 6.67 files/s, 149.94 ms/file; 71% done, 1m 13s to end
+2015-08-05 01:25:38,185 187093 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,239 files, 3m 1s, 6.84 files/s, 146.12 ms/file; 72% done, 1m 7s to end
+2015-08-05 01:25:38,346 187367 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,301 files, 3m 1s, 7.18 files/s, 139.30 ms/file; 76% done, 55s to end
+2015-08-05 01:25:38,363 187390 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,198 files, 3m 1s, 6.60 files/s, 151.40 ms/file; 70% done, 1m 16s to end
+2015-08-05 01:25:38,567 187279 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,223 files, 3m 1s, 6.74 files/s, 148.40 ms/file; 71% done, 1m 10s to end
+2015-08-05 01:25:43,120 192152 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,342 files, 3m 11s, 7.02 files/s, 142.50 ms/file; 78% done, 50s to end
+2015-08-05 01:25:43,125 192192 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,238 files, 3m 11s, 6.47 files/s, 154.47 ms/file; 72% done, 1m 11s to end
+2015-08-05 01:25:43,162 192236 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,325 files, 3m 11s, 6.93 files/s, 144.33 ms/file; 77% done, 54s to end
+2015-08-05 01:25:43,279 192361 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,225 files, 3m 11s, 6.40 files/s, 156.30 ms/file; 72% done, 1m 14s to end
+2015-08-05 01:25:43,364 192342 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,237 files, 3m 11s, 6.46 files/s, 154.77 ms/file; 72% done, 1m 11s to end
+2015-08-05 01:25:43,380 192415 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,417 files, 3m 11s, 7.40 files/s, 135.18 ms/file; 83% done, 38s to end
+2015-08-05 01:25:43,399 192500 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,267 files, 3m 11s, 6.61 files/s, 151.19 ms/file; 74% done, 1m 5s to end
+2015-08-05 01:25:43,464 192611 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,315 files, 3m 11s, 6.86 files/s, 145.70 ms/file; 77% done, 56s to end
+2015-08-05 01:25:43,524 192316 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,235 files, 3m 11s, 6.45 files/s, 155.10 ms/file; 72% done, 1m 12s to end
+2015-08-05 01:25:48,123 197159 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,389 files, 3m 11s, 7.26 files/s, 137.67 ms/file; 81% done, 42s to end
+2015-08-05 01:25:48,125 197033 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,275 files, 3m 11s, 6.67 files/s, 149.92 ms/file; 75% done, 1m 3s to end
+2015-08-05 01:25:48,174 197189 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,149 files, 3m 11s, 6.01 files/s, 166.47 ms/file; 67% done, 1m 31s to end
+2015-08-05 01:25:48,299 197207 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,305 files, 3m 11s, 6.83 files/s, 146.48 ms/file; 76% done, 57s to end
+2015-08-05 01:25:48,416 197437 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,373 files, 3m 11s, 7.18 files/s, 139.33 ms/file; 80% done, 45s to end
+2015-08-05 01:25:48,443 197470 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,269 files, 3m 11s, 6.63 files/s, 150.87 ms/file; 74% done, 1m 5s to end
+2015-08-05 01:25:48,570 197282 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,291 files, 3m 11s, 6.74 files/s, 148.33 ms/file; 75% done, 1m 0s to end
+2015-08-05 01:25:53,120 202152 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,412 files, 3m 21s, 7.02 files/s, 142.52 ms/file; 83% done, 41s to end
+2015-08-05 01:25:53,181 202255 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,395 files, 3m 21s, 6.93 files/s, 144.27 ms/file; 82% done, 43s to end
+2015-08-05 01:25:53,184 202251 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,301 files, 3m 21s, 6.46 files/s, 154.72 ms/file; 76% done, 1m 1s to end
+2015-08-05 01:25:53,288 202370 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,285 files, 3m 21s, 6.38 files/s, 156.80 ms/file; 75% done, 1m 5s to end
+2015-08-05 01:25:53,406 202441 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,490 files, 3m 21s, 7.39 files/s, 135.29 ms/file; 87% done, 28s to end
+2015-08-05 01:25:53,430 202408 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,301 files, 3m 21s, 6.46 files/s, 154.89 ms/file; 76% done, 1m 1s to end
+2015-08-05 01:25:53,543 202644 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,336 files, 3m 21s, 6.62 files/s, 150.98 ms/file; 78% done, 54s to end
+2015-08-05 01:25:53,564 202711 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,385 files, 3m 21s, 6.87 files/s, 145.63 ms/file; 81% done, 45s to end
+2015-08-05 01:25:53,602 202394 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,299 files, 3m 21s, 6.44 files/s, 155.21 ms/file; 76% done, 1m 2s to end
+2015-08-05 01:25:58,148 207184 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,461 files, 3m 21s, 7.26 files/s, 137.74 ms/file; 85% done, 32s to end
+2015-08-05 01:25:58,265 207173 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,343 files, 3m 21s, 6.67 files/s, 149.88 ms/file; 79% done, 53s to end
+2015-08-05 01:25:58,272 207287 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,211 files, 3m 21s, 6.01 files/s, 166.29 ms/file; 71% done, 1m 21s to end
+2015-08-05 01:25:58,377 207285 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,372 files, 3m 21s, 6.82 files/s, 146.67 ms/file; 80% done, 48s to end
+2015-08-05 01:25:58,467 207488 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,445 files, 3m 21s, 7.18 files/s, 139.34 ms/file; 84% done, 35s to end
+2015-08-05 01:25:58,527 207554 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,340 files, 3m 21s, 6.65 files/s, 150.41 ms/file; 78% done, 54s to end
+2015-08-05 01:25:58,627 207339 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,360 files, 3m 21s, 6.75 files/s, 148.20 ms/file; 80% done, 50s to end
+2015-08-05 01:26:03,166 212198 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,482 files, 3m 31s, 7.01 files/s, 142.57 ms/file; 87% done, 31s to end
+2015-08-05 01:26:03,231 212298 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,366 files, 3m 31s, 6.46 files/s, 154.71 ms/file; 80% done, 51s to end
+2015-08-05 01:26:03,271 212345 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,465 files, 3m 31s, 6.93 files/s, 144.27 ms/file; 86% done, 33s to end
+2015-08-05 01:26:03,369 212451 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,344 files, 3m 31s, 6.35 files/s, 157.41 ms/file; 79% done, 55s to end
+2015-08-05 01:26:03,409 212444 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,563 files, 3m 31s, 7.39 files/s, 135.37 ms/file; 91% done, 18s to end
+2015-08-05 01:26:03,520 212498 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,364 files, 3m 31s, 6.45 files/s, 155.14 ms/file; 80% done, 52s to end
+2015-08-05 01:26:03,620 212721 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,403 files, 3m 31s, 6.62 files/s, 150.95 ms/file; 82% done, 44s to end
+2015-08-05 01:26:03,646 212793 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,455 files, 3m 31s, 6.87 files/s, 145.55 ms/file; 85% done, 35s to end
+2015-08-05 01:26:03,714 212506 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,364 files, 3m 31s, 6.44 files/s, 155.23 ms/file; 80% done, 52s to end
+2015-08-05 01:26:08,231 217267 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,532 files, 3m 31s, 7.25 files/s, 137.94 ms/file; 90% done, 23s to end
+2015-08-05 01:26:08,375 217390 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,273 files, 3m 31s, 6.02 files/s, 166.13 ms/file; 74% done, 1m 10s to end
+2015-08-05 01:26:08,407 217315 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,411 files, 3m 31s, 6.67 files/s, 149.84 ms/file; 83% done, 43s to end
+2015-08-05 01:26:08,497 217405 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,440 files, 3m 31s, 6.81 files/s, 146.78 ms/file; 84% done, 38s to end
+2015-08-05 01:26:08,561 217582 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,518 files, 3m 31s, 7.18 files/s, 139.29 ms/file; 89% done, 25s to end
+2015-08-05 01:26:08,618 217645 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,411 files, 3m 31s, 6.67 files/s, 149.99 ms/file; 82% done, 43s to end
+2015-08-05 01:26:08,683 217395 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,429 files, 3m 31s, 6.75 files/s, 148.08 ms/file; 84% done, 40s to end
+2015-08-05 01:26:13,241 222273 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,552 files, 3m 41s, 7.01 files/s, 142.63 ms/file; 91% done, 21s to end
+2015-08-05 01:26:13,358 222425 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,427 files, 3m 41s, 6.44 files/s, 155.20 ms/file; 83% done, 42s to end
+2015-08-05 01:26:13,359 222433 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,535 files, 3m 41s, 6.93 files/s, 144.26 ms/file; 90% done, 23s to end
+2015-08-05 01:26:13,417 222452 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,636 files, 3m 41s, 7.38 files/s, 135.44 ms/file; 96% done, 8s to end
+2015-08-05 01:26:13,437 222519 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,403 files, 3m 41s, 6.33 files/s, 157.97 ms/file; 82% done, 46s to end
+2015-08-05 01:26:13,539 222517 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,426 files, 3m 41s, 6.43 files/s, 155.42 ms/file; 83% done, 42s to end
+2015-08-05 01:26:13,710 222811 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,469 files, 3m 41s, 6.62 files/s, 151.04 ms/file; 86% done, 34s to end
+2015-08-05 01:26:13,725 222517 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,429 files, 3m 41s, 6.44 files/s, 155.17 ms/file; 84% done, 42s to end
+2015-08-05 01:26:13,746 222893 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,525 files, 3m 41s, 6.87 files/s, 145.49 ms/file; 89% done, 25s to end
+2015-08-05 01:26:18,339 227375 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,604 files, 3m 41s, 7.24 files/s, 138.05 ms/file; 94% done, 13s to end
+2015-08-05 01:26:18,409 227317 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,478 files, 3m 41s, 6.67 files/s, 149.82 ms/file; 86% done, 33s to end
+2015-08-05 01:26:18,527 227542 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,335 files, 3m 41s, 6.02 files/s, 166.01 ms/file; 78% done, 1m 0s to end
+2015-08-05 01:26:18,542 227450 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,507 files, 3m 41s, 6.81 files/s, 146.92 ms/file; 88% done, 28s to end
+2015-08-05 01:26:18,648 227669 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,591 files, 3m 41s, 7.18 files/s, 139.24 ms/file; 93% done, 15s to end
+2015-08-05 01:26:18,723 227750 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,482 files, 3m 41s, 6.68 files/s, 149.62 ms/file; 87% done, 32s to end
+2015-08-05 01:26:18,784 227496 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,498 files, 3m 41s, 6.76 files/s, 148.01 ms/file; 88% done, 29s to end
+2015-08-05 01:26:22,227 231262 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:22,228 231263 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 3m 50s [1,700 files, 7.38 files/s, 135.53 ms/file]
+2015-08-05 01:26:23,311 232343 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,622 files, 3m 51s, 7.01 files/s, 142.68 ms/file; 95% done, 11s to end
+2015-08-05 01:26:23,457 232531 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,605 files, 3m 51s, 6.93 files/s, 144.26 ms/file; 94% done, 13s to end
+2015-08-05 01:26:23,465 232532 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,492 files, 3m 51s, 6.44 files/s, 155.21 ms/file; 87% done, 32s to end
+2015-08-05 01:26:23,571 232653 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,464 files, 3m 51s, 6.32 files/s, 158.31 ms/file; 86% done, 37s to end
+2015-08-05 01:26:23,659 232637 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,489 files, 3m 51s, 6.43 files/s, 155.64 ms/file; 87% done, 32s to end
+2015-08-05 01:26:23,778 232925 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,594 files, 3m 51s, 6.87 files/s, 145.49 ms/file; 93% done, 15s to end
+2015-08-05 01:26:23,793 232585 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,495 files, 3m 51s, 6.45 files/s, 155.06 ms/file; 87% done, 31s to end
+2015-08-05 01:26:23,839 232940 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,536 files, 3m 52s, 6.62 files/s, 151.04 ms/file; 90% done, 24s to end
+2015-08-05 01:26:28,435 237343 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,544 files, 3m 51s, 6.67 files/s, 149.91 ms/file; 90% done, 23s to end
+2015-08-05 01:26:28,443 237479 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,671 files, 3m 51s, 7.22 files/s, 138.56 ms/file; 98% done, 4s to end
+2015-08-05 01:26:28,580 237488 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,573 files, 3m 51s, 6.80 files/s, 147.13 ms/file; 92% done, 18s to end
+2015-08-05 01:26:28,670 237691 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,659 files, 3m 51s, 7.16 files/s, 139.58 ms/file; 97% done, 5s to end
+2015-08-05 01:26:28,688 237703 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,393 files, 3m 51s, 6.01 files/s, 166.40 ms/file; 81% done, 51s to end
+2015-08-05 01:26:28,838 237550 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,566 files, 3m 51s, 6.76 files/s, 148.00 ms/file; 92% done, 19s to end
+2015-08-05 01:26:28,858 237885 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,550 files, 3m 51s, 6.68 files/s, 149.60 ms/file; 91% done, 22s to end
+2015-08-05 01:26:32,700 241736 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:32,700 241736 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 3m 55s [1,700 files, 7.21 files/s, 138.70 ms/file]
+2015-08-05 01:26:33,413 242445 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,687 files, 4m 1s, 6.98 files/s, 143.17 ms/file; 99% done, 1s to end
+2015-08-05 01:26:33,549 242623 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,672 files, 4m 1s, 6.92 files/s, 144.52 ms/file; 98% done, 4s to end
+2015-08-05 01:26:33,577 242644 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,550 files, 4m 1s, 6.41 files/s, 155.93 ms/file; 91% done, 23s to end
+2015-08-05 01:26:33,656 242738 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,520 files, 4m 1s, 6.28 files/s, 159.11 ms/file; 89% done, 28s to end
+2015-08-05 01:26:33,683 242661 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,549 files, 4m 1s, 6.41 files/s, 156.08 ms/file; 91% done, 23s to end
+2015-08-05 01:26:33,801 242948 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,663 files, 4m 1s, 6.87 files/s, 145.48 ms/file; 97% done, 5s to end
+2015-08-05 01:26:33,934 242726 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,557 files, 4m 1s, 6.44 files/s, 155.40 ms/file; 91% done, 22s to end
+2015-08-05 01:26:33,955 243056 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,600 files, 4m 2s, 6.61 files/s, 151.32 ms/file; 94% done, 15s to end
+2015-08-05 01:26:34,757 243778 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:34,757 243778 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 3m 57s [1,701 files, 7.16 files/s, 139.71 ms/file]
+2015-08-05 01:26:35,329 244361 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:35,329 244361 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 3s [1,700 files, 6.98 files/s, 143.21 ms/file]
+2015-08-05 01:26:37,505 246579 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:37,505 246579 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 5s [1,700 files, 6.92 files/s, 144.46 ms/file]
+2015-08-05 01:26:38,471 247379 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,610 files, 4m 1s, 6.67 files/s, 149.99 ms/file; 94% done, 13s to end
+2015-08-05 01:26:38,649 247557 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,639 files, 4m 1s, 6.79 files/s, 147.35 ms/file; 96% done, 9s to end
+2015-08-05 01:26:38,738 247753 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,456 files, 4m 1s, 6.02 files/s, 166.10 ms/file; 85% done, 40s to end
+2015-08-05 01:26:38,912 247939 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,620 files, 4m 1s, 6.70 files/s, 149.34 ms/file; 95% done, 12s to end
+2015-08-05 01:26:38,930 247642 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,640 files, 4m 1s, 6.78 files/s, 147.47 ms/file; 96% done, 8s to end
+2015-08-05 01:26:39,078 248225 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:39,079 248226 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 7s [1,700 files, 6.88 files/s, 145.42 ms/file]
+2015-08-05 01:26:43,641 252708 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,615 files, 4m 11s, 6.42 files/s, 155.88 ms/file; 95% done, 13s to end
+2015-08-05 01:26:43,681 252763 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,587 files, 4m 11s, 6.30 files/s, 158.71 ms/file; 93% done, 17s to end
+2015-08-05 01:26:43,786 252764 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,615 files, 4m 11s, 6.41 files/s, 155.96 ms/file; 95% done, 13s to end
+2015-08-05 01:26:44,014 252806 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,621 files, 4m 12s, 6.43 files/s, 155.48 ms/file; 95% done, 12s to end
+2015-08-05 01:26:44,110 253211 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,665 files, 4m 12s, 6.60 files/s, 151.52 ms/file; 97% done, 5s to end
+2015-08-05 01:26:48,682 257590 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,668 files, 4m 11s, 6.63 files/s, 150.90 ms/file; 98% done, 4s to end
+2015-08-05 01:26:48,689 257597 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,698 files, 4m 11s, 6.75 files/s, 148.14 ms/file; 99% done, 444ms to end
+2015-08-05 01:26:48,857 257872 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,506 files, 4m 11s, 5.98 files/s, 167.30 ms/file; 88% done, 32s to end
+2015-08-05 01:26:48,955 257982 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,679 files, 4m 11s, 6.66 files/s, 150.07 ms/file; 98% done, 3s to end
+2015-08-05 01:26:48,969 257681 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,700 files, 4m 11s, 6.75 files/s, 148.18 ms/file; 100% done, 0ms to end
+2015-08-05 01:26:48,969 257681 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:48,969 257681 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 11s [1,700 files, 6.75 files/s, 148.18 ms/file]
+2015-08-05 01:26:49,112 258020 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:49,112 258020 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 11s [1,701 files, 6.75 files/s, 148.13 ms/file]
+2015-08-05 01:26:50,889 259990 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:50,890 259991 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 19s [1,700 files, 6.56 files/s, 152.38 ms/file]
+2015-08-05 01:26:52,609 261636 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:52,610 261637 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 15s [1,701 files, 6.65 files/s, 150.28 ms/file]
+2015-08-05 01:26:53,661 262728 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,669 files, 4m 21s, 6.38 files/s, 156.84 ms/file; 98% done, 4s to end
+2015-08-05 01:26:53,700 262782 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,635 files, 4m 21s, 6.24 files/s, 160.18 ms/file; 96% done, 10s to end
+2015-08-05 01:26:53,869 262847 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,667 files, 4m 21s, 6.36 files/s, 157.14 ms/file; 98% done, 5s to end
+2015-08-05 01:26:54,079 262871 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,675 files, 4m 22s, 6.39 files/s, 156.48 ms/file; 98% done, 4s to end
+2015-08-05 01:26:54,238 263146 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:54,239 263147 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 17s [1,700 files, 6.61 files/s, 151.33 ms/file]
+2015-08-05 01:26:58,058 266850 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:58,072 266864 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 26s [1,701 files, 6.39 files/s, 156.43 ms/file]
+2015-08-05 01:26:58,859 267926 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:26:58,859 267926 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 26s [1,700 files, 6.37 files/s, 157.04 ms/file]
+2015-08-05 01:26:59,009 268024 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,563 files, 4m 22s, 5.96 files/s, 167.70 ms/file; 91% done, 22s to end
+2015-08-05 01:27:00,014 268992 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:27:00,015 268993 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 28s [1,700 files, 6.34 files/s, 157.71 ms/file]
+2015-08-05 01:27:03,800 272882 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,685 files, 4m 31s, 6.19 files/s, 161.42 ms/file; 99% done, 2s to end
+2015-08-05 01:27:06,304 275386 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:27:06,305 275387 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 34s [1,700 files, 6.19 files/s, 161.47 ms/file]
+2015-08-05 01:27:09,080 278095 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,608 files, 4m 32s, 5.91 files/s, 169.27 ms/file; 94% done, 15s to end
+2015-08-05 01:27:19,093 288108 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - 1,654 files, 4m 42s, 5.86 files/s, 170.61 ms/file; 97% done, 7s to end
+2015-08-05 01:27:27,728 296743 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Completed.
+2015-08-05 01:27:27,728 296743 INFO [main] i.u.d.b.m.d.TRECDocumentCollection - Elapsed: 4m 50s [1,700 files, 5.85 files/s, 171.08 ms/file]
+ERROR: Some instance did not complete correctly
+
+2015-08-05 09:53:25,872 1593908 INFO [main] i.u.d.b.m.t.Combine - Elapsed: 26m 27s [23,093,886,684 occurrences, 14,551,225.80 occurrences/s, 68.72 ns/occurrence]; used/avail/free/total/max mem: 481.15M/6.52G/1.45G/1.93G/7.00G
+2015-08-05 09:53:26,862 269 INFO [main] i.u.d.s.m.MWHCFunction - Adding elements...
+2015-08-05 09:53:36,079 9486 INFO [main] i.u.d.s.m.MWHCFunction - Completed.
+2015-08-05 09:53:36,080 9487 INFO [main] i.u.d.s.m.MWHCFunction - Elapsed: 9s [34,866,765 keys, 3,784,107.34 keys/s, 264.26 ns/key]; used/avail/free/total/max mem: 209.31M/6.79G/1.72G/1.93G/7.00G
+2015-08-05 09:53:36,092 9499 INFO [main] i.u.d.s.m.MWHCFunction - Analysing chunks...
+2015-08-05 09:53:46,092 19499 INFO [main] i.u.d.s.m.MWHCFunction - 18,080 chunks, 10s, 1,808.00 chunks/s, 553.10 µs/chunk [1,808.00 chunks/s, 553.10 µs/chunk]; 55% done, 8s to end; used/avail/free/total/max mem: 364.17M/6.64G/1.47G/1.84G/7.00G
+2015-08-05 09:53:53,988 27395 INFO [main] i.u.d.s.m.MWHCFunction - Completed.
+2015-08-05 09:53:53,989 27396 INFO [main] i.u.d.s.m.MWHCFunction - Elapsed: 17s [32,768 chunks, 1,830.92 chunks/s, 546.17 µs/chunk]; used/avail/free/total/max mem: 250.13M/6.75G/1.53G/1.78G/7.00G
+2015-08-05 09:53:55,953 29360 INFO [main] i.u.d.s.m.MWHCFunction - Compacting...
+2015-08-05 09:53:57,996 31403 INFO [main] i.u.d.s.m.MWHCFunction - Completed.
+2015-08-05 09:53:57,996 31403 INFO [main] i.u.d.s.m.MWHCFunction - Actual bit cost per element: 27.553628792347094
+2015-08-05 09:53:58,207 31614 INFO [main] i.u.d.s.m.MWHCFunction - Signing...
+2015-08-05 09:54:08,209 41616 INFO [main] i.u.d.s.m.MWHCFunction - 34,194,432 signatures, 10s, 3,419,101.29 signatures/s, 292.47 ns/signature [3,419,101.29 signatures/s, 292.47 ns/signature]; 98% done, 197ms to end; used/avail/free/total/max mem: 299.76M/6.70G/1.57G/1.87G/7.00G
+2015-08-05 09:54:08,373 41780 INFO [main] i.u.d.s.m.MWHCFunction - Completed.
+2015-08-05 09:54:08,373 41780 INFO [main] i.u.d.s.m.MWHCFunction - Elapsed: 10s [34,866,765 signatures, 3,429,742.77 signatures/s, 291.57 ns/signature]; used/avail/free/total/max mem: 299.76M/6.70G/1.57G/1.87G/7.00G
+2015-08-05 09:54:09,208 42615 INFO [main] i.u.d.s.m.MWHCFunction - Completed.
+Indexing time: 7529s
