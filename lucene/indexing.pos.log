@@ -1,0 +1,19 @@
+Indexer: 24800000 docs... (5392.956 sec)
+Failed: null
+Failed: null
+Indexer: 24900000 docs... (5411.246 sec)
+
+Indexer: indexing done (5411.444 sec); total 24900602 docs
+
+Indexer: commit multi (took 6.634 sec)
+
+Indexer: at close: _8xh(5.2.1):C2763374 _50l(5.2.1):C2924633 _p1v(5.2.1):C3741588 _d92(5.2.1):C2925559 _kzg(5.2.1):C3383160 _h36(5.2.1):C3357707 _o47(5.2.1):c620566 _pwg(5.2.1):c753533 _qqr(5.2.1):c738731 _rcc(5.2.1):c519237 _s6c(5.2.1):c681576 _sy4(5.2.1):c896299 _tpn(5.2.1):c767527 _svn(5.2.1):c74563 _tsr(5.2.1):c104738 _tvu(5.2.1):c76504 _tyy(5.2.1):c77303 _u4i(5.2.1):c24660 _uci(5.2.1):c56829 _u1q(5.2.1):c21700 _u9q(5.2.1):c46219 _u7l(5.2.1):c20035 _u8m(5.2.1):c12227 _u8v(5.2.1):c13339 _ufb(5.2.1):c36652 _ukk(5.2.1):c64350 _uge(5.2.1):c3597 _unc(5.2.1):c72639 _uh8(5.2.1):c7506 _un2(5.2.1):c7539 _ukv(5.2.1):c7123 _umi(5.2.1):c7431 _ulz(5.2.1):c7294 _unn(5.2.1):c7229 _upa(5.2.1):c7047 _uor(5.2.1):c7124 _unx(5.2.1):c7292 _uo7(5.2.1):c7766 _upk(5.2.1):c7985 _uoh(5.2.1):c8090 _up1(5.2.1):c7212 _upu(5.2.1):c7554 _uqe(5.2.1):c6889 _uqh(5.2.1):c4235 _upp(5.2.1):c748 _upt(5.2.1):c774 _ups(5.2.1):c909 _upx(5.2.1):c766 _upv(5.2.1):c908 _upy(5.2.1):c759 _uq2(5.2.1):c729 _uq3(5.2.1):c848
+
+Indexer: close took 100.977 sec
+
+Indexer: finished (5519.057 sec)
+
+Indexer: net bytes indexed 449547014049
+
+Indexer: 273.0944465921144 GB/hour plain text
+Evaluating...
