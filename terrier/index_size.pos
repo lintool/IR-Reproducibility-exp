@@ -1,0 +1,13 @@
+201641432	var/index/data.document.fsarrayfile
+0	var/index/data.direct.bf
+201641432	var/index/data.meta.idx
+688223469	var/index/data.meta.zdata
+33998236586	var/index/data.inverted.bf
+0	var/index/data.direct.offsets
+1017	var/index/data.lexicon.fsomaphash
+1256595552	var/index/data.lexicon.fsomapfile
+3462	var/index/data.properties
+36346347046	var/index
+4096	var/results
+36346355238	var
+36346355238	total
