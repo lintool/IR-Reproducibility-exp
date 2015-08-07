@@ -1,0 +1,721 @@
+ATIRE Version 0.5 alpha (64-bit)
+Written (w) 2008-2014 Andrew Trotman, University of Otago
+This index was stemmed using S-Stripper, search terms will be stemmed
+Cannot set ranking function as the index is quantized
+<ATIREsearch>
+<query> u s  oil industry history</query><numhits>1000</numhits><time>280</time>
+Disk Bytes Read Search:27980979 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:008 milliseconds
+Decompress Time       :043 milliseconds
+Rank Time             :229 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :280 milliseconds
+Ratio (read/decompress/rank):1.00 5.22 27.73
+</ATIREsearch>
+<ATIREsearch>
+<query> pearl farming</query><numhits>1000</numhits><time>29</time>
+Disk Bytes Read Search:463882 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :028 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :029 milliseconds
+Ratio (read/decompress/rank):1.00 5.26 232.02
+</ATIREsearch>
+<ATIREsearch>
+<query> u s  against international criminal court</query><numhits>1000</numhits><time>320</time>
+Disk Bytes Read Search:32477813 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:008 milliseconds
+Decompress Time       :053 milliseconds
+Rank Time             :256 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :320 milliseconds
+Ratio (read/decompress/rank):1.00 6.35 30.33
+</ATIREsearch>
+<ATIREsearch>
+<query> green party political views</query><numhits>1000</numhits><time>144</time>
+Disk Bytes Read Search:11116529 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:002 milliseconds
+Decompress Time       :020 milliseconds
+Rank Time             :120 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :144 milliseconds
+Ratio (read/decompress/rank):1.00 6.78 40.35
+</ATIREsearch>
+<ATIREsearch>
+<query> iraq foreign debt reduction</query><numhits>1000</numhits><time>74</time>
+Disk Bytes Read Search:4177874 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :006 milliseconds
+Rank Time             :066 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :074 milliseconds
+Ratio (read/decompress/rank):1.00 5.91 57.11
+</ATIREsearch>
+<ATIREsearch>
+<query> controlling type ii diabetes</query><numhits>1000</numhits><time>207</time>
+Disk Bytes Read Search:29312625 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:008 milliseconds
+Decompress Time       :033 milliseconds
+Rank Time             :166 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :207 milliseconds
+Ratio (read/decompress/rank):1.00 3.97 19.92
+</ATIREsearch>
+<ATIREsearch>
+<query> aspirin cancer prevention</query><numhits>1000</numhits><time>67</time>
+Disk Bytes Read Search:3365974 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :006 milliseconds
+Rank Time             :059 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :067 milliseconds
+Ratio (read/decompress/rank):1.00 6.72 61.52
+</ATIREsearch>
+<ATIREsearch>
+<query> decorative slate sources</query><numhits>1000</numhits><time>61</time>
+Disk Bytes Read Search:2725374 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :005 milliseconds
+Rank Time             :054 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :061 milliseconds
+Ratio (read/decompress/rank):1.00 8.27 76.71
+</ATIREsearch>
+<ATIREsearch>
+<query> horse racing jockey weight</query><numhits>1000</numhits><time>62</time>
+Disk Bytes Read Search:2831230 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :005 milliseconds
+Rank Time             :056 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :062 milliseconds
+Ratio (read/decompress/rank):1.00 7.08 72.39
+</ATIREsearch>
+<ATIREsearch>
+<query> prostate cancer treatments</query><numhits>1000</numhits><time>69</time>
+Disk Bytes Read Search:3732546 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :006 milliseconds
+Rank Time             :061 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :069 milliseconds
+Ratio (read/decompress/rank):1.00 6.94 64.10
+</ATIREsearch>
+<ATIREsearch>
+<query> train station security measures</query><numhits>1000</numhits><time>133</time>
+Disk Bytes Read Search:9602585 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:002 milliseconds
+Decompress Time       :017 milliseconds
+Rank Time             :113 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :133 milliseconds
+Ratio (read/decompress/rank):1.00 6.99 44.77
+</ATIREsearch>
+<ATIREsearch>
+<query> pyramid scheme</query><numhits>1000</numhits><time>30</time>
+Disk Bytes Read Search:575036 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :029 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :030 milliseconds
+Ratio (read/decompress/rank):1.00 5.28 252.60
+</ATIREsearch>
+<ATIREsearch>
+<query> chesapeake bay maryland clean</query><numhits>1000</numhits><time>72</time>
+Disk Bytes Read Search:3816816 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :006 milliseconds
+Rank Time             :064 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :072 milliseconds
+Ratio (read/decompress/rank):1.00 6.14 60.50
+</ATIREsearch>
+<ATIREsearch>
+<query> license restrictions older drivers</query><numhits>1000</numhits><time>70</time>
+Disk Bytes Read Search:3999525 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :005 milliseconds
+Rank Time             :063 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :070 milliseconds
+Ratio (read/decompress/rank):1.00 5.45 61.36
+</ATIREsearch>
+<ATIREsearch>
+<query> schizophrenia drugs</query><numhits>1000</numhits><time>45</time>
+Disk Bytes Read Search:1560630 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :002 milliseconds
+Rank Time             :042 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :045 milliseconds
+Ratio (read/decompress/rank):1.00 5.25 101.60
+</ATIREsearch>
+<ATIREsearch>
+<query> spammer arrest sue</query><numhits>1000</numhits><time>39</time>
+Disk Bytes Read Search:813756 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :001 milliseconds
+Rank Time             :037 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :039 milliseconds
+Ratio (read/decompress/rank):1.00 7.04 156.02
+</ATIREsearch>
+<ATIREsearch>
+<query> gifted talented student programs</query><numhits>1000</numhits><time>135</time>
+Disk Bytes Read Search:9913570 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:002 milliseconds
+Decompress Time       :017 milliseconds
+Rank Time             :115 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :135 milliseconds
+Ratio (read/decompress/rank):1.00 6.62 43.53
+</ATIREsearch>
+<ATIREsearch>
+<query> controlling acid rain</query><numhits>1000</numhits><time>48</time>
+Disk Bytes Read Search:2458102 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :002 milliseconds
+Rank Time             :045 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :048 milliseconds
+Ratio (read/decompress/rank):1.00 5.68 115.83
+</ATIREsearch>
+<ATIREsearch>
+<query> cruise ship damage sea life</query><numhits>1000</numhits><time>79</time>
+Disk Bytes Read Search:4494163 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :007 milliseconds
+Rank Time             :070 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :079 milliseconds
+Ratio (read/decompress/rank):1.00 6.83 63.75
+</ATIREsearch>
+<ATIREsearch>
+<query> federal welfare reform</query><numhits>1000</numhits><time>118</time>
+Disk Bytes Read Search:6990218 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:002 milliseconds
+Decompress Time       :016 milliseconds
+Rank Time             :100 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :118 milliseconds
+Ratio (read/decompress/rank):1.00 8.08 48.26
+</ATIREsearch>
+<ATIREsearch>
+<query> census data applications</query><numhits>1000</numhits><time>199</time>
+Disk Bytes Read Search:16039595 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:004 milliseconds
+Decompress Time       :030 milliseconds
+Rank Time             :164 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :199 milliseconds
+Ratio (read/decompress/rank):1.00 6.72 36.55
+</ATIREsearch>
+<ATIREsearch>
+<query> iran terrorism</query><numhits>1000</numhits><time>31</time>
+Disk Bytes Read Search:523524 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :030 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :031 milliseconds
+Ratio (read/decompress/rank):1.00 5.33 243.21
+</ATIREsearch>
+<ATIREsearch>
+<query> executive privilege</query><numhits>1000</numhits><time>70</time>
+Disk Bytes Read Search:3260623 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :006 milliseconds
+Rank Time             :062 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :070 milliseconds
+Ratio (read/decompress/rank):1.00 6.79 65.19
+</ATIREsearch>
+<ATIREsearch>
+<query> iran contra</query><numhits>1000</numhits><time>24</time>
+Disk Bytes Read Search:1111023 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :023 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :024 milliseconds
+Ratio (read/decompress/rank):1.00 4.71 266.09
+</ATIREsearch>
+<ATIREsearch>
+<query> low white blood cell count</query><numhits>1000</numhits><time>136</time>
+Disk Bytes Read Search:9059279 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:002 milliseconds
+Decompress Time       :017 milliseconds
+Rank Time             :115 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :136 milliseconds
+Ratio (read/decompress/rank):1.00 6.82 44.31
+</ATIREsearch>
+<ATIREsearch>
+<query> hubble telescope repairs</query><numhits>1000</numhits><time>43</time>
+Disk Bytes Read Search:1475469 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :001 milliseconds
+Rank Time             :041 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :043 milliseconds
+Ratio (read/decompress/rank):1.00 4.47 114.31
+</ATIREsearch>
+<ATIREsearch>
+<query> church arson</query><numhits>1000</numhits><time>34</time>
+Disk Bytes Read Search:522307 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :033 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :034 milliseconds
+Ratio (read/decompress/rank):1.00 5.07 226.22
+</ATIREsearch>
+<ATIREsearch>
+<query> whales save endangered</query><numhits>1000</numhits><time>47</time>
+Disk Bytes Read Search:1487442 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :002 milliseconds
+Rank Time             :044 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :047 milliseconds
+Ratio (read/decompress/rank):1.00 5.84 103.37
+</ATIREsearch>
+<ATIREsearch>
+<query> whistle blower department of defense</query><numhits>1000</numhits><time>235</time>
+Disk Bytes Read Search:29441884 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:008 milliseconds
+Decompress Time       :037 milliseconds
+Rank Time             :189 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :235 milliseconds
+Ratio (read/decompress/rank):1.00 4.22 21.56
+</ATIREsearch>
+<ATIREsearch>
+<query> gastric bypass complications</query><numhits>1000</numhits><time>31</time>
+Disk Bytes Read Search:1460620 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :030 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :031 milliseconds
+Ratio (read/decompress/rank):1.00 5.05 201.34
+</ATIREsearch>
+<ATIREsearch>
+<query> kurds history</query><numhits>1000</numhits><time>65</time>
+Disk Bytes Read Search:3374452 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :007 milliseconds
+Rank Time             :057 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :065 milliseconds
+Ratio (read/decompress/rank):1.00 8.97 73.82
+</ATIREsearch>
+<ATIREsearch>
+<query> u s  cheese production</query><numhits>1000</numhits><time>215</time>
+Disk Bytes Read Search:23590034 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:006 milliseconds
+Decompress Time       :032 milliseconds
+Rank Time             :176 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :215 milliseconds
+Ratio (read/decompress/rank):1.00 5.39 29.21
+</ATIREsearch>
+<ATIREsearch>
+<query> airline overbooking</query><numhits>1000</numhits><time>14</time>
+Disk Bytes Read Search:645004 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :014 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :014 milliseconds
+Ratio (read/decompress/rank):1.00 4.98 305.66
+</ATIREsearch>
+<ATIREsearch>
+<query> recycling successes</query><numhits>1000</numhits><time>37</time>
+Disk Bytes Read Search:773445 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :001 milliseconds
+Rank Time             :035 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :037 milliseconds
+Ratio (read/decompress/rank):1.00 7.80 185.57
+</ATIREsearch>
+<ATIREsearch>
+<query> afghan women condition</query><numhits>1000</numhits><time>107</time>
+Disk Bytes Read Search:6163052 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :014 milliseconds
+Rank Time             :091 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :107 milliseconds
+Ratio (read/decompress/rank):1.00 8.23 51.31
+</ATIREsearch>
+<ATIREsearch>
+<query> location bse infections</query><numhits>1000</numhits><time>94</time>
+Disk Bytes Read Search:6710145 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :010 milliseconds
+Rank Time             :081 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :094 milliseconds
+Ratio (read/decompress/rank):1.00 5.87 44.08
+</ATIREsearch>
+<ATIREsearch>
+<query> enron california energy crisis</query><numhits>1000</numhits><time>112</time>
+Disk Bytes Read Search:6702573 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :014 milliseconds
+Rank Time             :094 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :112 milliseconds
+Ratio (read/decompress/rank):1.00 7.73 49.07
+</ATIREsearch>
+<ATIREsearch>
+<query> anthrax hoaxes</query><numhits>1000</numhits><time>8</time>
+Disk Bytes Read Search:179572 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :008 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :008 milliseconds
+Ratio (read/decompress/rank):1.00 3.33 291.20
+</ATIREsearch>
+<ATIREsearch>
+<query> habitat for humanity</query><numhits>1000</numhits><time>129</time>
+Disk Bytes Read Search:17329139 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:005 milliseconds
+Decompress Time       :019 milliseconds
+Rank Time             :104 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :129 milliseconds
+Ratio (read/decompress/rank):1.00 3.82 20.71
+</ATIREsearch>
+<ATIREsearch>
+<query> regulate assisted living maryland</query><numhits>1000</numhits><time>72</time>
+Disk Bytes Read Search:3828999 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :006 milliseconds
+Rank Time             :064 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :072 milliseconds
+Ratio (read/decompress/rank):1.00 6.88 65.41
+</ATIREsearch>
+<ATIREsearch>
+<query> artificial intelligence</query><numhits>1000</numhits><time>39</time>
+Disk Bytes Read Search:2015743 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :001 milliseconds
+Rank Time             :036 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :039 milliseconds
+Ratio (read/decompress/rank):1.00 6.35 146.80
+</ATIREsearch>
+<ATIREsearch>
+<query> hedge funds fraud protection</query><numhits>1000</numhits><time>84</time>
+Disk Bytes Read Search:6197592 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :013 milliseconds
+Rank Time             :069 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :084 milliseconds
+Ratio (read/decompress/rank):1.00 7.73 41.04
+</ATIREsearch>
+<ATIREsearch>
+<query> freighter ship registration</query><numhits>1000</numhits><time>59</time>
+Disk Bytes Read Search:2592730 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :004 milliseconds
+Rank Time             :053 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :059 milliseconds
+Ratio (read/decompress/rank):1.00 7.24 81.48
+</ATIREsearch>
+<ATIREsearch>
+<query> counterfeit id punishments</query><numhits>1000</numhits><time>70</time>
+Disk Bytes Read Search:4434626 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :007 milliseconds
+Rank Time             :061 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :070 milliseconds
+Ratio (read/decompress/rank):1.00 6.66 53.63
+</ATIREsearch>
+<ATIREsearch>
+<query> doomsday cults</query><numhits>1000</numhits><time>3</time>
+Disk Bytes Read Search:81932 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :000 milliseconds
+Rank Time             :003 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :003 milliseconds
+Ratio (read/decompress/rank):1.00 1.95 180.37
+</ATIREsearch>
+<ATIREsearch>
+<query> outsource job india</query><numhits>1000</numhits><time>56</time>
+Disk Bytes Read Search:3480964 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:000 milliseconds
+Decompress Time       :006 milliseconds
+Rank Time             :048 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :056 milliseconds
+Ratio (read/decompress/rank):1.00 6.70 51.77
+</ATIREsearch>
+<ATIREsearch>
+<query> library computer oversight</query><numhits>1000</numhits><time>149</time>
+Disk Bytes Read Search:12281229 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:003 milliseconds
+Decompress Time       :022 milliseconds
+Rank Time             :123 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :149 milliseconds
+Ratio (read/decompress/rank):1.00 7.41 40.54
+</ATIREsearch>
+<ATIREsearch>
+<query> nuclear reactor types</query><numhits>1000</numhits><time>81</time>
+Disk Bytes Read Search:4145757 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:001 milliseconds
+Decompress Time       :009 milliseconds
+Rank Time             :070 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :081 milliseconds
+Ratio (read/decompress/rank):1.00 7.44 55.74
+</ATIREsearch>
+<ATIREsearch>
+<query> puerto rico state</query><numhits>1000</numhits><time>108</time>
+Disk Bytes Read Search:11651704 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:003 milliseconds
+Decompress Time       :015 milliseconds
+Rank Time             :089 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :108 milliseconds
+Ratio (read/decompress/rank):1.00 4.65 26.97
+</ATIREsearch>
+<ATIREsearch>
+<query> john edwards womens issues</query><numhits>1000</numhits><time>132</time>
+Disk Bytes Read Search:8090946 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :000 milliseconds
+Posting Disk Read Time:002 milliseconds
+Decompress Time       :018 milliseconds
+Rank Time             :111 milliseconds
+Early Termination Time:000 milliseconds
+Sort Time             :000 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :132 milliseconds
+Ratio (read/decompress/rank):1.00 7.52 46.68
+</ATIREsearch>
+Disk Bytes Read Init  :54091859 bytes
+Disk Bytes Read Search:351060631 bytes
+Accumulator Init Time :000 milliseconds
+Dictionary Read Time  :006 milliseconds
+Posting Disk Read Time:095 milliseconds
+Decompress Time       :565 milliseconds
+Rank Time             :03.916 seconds
+Early Termination Time:000 milliseconds
+Sort Time             :003 milliseconds
+Count Relevant Time   :000 milliseconds
+Total Time to Search  :04.589 seconds
+Total Queries         :50
+Mean Time to Search   :091 milliseconds
+Ratio (read/decompress/rank):1.00 5.90 40.81
+Total elapsed time including startup and shutdown 05.025 seconds
+Kernel: 0.360 seconds
+  User: 4.650 seconds
