@@ -1,12 +1,221 @@
 Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
-FATAL - Failed to load index. Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-A problem occurred: java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-	at org.terrier.applications.batchquerying.TRECQuerying.loadIndex(TRECQuerying.java:359)
-	at org.terrier.applications.batchquerying.TRECQuerying.<init>(TRECQuerying.java:270)
-	at org.terrier.applications.TrecTerrier.run(TrecTerrier.java:414)
-	at org.terrier.applications.TrecTerrier.applyOptions(TrecTerrier.java:588)
-	at org.terrier.applications.TrecTerrier.main(TrecTerrier.java:245)
+INFO - Loading document document lengths 16% done. Estimated finished in 0m05s
+INFO - Loading document document lengths 32% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 48% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 65% done. Estimated finished in 0m02s
+INFO - Loading document document lengths 82% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 99% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 6.114
+INFO - 701 : u s oil industry history
+INFO - Processing query: 701: 'u s oil industry history'
+INFO - Query 701 with 3 terms has 3 posting lists
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.BM25.terrier.701-750.txt
+INFO - Time to process query: 0.784
+INFO - 702 : pearl farming
+INFO - Processing query: 702: 'pearl farming'
+INFO - Query 702 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.126
+INFO - 703 : u s against international criminal court
+INFO - Processing query: 703: 'u s against international criminal court'
+INFO - Query 703 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.702
+INFO - 704 : green party political views
+INFO - Processing query: 704: 'green party political views'
+INFO - Query 704 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.396
+INFO - 705 : iraq foreign debt reduction
+INFO - Processing query: 705: 'iraq foreign debt reduction'
+INFO - Query 705 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.282
+INFO - 706 : controlling type ii diabetes
+INFO - Processing query: 706: 'controlling type ii diabetes'
+INFO - Query 706 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.038
+INFO - 707 : aspirin cancer prevention
+INFO - Processing query: 707: 'aspirin cancer prevention'
+INFO - Query 707 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.468
+INFO - 708 : decorative slate sources
+INFO - Processing query: 708: 'decorative slate sources'
+INFO - Query 708 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.537
+INFO - 709 : horse racing jockey weight
+INFO - Processing query: 709: 'horse racing jockey weight'
+INFO - Query 709 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.327
+INFO - 710 : prostate cancer treatments
+INFO - Processing query: 710: 'prostate cancer treatments'
+INFO - Query 710 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.242
+INFO - 711 : train station security measures
+INFO - Processing query: 711: 'train station security measures'
+INFO - Query 711 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.113
+INFO - 712 : pyramid scheme
+INFO - Processing query: 712: 'pyramid scheme'
+INFO - Query 712 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.044
+INFO - 713 : chesapeake bay maryland clean
+INFO - Processing query: 713: 'chesapeake bay maryland clean'
+INFO - Query 713 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.271
+INFO - 714 : license restrictions older drivers
+INFO - Processing query: 714: 'license restrictions older drivers'
+INFO - Query 714 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.335
+INFO - 715 : schizophrenia drugs
+INFO - Processing query: 715: 'schizophrenia drugs'
+INFO - Query 715 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.2
+INFO - 716 : spammer arrest sue
+INFO - Processing query: 716: 'spammer arrest sue'
+INFO - Query 716 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.181
+INFO - 717 : gifted talented student programs
+INFO - Processing query: 717: 'gifted talented student programs'
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 717 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.195
+INFO - 718 : controlling acid rain
+INFO - Processing query: 718: 'controlling acid rain'
+INFO - Query 718 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.395
+INFO - 719 : cruise ship damage sea life
+INFO - Processing query: 719: 'cruise ship damage sea life'
+INFO - Query 719 with 5 terms has 5 posting lists
+INFO - Time to process query: 0.337
+INFO - 720 : federal welfare reform
+INFO - Processing query: 720: 'federal welfare reform'
+INFO - Query 720 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.619
+INFO - 721 : census data applications
+INFO - Processing query: 721: 'census data applications'
+WARN - query term data has low idf - ignored from scoring.
+INFO - Query 721 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.5
+INFO - 722 : iran terrorism
+INFO - Processing query: 722: 'iran terrorism'
+INFO - Query 722 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.059
+INFO - 723 : executive privilege
+INFO - Processing query: 723: 'executive privilege'
+INFO - Query 723 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.318
+INFO - 724 : iran contra
+INFO - Processing query: 724: 'iran contra'
+INFO - Query 724 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.072
+INFO - 725 : low white blood cell count
+INFO - Processing query: 725: 'low white blood cell count'
+INFO - Query 725 with 5 terms has 5 posting lists
+INFO - Time to process query: 0.652
+INFO - 726 : hubble telescope repairs
+INFO - Processing query: 726: 'hubble telescope repairs'
+INFO - Query 726 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.104
+INFO - 727 : church arson
+INFO - Processing query: 727: 'church arson'
+INFO - Query 727 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.082
+INFO - 728 : whales save endangered
+INFO - Processing query: 728: 'whales save endangered'
+INFO - Query 728 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.195
+INFO - 729 : whistle blower department of defense
+INFO - Processing query: 729: 'whistle blower department of defense'
+WARN - query term depart has low idf - ignored from scoring.
+INFO - Query 729 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.128
+INFO - 730 : gastric bypass complications
+INFO - Processing query: 730: 'gastric bypass complications'
+INFO - Query 730 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.164
+INFO - 731 : kurds history
+INFO - Processing query: 731: 'kurds history'
+INFO - Query 731 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.303
+INFO - 732 : u s cheese production
+INFO - Processing query: 732: 'u s cheese production'
+INFO - Query 732 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.397
+INFO - 733 : airline overbooking
+INFO - Processing query: 733: 'airline overbooking'
+INFO - Query 733 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.04
+INFO - 734 : recycling successes
+INFO - Processing query: 734: 'recycling successes'
+INFO - Query 734 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.223
+INFO - 735 : afghan women condition
+INFO - Processing query: 735: 'afghan women condition'
+INFO - Query 735 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.546
+INFO - 736 : location bse infections
+INFO - Processing query: 736: 'location bse infections'
+INFO - Query 736 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.678
+INFO - 737 : enron california energy crisis
+INFO - Processing query: 737: 'enron california energy crisis'
+INFO - Query 737 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.522
+INFO - 738 : anthrax hoaxes
+INFO - Processing query: 738: 'anthrax hoaxes'
+INFO - Query 738 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.03
+INFO - 739 : habitat for humanity
+INFO - Processing query: 739: 'habitat for humanity'
+INFO - Query 739 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.285
+INFO - 740 : regulate assisted living maryland
+INFO - Processing query: 740: 'regulate assisted living maryland'
+INFO - Query 740 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.814
+INFO - 741 : artificial intelligence
+INFO - Processing query: 741: 'artificial intelligence'
+INFO - Query 741 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.132
+INFO - 742 : hedge funds fraud protection
+INFO - Processing query: 742: 'hedge funds fraud protection'
+INFO - Query 742 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.55
+INFO - 743 : freighter ship registration
+INFO - Processing query: 743: 'freighter ship registration'
+INFO - Query 743 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.21
+INFO - 744 : counterfeit id punishments
+INFO - Processing query: 744: 'counterfeit id punishments'
+INFO - Query 744 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.217
+INFO - 745 : doomsday cults
+INFO - Processing query: 745: 'doomsday cults'
+INFO - Query 745 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.112
+INFO - 746 : outsource job india
+INFO - Processing query: 746: 'outsource job india'
+INFO - Query 746 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.261
+INFO - 747 : library computer oversight
+INFO - Processing query: 747: 'library computer oversight'
+INFO - Query 747 with 3 terms has 3 posting lists
+INFO - Time to process query: 1.025
+INFO - 748 : nuclear reactor types
+INFO - Processing query: 748: 'nuclear reactor types'
+INFO - Query 748 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.594
+INFO - 749 : puerto rico state
+INFO - Processing query: 749: 'puerto rico state'
+WARN - query term state has low idf - ignored from scoring.
+INFO - Query 749 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.105
+INFO - 750 : john edwards womens issues
+INFO - Processing query: 750: 'john edwards womens issues'
+INFO - Query 750 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.83
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.BM25.terrier.701-750.txt.settings
+INFO - Finished topics, executed 50 queries in 19.753 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.BM25.terrier.701-750.txt
+Time elapsed: 25.905 seconds.
 num_ret               	701	1000
 num_rel               	701	164
 num_rel_ret           	701	74

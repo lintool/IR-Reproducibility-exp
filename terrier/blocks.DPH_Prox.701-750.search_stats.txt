@@ -1,12 +1,522 @@
 Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
-FATAL - Failed to load index. Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-A problem occurred: java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-	at org.terrier.applications.batchquerying.TRECQuerying.loadIndex(TRECQuerying.java:359)
-	at org.terrier.applications.batchquerying.TRECQuerying.<init>(TRECQuerying.java:270)
-	at org.terrier.applications.TrecTerrier.run(TrecTerrier.java:414)
-	at org.terrier.applications.TrecTerrier.applyOptions(TrecTerrier.java:588)
-	at org.terrier.applications.TrecTerrier.main(TrecTerrier.java:245)
+INFO - Loading document document lengths 16% done. Estimated finished in 0m05s
+INFO - Loading document document lengths 33% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 49% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 66% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 84% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 6.019
+INFO - 701 : u s oil industry history
+INFO - Processing query: 701: 'u s oil industry history'
+INFO - Query 701 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 701 with 3 terms has 3 posting lists
+phrase term: oil
+phrase term: industri
+phrase term: histori
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/blocks.DPH_Prox.terrier.701-750.txt
+INFO - Time to process query: 2.138
+INFO - 702 : pearl farming
+INFO - Processing query: 702: 'pearl farming'
+INFO - Query 702 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 702 with 2 terms has 2 posting lists
+phrase term: pearl
+phrase term: farm
+DFRDependenceScoreModifier altered scores for 394 documents
+INFO - Time to process query: 0.447
+INFO - 703 : u s against international criminal court
+INFO - Processing query: 703: 'u s against international criminal court'
+INFO - Query 703 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 703 with 3 terms has 3 posting lists
+phrase term: intern
+phrase term: crimin
+phrase term: court
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.536
+INFO - 704 : green party political views
+INFO - Processing query: 704: 'green party political views'
+INFO - Query 704 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 704 with 4 terms has 4 posting lists
+phrase term: green
+phrase term: parti
+phrase term: polit
+phrase term: view
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 3.549
+INFO - 705 : iraq foreign debt reduction
+INFO - Processing query: 705: 'iraq foreign debt reduction'
+INFO - Query 705 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 705 with 4 terms has 4 posting lists
+phrase term: iraq
+phrase term: foreign
+phrase term: debt
+phrase term: reduct
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.884
+INFO - 706 : controlling type ii diabetes
+INFO - Processing query: 706: 'controlling type ii diabetes'
+INFO - Query 706 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 706 with 4 terms has 4 posting lists
+phrase term: control
+phrase term: type
+phrase term: ii
+phrase term: diabet
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 4.009
+INFO - 707 : aspirin cancer prevention
+INFO - Processing query: 707: 'aspirin cancer prevention'
+INFO - Query 707 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 707 with 3 terms has 3 posting lists
+phrase term: aspirin
+phrase term: cancer
+phrase term: prevent
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.469
+INFO - 708 : decorative slate sources
+INFO - Processing query: 708: 'decorative slate sources'
+INFO - Query 708 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 708 with 3 terms has 3 posting lists
+phrase term: decor
+phrase term: slate
+phrase term: sourc
+DFRDependenceScoreModifier altered scores for 610 documents
+INFO - Time to process query: 1.929
+INFO - 709 : horse racing jockey weight
+INFO - Processing query: 709: 'horse racing jockey weight'
+INFO - Query 709 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 709 with 4 terms has 4 posting lists
+phrase term: hors
+phrase term: race
+phrase term: jockei
+phrase term: weight
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.941
+INFO - 710 : prostate cancer treatments
+INFO - Processing query: 710: 'prostate cancer treatments'
+INFO - Query 710 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 710 with 3 terms has 3 posting lists
+phrase term: prostat
+phrase term: cancer
+phrase term: treatment
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.846
+INFO - 711 : train station security measures
+INFO - Processing query: 711: 'train station security measures'
+INFO - Query 711 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 711 with 4 terms has 4 posting lists
+phrase term: train
+phrase term: station
+phrase term: secur
+phrase term: measur
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 3.82
+INFO - 712 : pyramid scheme
+INFO - Processing query: 712: 'pyramid scheme'
+INFO - Query 712 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 712 with 2 terms has 2 posting lists
+phrase term: pyramid
+phrase term: scheme
+DFRDependenceScoreModifier altered scores for 924 documents
+INFO - Time to process query: 0.084
+INFO - 713 : chesapeake bay maryland clean
+INFO - Processing query: 713: 'chesapeake bay maryland clean'
+INFO - Query 713 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 713 with 4 terms has 4 posting lists
+phrase term: chesapeak
+phrase term: bai
+phrase term: maryland
+phrase term: clean
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.798
+INFO - 714 : license restrictions older drivers
+INFO - Processing query: 714: 'license restrictions older drivers'
+INFO - Query 714 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 714 with 4 terms has 4 posting lists
+phrase term: licens
+phrase term: restrict
+phrase term: older
+phrase term: driver
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.177
+INFO - 715 : schizophrenia drugs
+INFO - Processing query: 715: 'schizophrenia drugs'
+INFO - Query 715 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 715 with 2 terms has 2 posting lists
+phrase term: schizophrenia
+phrase term: drug
+DFRDependenceScoreModifier altered scores for 963 documents
+INFO - Time to process query: 0.387
+INFO - 716 : spammer arrest sue
+INFO - Processing query: 716: 'spammer arrest sue'
+INFO - Query 716 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 716 with 3 terms has 3 posting lists
+phrase term: spammer
+phrase term: arrest
+phrase term: sue
+DFRDependenceScoreModifier altered scores for 437 documents
+INFO - Time to process query: 0.169
+INFO - 717 : gifted talented student programs
+INFO - Processing query: 717: 'gifted talented student programs'
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 717 with 4 terms has 3 posting lists
+ngramC=1.0
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 717 with 4 terms has 3 posting lists
+phrase term: gift
+phrase term: talent
+phrase term: student
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.795
+INFO - 718 : controlling acid rain
+INFO - Processing query: 718: 'controlling acid rain'
+INFO - Query 718 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 718 with 3 terms has 3 posting lists
+phrase term: control
+phrase term: acid
+phrase term: rain
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.521
+INFO - 719 : cruise ship damage sea life
+INFO - Processing query: 719: 'cruise ship damage sea life'
+INFO - Query 719 with 5 terms has 5 posting lists
+ngramC=1.0
+INFO - Query 719 with 5 terms has 5 posting lists
+phrase term: cruis
+phrase term: ship
+phrase term: damag
+phrase term: sea
+phrase term: life
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.039
+INFO - 720 : federal welfare reform
+INFO - Processing query: 720: 'federal welfare reform'
+INFO - Query 720 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 720 with 3 terms has 3 posting lists
+phrase term: feder
+phrase term: welfar
+phrase term: reform
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.257
+INFO - 721 : census data applications
+INFO - Processing query: 721: 'census data applications'
+WARN - query term data has low idf - ignored from scoring.
+INFO - Query 721 with 3 terms has 2 posting lists
+ngramC=1.0
+WARN - query term data has low idf - ignored from scoring.
+INFO - Query 721 with 3 terms has 2 posting lists
+phrase term: censu
+phrase term: applic
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.144
+INFO - 722 : iran terrorism
+INFO - Processing query: 722: 'iran terrorism'
+INFO - Query 722 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 722 with 2 terms has 2 posting lists
+phrase term: iran
+phrase term: terror
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.105
+INFO - 723 : executive privilege
+INFO - Processing query: 723: 'executive privilege'
+INFO - Query 723 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 723 with 2 terms has 2 posting lists
+phrase term: execut
+phrase term: privileg
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.896
+INFO - 724 : iran contra
+INFO - Processing query: 724: 'iran contra'
+INFO - Query 724 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 724 with 2 terms has 2 posting lists
+phrase term: iran
+phrase term: contra
+DFRDependenceScoreModifier altered scores for 345 documents
+INFO - Time to process query: 0.05
+INFO - 725 : low white blood cell count
+INFO - Processing query: 725: 'low white blood cell count'
+INFO - Query 725 with 5 terms has 5 posting lists
+ngramC=1.0
+INFO - Query 725 with 5 terms has 5 posting lists
+phrase term: low
+phrase term: white
+phrase term: blood
+phrase term: cell
+phrase term: count
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.098
+INFO - 726 : hubble telescope repairs
+INFO - Processing query: 726: 'hubble telescope repairs'
+INFO - Query 726 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 726 with 3 terms has 3 posting lists
+phrase term: hubbl
+phrase term: telescop
+phrase term: repair
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.267
+INFO - 727 : church arson
+INFO - Processing query: 727: 'church arson'
+INFO - Query 727 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 727 with 2 terms has 2 posting lists
+phrase term: church
+phrase term: arson
+DFRDependenceScoreModifier altered scores for 645 documents
+INFO - Time to process query: 0.095
+INFO - 728 : whales save endangered
+INFO - Processing query: 728: 'whales save endangered'
+INFO - Query 728 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 728 with 3 terms has 3 posting lists
+phrase term: whale
+phrase term: save
+phrase term: endang
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.539
+INFO - 729 : whistle blower department of defense
+INFO - Processing query: 729: 'whistle blower department of defense'
+WARN - query term depart has low idf - ignored from scoring.
+INFO - Query 729 with 4 terms has 3 posting lists
+ngramC=1.0
+WARN - query term depart has low idf - ignored from scoring.
+INFO - Query 729 with 4 terms has 3 posting lists
+phrase term: whistl
+phrase term: blower
+phrase term: defens
+DFRDependenceScoreModifier altered scores for 845 documents
+INFO - Time to process query: 0.284
+INFO - 730 : gastric bypass complications
+INFO - Processing query: 730: 'gastric bypass complications'
+INFO - Query 730 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 730 with 3 terms has 3 posting lists
+phrase term: gastric
+phrase term: bypass
+phrase term: complic
+DFRDependenceScoreModifier altered scores for 917 documents
+INFO - Time to process query: 0.121
+INFO - 731 : kurds history
+INFO - Processing query: 731: 'kurds history'
+INFO - Query 731 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 731 with 2 terms has 2 posting lists
+phrase term: kurd
+phrase term: histori
+DFRDependenceScoreModifier altered scores for 633 documents
+INFO - Time to process query: 0.679
+INFO - 732 : u s cheese production
+INFO - Processing query: 732: 'u s cheese production'
+INFO - Query 732 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 732 with 2 terms has 2 posting lists
+phrase term: chees
+phrase term: product
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.672
+INFO - 733 : airline overbooking
+INFO - Processing query: 733: 'airline overbooking'
+INFO - Query 733 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 733 with 2 terms has 2 posting lists
+phrase term: airlin
+phrase term: overbook
+DFRDependenceScoreModifier altered scores for 146 documents
+INFO - Time to process query: 0.045
+INFO - 734 : recycling successes
+INFO - Processing query: 734: 'recycling successes'
+INFO - Query 734 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 734 with 2 terms has 2 posting lists
+phrase term: recycl
+phrase term: success
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.615
+INFO - 735 : afghan women condition
+INFO - Processing query: 735: 'afghan women condition'
+INFO - Query 735 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 735 with 3 terms has 3 posting lists
+phrase term: afghan
+phrase term: women
+phrase term: condit
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.825
+INFO - 736 : location bse infections
+INFO - Processing query: 736: 'location bse infections'
+INFO - Query 736 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 736 with 3 terms has 3 posting lists
+phrase term: locat
+phrase term: bse
+phrase term: infect
+DFRDependenceScoreModifier altered scores for 997 documents
+INFO - Time to process query: 2.277
+INFO - 737 : enron california energy crisis
+INFO - Processing query: 737: 'enron california energy crisis'
+INFO - Query 737 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 737 with 4 terms has 4 posting lists
+phrase term: enron
+phrase term: california
+phrase term: energi
+phrase term: crisi
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.732
+INFO - 738 : anthrax hoaxes
+INFO - Processing query: 738: 'anthrax hoaxes'
+INFO - Query 738 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 738 with 2 terms has 2 posting lists
+phrase term: anthrax
+phrase term: hoax
+DFRDependenceScoreModifier altered scores for 660 documents
+INFO - Time to process query: 0.02
+INFO - 739 : habitat for humanity
+INFO - Processing query: 739: 'habitat for humanity'
+INFO - Query 739 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 739 with 2 terms has 2 posting lists
+phrase term: habitat
+phrase term: human
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.011
+INFO - 740 : regulate assisted living maryland
+INFO - Processing query: 740: 'regulate assisted living maryland'
+INFO - Query 740 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 740 with 4 terms has 4 posting lists
+phrase term: regul
+phrase term: assist
+phrase term: live
+phrase term: maryland
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.797
+INFO - 741 : artificial intelligence
+INFO - Processing query: 741: 'artificial intelligence'
+INFO - Query 741 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 741 with 2 terms has 2 posting lists
+phrase term: artifici
+phrase term: intellig
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.167
+INFO - 742 : hedge funds fraud protection
+INFO - Processing query: 742: 'hedge funds fraud protection'
+INFO - Query 742 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 742 with 4 terms has 4 posting lists
+phrase term: hedg
+phrase term: fund
+phrase term: fraud
+phrase term: protect
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.283
+INFO - 743 : freighter ship registration
+INFO - Processing query: 743: 'freighter ship registration'
+INFO - Query 743 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 743 with 3 terms has 3 posting lists
+phrase term: freighter
+phrase term: ship
+phrase term: registr
+DFRDependenceScoreModifier altered scores for 954 documents
+INFO - Time to process query: 0.554
+INFO - 744 : counterfeit id punishments
+INFO - Processing query: 744: 'counterfeit id punishments'
+INFO - Query 744 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 744 with 3 terms has 3 posting lists
+phrase term: counterfeit
+phrase term: id
+phrase term: punish
+DFRDependenceScoreModifier altered scores for 757 documents
+INFO - Time to process query: 0.695
+INFO - 745 : doomsday cults
+INFO - Processing query: 745: 'doomsday cults'
+INFO - Query 745 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 745 with 2 terms has 2 posting lists
+phrase term: doomsdai
+phrase term: cult
+DFRDependenceScoreModifier altered scores for 70 documents
+INFO - Time to process query: 0.01
+INFO - 746 : outsource job india
+INFO - Processing query: 746: 'outsource job india'
+INFO - Query 746 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 746 with 3 terms has 3 posting lists
+phrase term: outsourc
+phrase term: job
+phrase term: india
+DFRDependenceScoreModifier altered scores for 856 documents
+INFO - Time to process query: 0.762
+INFO - 747 : library computer oversight
+INFO - Processing query: 747: 'library computer oversight'
+INFO - Query 747 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 747 with 3 terms has 3 posting lists
+phrase term: librari
+phrase term: comput
+phrase term: oversight
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 3.09
+INFO - 748 : nuclear reactor types
+INFO - Processing query: 748: 'nuclear reactor types'
+INFO - Query 748 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 748 with 3 terms has 3 posting lists
+phrase term: nuclear
+phrase term: reactor
+phrase term: type
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.233
+INFO - 749 : puerto rico state
+INFO - Processing query: 749: 'puerto rico state'
+WARN - query term state has low idf - ignored from scoring.
+INFO - Query 749 with 3 terms has 2 posting lists
+ngramC=1.0
+WARN - query term state has low idf - ignored from scoring.
+INFO - Query 749 with 3 terms has 2 posting lists
+phrase term: puerto
+phrase term: rico
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.233
+INFO - 750 : john edwards womens issues
+INFO - Processing query: 750: 'john edwards womens issues'
+INFO - Query 750 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 750 with 4 terms has 4 posting lists
+phrase term: john
+phrase term: edward
+phrase term: women
+phrase term: issu
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.5
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/blocks.DPH_Prox.terrier.701-750.txt.settings
+INFO - Finished topics, executed 50 queries in 62.611 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/blocks.DPH_Prox.terrier.701-750.txt
+Time elapsed: 68.66 seconds.
 num_ret               	701	1000
 num_rel               	701	164
 num_rel_ret           	701	77

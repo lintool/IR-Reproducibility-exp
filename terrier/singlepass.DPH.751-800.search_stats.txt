@@ -1,12 +1,222 @@
 Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
-FATAL - Failed to load index. Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-A problem occurred: java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-	at org.terrier.applications.batchquerying.TRECQuerying.loadIndex(TRECQuerying.java:359)
-	at org.terrier.applications.batchquerying.TRECQuerying.<init>(TRECQuerying.java:270)
-	at org.terrier.applications.TrecTerrier.run(TrecTerrier.java:414)
-	at org.terrier.applications.TrecTerrier.applyOptions(TrecTerrier.java:588)
-	at org.terrier.applications.TrecTerrier.main(TrecTerrier.java:245)
+INFO - Loading document document lengths 16% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 33% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 49% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 67% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 84% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 5.992
+INFO - 751 : scrabble players
+INFO - Processing query: 751: 'scrabble players'
+INFO - Query 751 with 2 terms has 2 posting lists
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.DPH.terrier.751-800.txt
+INFO - Time to process query: 0.68
+INFO - 752 : dam removal
+INFO - Processing query: 752: 'dam removal'
+INFO - Query 752 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.712
+INFO - 753 : bullying prevention programs
+INFO - Processing query: 753: 'bullying prevention programs'
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 753 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.787
+INFO - 754 : domestic adoption laws
+INFO - Processing query: 754: 'domestic adoption laws'
+INFO - Query 754 with 3 terms has 3 posting lists
+INFO - Time to process query: 1.297
+INFO - 755 : scottish highland games
+INFO - Processing query: 755: 'scottish highland games'
+INFO - Query 755 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.626
+INFO - 756 : volcanic activity
+INFO - Processing query: 756: 'volcanic activity'
+INFO - Query 756 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.901
+INFO - 757 : murals
+INFO - Processing query: 757: 'murals'
+INFO - Query 757 with 1 terms has 1 posting lists
+INFO - Time to process query: 0.362
+INFO - 758 : embryonic stem cells
+INFO - Processing query: 758: 'embryonic stem cells'
+INFO - Query 758 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.436
+INFO - 759 : civil war battle reenactments
+INFO - Processing query: 759: 'civil war battle reenactments'
+INFO - Query 759 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.824
+INFO - 760 : american muslim mosques schools
+INFO - Processing query: 760: 'american muslim mosques schools'
+INFO - Query 760 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.064
+INFO - 761 : problems of hmong immigrants
+INFO - Processing query: 761: 'problems of hmong immigrants'
+INFO - Query 761 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.673
+INFO - 762 : history of physicians in america
+INFO - Processing query: 762: 'history of physicians in america'
+INFO - Query 762 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.919
+INFO - 763 : hunting deaths
+INFO - Processing query: 763: 'hunting deaths'
+INFO - Query 763 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.675
+INFO - 764 : increase mass transit use
+INFO - Processing query: 764: 'increase mass transit use'
+INFO - Query 764 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.809
+INFO - 765 : ephedra ma huang deaths
+INFO - Processing query: 765: 'ephedra ma huang deaths'
+INFO - Query 765 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.502
+INFO - 766 : diamond smuggling
+INFO - Processing query: 766: 'diamond smuggling'
+INFO - Query 766 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.276
+INFO - 767 : pharmacist license requirements
+INFO - Processing query: 767: 'pharmacist license requirements'
+WARN - query term requir has low idf - ignored from scoring.
+INFO - Query 767 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.439
+INFO - 768 : women in state legislatures
+INFO - Processing query: 768: 'women in state legislatures'
+WARN - query term state has low idf - ignored from scoring.
+INFO - Query 768 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.443
+INFO - 769 : kroll associates employees
+INFO - Processing query: 769: 'kroll associates employees'
+INFO - Query 769 with 3 terms has 3 posting lists
+INFO - Time to process query: 1.201
+INFO - 770 : kyrgyzstan united states relations
+INFO - Processing query: 770: 'kyrgyzstan united states relations'
+WARN - query term state has low idf - ignored from scoring.
+INFO - Query 770 with 4 terms has 3 posting lists
+INFO - Time to process query: 1.133
+INFO - 771 : deformed leopard frogs
+INFO - Processing query: 771: 'deformed leopard frogs'
+INFO - Query 771 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.331
+INFO - 772 : flag display rules
+INFO - Processing query: 772: 'flag display rules'
+INFO - Query 772 with 3 terms has 3 posting lists
+INFO - Time to process query: 1.104
+INFO - 773 : pennsylvania slot machine gambling
+INFO - Processing query: 773: 'pennsylvania slot machine gambling'
+INFO - Query 773 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.431
+INFO - 774 : causes of homelessness
+INFO - Processing query: 774: 'causes of homelessness'
+INFO - Query 774 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.56
+INFO - 775 : commercial candy makers
+INFO - Processing query: 775: 'commercial candy makers'
+INFO - Query 775 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.643
+INFO - 776 : magnet schools success
+INFO - Processing query: 776: 'magnet schools success'
+INFO - Query 776 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.778
+INFO - 777 : hybrid alternative fuel cars
+INFO - Processing query: 777: 'hybrid alternative fuel cars'
+INFO - Query 777 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.462
+INFO - 778 : golden ratio
+INFO - Processing query: 778: 'golden ratio'
+INFO - Query 778 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.356
+INFO - 779 : javelinas range and description
+INFO - Processing query: 779: 'javelinas range and description'
+INFO - Query 779 with 3 terms has 3 posting lists
+INFO - Time to process query: 1.268
+INFO - 780 : arable land
+INFO - Processing query: 780: 'arable land'
+INFO - Query 780 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.517
+INFO - 781 : squirrel control and protections
+INFO - Processing query: 781: 'squirrel control and protections'
+INFO - Query 781 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.958
+INFO - 782 : orange varieties seasons
+INFO - Processing query: 782: 'orange varieties seasons'
+INFO - Query 782 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.425
+INFO - 783 : school mercury poisoning
+INFO - Processing query: 783: 'school mercury poisoning'
+INFO - Query 783 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.597
+INFO - 784 : mersenne primes
+INFO - Processing query: 784: 'mersenne primes'
+INFO - Query 784 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.272
+INFO - 785 : ivory billed woodpecker
+INFO - Processing query: 785: 'ivory billed woodpecker'
+INFO - Query 785 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.528
+INFO - 786 : yew trees
+INFO - Processing query: 786: 'yew trees'
+INFO - Query 786 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.296
+INFO - 787 : sunflower cultivation
+INFO - Processing query: 787: 'sunflower cultivation'
+INFO - Query 787 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.276
+INFO - 788 : reverse mortgages
+INFO - Processing query: 788: 'reverse mortgages'
+INFO - Query 788 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.377
+INFO - 789 : abandoned mine reclamation
+INFO - Processing query: 789: 'abandoned mine reclamation'
+INFO - Query 789 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.315
+INFO - 790 : women s rights in saudi arabia
+INFO - Processing query: 790: 'women s rights in saudi arabia'
+INFO - Query 790 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.799
+INFO - 791 : gullah geechee language culture
+INFO - Processing query: 791: 'gullah geechee language culture'
+INFO - Query 791 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.444
+INFO - 792 : social security means test
+INFO - Processing query: 792: 'social security means test'
+INFO - Query 792 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.683
+INFO - 793 : bagpipe bands
+INFO - Processing query: 793: 'bagpipe bands'
+WARN - query term band has low idf - ignored from scoring.
+INFO - Query 793 with 2 terms has 1 posting lists
+INFO - Time to process query: 0.182
+INFO - 794 : pet therapy
+INFO - Processing query: 794: 'pet therapy'
+INFO - Query 794 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.29
+INFO - 795 : notable cocker spaniels
+INFO - Processing query: 795: 'notable cocker spaniels'
+INFO - Query 795 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.461
+INFO - 796 : blue grass music festival history
+INFO - Processing query: 796: 'blue grass music festival history'
+INFO - Query 796 with 5 terms has 5 posting lists
+INFO - Time to process query: 0.883
+INFO - 797 : reintroduction of gray wolves
+INFO - Processing query: 797: 'reintroduction of gray wolves'
+INFO - Query 797 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.298
+INFO - 798 : massachusetts textile mills
+INFO - Processing query: 798: 'massachusetts textile mills'
+INFO - Query 798 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.599
+INFO - 799 : animals in alzheimer s research
+INFO - Processing query: 799: 'animals in alzheimer s research'
+WARN - query term research has low idf - ignored from scoring.
+INFO - Query 799 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.831
+INFO - 800 : ovarian cancer treatment
+INFO - Processing query: 800: 'ovarian cancer treatment'
+INFO - Query 800 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.421
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.DPH.terrier.751-800.txt.settings
+INFO - Finished topics, executed 50 queries in 32.158 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.DPH.terrier.751-800.txt
+Time elapsed: 38.179 seconds.
 num_ret               	751	1000
 num_rel               	751	77
 num_rel_ret           	751	37

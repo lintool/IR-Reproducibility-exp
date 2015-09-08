@@ -1,12 +1,515 @@
 Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
-FATAL - Failed to load index. Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-A problem occurred: java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-	at org.terrier.applications.batchquerying.TRECQuerying.loadIndex(TRECQuerying.java:359)
-	at org.terrier.applications.batchquerying.TRECQuerying.<init>(TRECQuerying.java:270)
-	at org.terrier.applications.TrecTerrier.run(TrecTerrier.java:414)
-	at org.terrier.applications.TrecTerrier.applyOptions(TrecTerrier.java:588)
-	at org.terrier.applications.TrecTerrier.main(TrecTerrier.java:245)
+INFO - Loading document document lengths 16% done. Estimated finished in 0m05s
+INFO - Loading document document lengths 33% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 49% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 66% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 84% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 6.021
+INFO - 801 : kudzu pueraria lobata
+INFO - Processing query: 801: 'kudzu pueraria lobata'
+INFO - Query 801 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 801 with 3 terms has 3 posting lists
+phrase term: kudzu
+phrase term: pueraria
+phrase term: lobata
+DFRDependenceScoreModifier altered scores for 352 documents
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/blocks.DPH_Prox.terrier.801-850.txt
+INFO - Time to process query: 0.099
+INFO - 802 : volcano eruptions global temperature
+INFO - Processing query: 802: 'volcano eruptions global temperature'
+INFO - Query 802 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 802 with 4 terms has 4 posting lists
+phrase term: volcano
+phrase term: erupt
+phrase term: global
+phrase term: temperatur
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.912
+INFO - 803 : may day
+INFO - Processing query: 803: 'may day'
+WARN - query term mai has low idf - ignored from scoring.
+INFO - Query 803 with 2 terms has 1 posting lists
+ngramC=1.0
+WARN - query term mai has low idf - ignored from scoring.
+INFO - Query 803 with 2 terms has 1 posting lists
+INFO - Time to process query: 1.305
+INFO - 804 : ban on human cloning
+INFO - Processing query: 804: 'ban on human cloning'
+INFO - Query 804 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 804 with 3 terms has 3 posting lists
+phrase term: ban
+phrase term: human
+phrase term: clone
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.919
+INFO - 805 : identity theft passport
+INFO - Processing query: 805: 'identity theft passport'
+INFO - Query 805 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 805 with 3 terms has 3 posting lists
+phrase term: ident
+phrase term: theft
+phrase term: passport
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.197
+INFO - 806 : doctors without borders
+INFO - Processing query: 806: 'doctors without borders'
+INFO - Query 806 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 806 with 2 terms has 2 posting lists
+phrase term: doctor
+phrase term: border
+DFRDependenceScoreModifier altered scores for 393 documents
+INFO - Time to process query: 0.489
+INFO - 807 : sugar tariff rate quotas
+INFO - Processing query: 807: 'sugar tariff rate quotas'
+INFO - Query 807 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 807 with 4 terms has 4 posting lists
+phrase term: sugar
+phrase term: tariff
+phrase term: rate
+phrase term: quota
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.036
+INFO - 808 : north korean counterfeiting
+INFO - Processing query: 808: 'north korean counterfeiting'
+INFO - Query 808 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 808 with 3 terms has 3 posting lists
+phrase term: north
+phrase term: korean
+phrase term: counterfeit
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.967
+INFO - 809 : wetlands wastewater treatment
+INFO - Processing query: 809: 'wetlands wastewater treatment'
+INFO - Query 809 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 809 with 3 terms has 3 posting lists
+phrase term: wetland
+phrase term: wastewat
+phrase term: treatment
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.616
+INFO - 810 : timeshare resales
+INFO - Processing query: 810: 'timeshare resales'
+INFO - Query 810 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 810 with 2 terms has 2 posting lists
+phrase term: timeshar
+phrase term: resal
+DFRDependenceScoreModifier altered scores for 239 documents
+INFO - Time to process query: 0.036
+INFO - 811 : handwriting recognition
+INFO - Processing query: 811: 'handwriting recognition'
+INFO - Query 811 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 811 with 2 terms has 2 posting lists
+phrase term: handwrit
+phrase term: recognit
+DFRDependenceScoreModifier altered scores for 533 documents
+INFO - Time to process query: 0.103
+INFO - 812 : total knee replacement surgery
+INFO - Processing query: 812: 'total knee replacement surgery'
+INFO - Query 812 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 812 with 4 terms has 4 posting lists
+phrase term: total
+phrase term: knee
+phrase term: replac
+phrase term: surgeri
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.199
+INFO - 813 : atlantic intracoastal waterway
+INFO - Processing query: 813: 'atlantic intracoastal waterway'
+INFO - Query 813 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 813 with 3 terms has 3 posting lists
+phrase term: atlant
+phrase term: intracoast
+phrase term: waterwai
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.174
+INFO - 814 : johnstown flood
+INFO - Processing query: 814: 'johnstown flood'
+INFO - Query 814 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 814 with 2 terms has 2 posting lists
+phrase term: johnstown
+phrase term: flood
+DFRDependenceScoreModifier altered scores for 581 documents
+INFO - Time to process query: 0.153
+INFO - 815 : coast guard rescues
+INFO - Processing query: 815: 'coast guard rescues'
+INFO - Query 815 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 815 with 3 terms has 3 posting lists
+phrase term: coast
+phrase term: guard
+phrase term: rescu
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.353
+INFO - 816 : usaid assistance to galapagos
+INFO - Processing query: 816: 'usaid assistance to galapagos'
+INFO - Query 816 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 816 with 3 terms has 3 posting lists
+phrase term: usaid
+phrase term: assist
+phrase term: galapago
+DFRDependenceScoreModifier altered scores for 973 documents
+INFO - Time to process query: 1.018
+INFO - 817 : sports stadium naming rights
+INFO - Processing query: 817: 'sports stadium naming rights'
+INFO - Query 817 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 817 with 4 terms has 4 posting lists
+phrase term: sport
+phrase term: stadium
+phrase term: name
+phrase term: right
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 3.511
+INFO - 818 : chaco culture national park
+INFO - Processing query: 818: 'chaco culture national park'
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 818 with 4 terms has 3 posting lists
+ngramC=1.0
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 818 with 4 terms has 3 posting lists
+phrase term: chaco
+phrase term: cultur
+phrase term: park
+DFRDependenceScoreModifier altered scores for 989 documents
+INFO - Time to process query: 0.814
+INFO - 819 : 1890 census
+INFO - Processing query: 819: '1890 census'
+INFO - Query 819 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 819 with 2 terms has 2 posting lists
+phrase term: 1890
+phrase term: censu
+DFRDependenceScoreModifier altered scores for 522 documents
+INFO - Time to process query: 0.427
+INFO - 820 : imported fire ants
+INFO - Processing query: 820: 'imported fire ants'
+INFO - Query 820 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 820 with 3 terms has 3 posting lists
+phrase term: import
+phrase term: fire
+phrase term: ant
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.545
+INFO - 821 : internet work at home scams
+INFO - Processing query: 821: 'internet work at home scams'
+WARN - query term home has low idf - ignored from scoring.
+INFO - Query 821 with 4 terms has 3 posting lists
+ngramC=1.0
+WARN - query term home has low idf - ignored from scoring.
+INFO - Query 821 with 4 terms has 3 posting lists
+phrase term: internet
+phrase term: work
+phrase term: scam
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.192
+INFO - 822 : custer s last stand
+INFO - Processing query: 822: 'custer s last stand'
+INFO - Query 822 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 822 with 3 terms has 3 posting lists
+phrase term: custer
+phrase term: last
+phrase term: stand
+DFRDependenceScoreModifier altered scores for 853 documents
+INFO - Time to process query: 2.476
+INFO - 823 : continuing care retirement communities
+INFO - Processing query: 823: 'continuing care retirement communities'
+INFO - Query 823 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 823 with 4 terms has 4 posting lists
+phrase term: continu
+phrase term: care
+phrase term: retir
+phrase term: commun
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 4.158
+INFO - 824 : civil air patrol
+INFO - Processing query: 824: 'civil air patrol'
+INFO - Query 824 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 824 with 3 terms has 3 posting lists
+phrase term: civil
+phrase term: air
+phrase term: patrol
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.199
+INFO - 825 : national guard involvement in iraq
+INFO - Processing query: 825: 'national guard involvement in iraq'
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 825 with 4 terms has 3 posting lists
+ngramC=1.0
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 825 with 4 terms has 3 posting lists
+phrase term: guard
+phrase term: involv
+phrase term: iraq
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.879
+INFO - 826 : florida seminole indians
+INFO - Processing query: 826: 'florida seminole indians'
+INFO - Query 826 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 826 with 3 terms has 3 posting lists
+phrase term: florida
+phrase term: seminol
+phrase term: indian
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.678
+INFO - 827 : hidden markov modeling hmm
+INFO - Processing query: 827: 'hidden markov modeling hmm'
+INFO - Query 827 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 827 with 4 terms has 4 posting lists
+phrase term: hidden
+phrase term: markov
+phrase term: model
+phrase term: hmm
+DFRDependenceScoreModifier altered scores for 926 documents
+INFO - Time to process query: 0.993
+INFO - 828 : secret shoppers
+INFO - Processing query: 828: 'secret shoppers'
+INFO - Query 828 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 828 with 2 terms has 2 posting lists
+phrase term: secret
+phrase term: shopper
+DFRDependenceScoreModifier altered scores for 211 documents
+INFO - Time to process query: 0.061
+INFO - 829 : spanish civil war support
+INFO - Processing query: 829: 'spanish civil war support'
+INFO - Query 829 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 829 with 4 terms has 4 posting lists
+phrase term: spanish
+phrase term: civil
+phrase term: war
+phrase term: support
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.684
+INFO - 830 : model railroads
+INFO - Processing query: 830: 'model railroads'
+INFO - Query 830 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 830 with 2 terms has 2 posting lists
+phrase term: model
+phrase term: railroad
+DFRDependenceScoreModifier altered scores for 494 documents
+INFO - Time to process query: 1.072
+INFO - 831 : dulles airport security
+INFO - Processing query: 831: 'dulles airport security'
+INFO - Query 831 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 831 with 3 terms has 3 posting lists
+phrase term: dull
+phrase term: airport
+phrase term: secur
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.621
+INFO - 832 : labor union activity
+INFO - Processing query: 832: 'labor union activity'
+INFO - Query 832 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 832 with 3 terms has 3 posting lists
+phrase term: labor
+phrase term: union
+phrase term: activ
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.586
+INFO - 833 : iceland government
+INFO - Processing query: 833: 'iceland government'
+INFO - Query 833 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 833 with 2 terms has 2 posting lists
+phrase term: iceland
+phrase term: govern
+DFRDependenceScoreModifier altered scores for 485 documents
+INFO - Time to process query: 1.57
+INFO - 834 : global positioning system earthquakes
+INFO - Processing query: 834: 'global positioning system earthquakes'
+WARN - query term system has low idf - ignored from scoring.
+INFO - Query 834 with 4 terms has 3 posting lists
+ngramC=1.0
+WARN - query term system has low idf - ignored from scoring.
+INFO - Query 834 with 4 terms has 3 posting lists
+phrase term: global
+phrase term: posit
+phrase term: earthquak
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.281
+INFO - 835 : big dig pork
+INFO - Processing query: 835: 'big dig pork'
+INFO - Query 835 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 835 with 3 terms has 3 posting lists
+phrase term: big
+phrase term: dig
+phrase term: pork
+DFRDependenceScoreModifier altered scores for 710 documents
+INFO - Time to process query: 0.202
+INFO - 836 : illegal immigrant wages
+INFO - Processing query: 836: 'illegal immigrant wages'
+INFO - Query 836 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 836 with 3 terms has 3 posting lists
+phrase term: illeg
+phrase term: immigr
+phrase term: wage
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.426
+INFO - 837 : eskimo history
+INFO - Processing query: 837: 'eskimo history'
+INFO - Query 837 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 837 with 2 terms has 2 posting lists
+phrase term: eskimo
+phrase term: histori
+DFRDependenceScoreModifier altered scores for 567 documents
+INFO - Time to process query: 0.675
+INFO - 838 : urban suburban coyotes
+INFO - Processing query: 838: 'urban suburban coyotes'
+INFO - Query 838 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 838 with 3 terms has 3 posting lists
+phrase term: urban
+phrase term: suburban
+phrase term: coyot
+DFRDependenceScoreModifier altered scores for 977 documents
+INFO - Time to process query: 0.505
+INFO - 839 : textile dyeing techniques
+INFO - Processing query: 839: 'textile dyeing techniques'
+INFO - Query 839 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 839 with 3 terms has 3 posting lists
+phrase term: textil
+phrase term: dye
+phrase term: techniqu
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.261
+INFO - 840 : geysers
+INFO - Processing query: 840: 'geysers'
+INFO - Query 840 with 1 terms has 1 posting lists
+ngramC=1.0
+INFO - Query 840 with 1 terms has 1 posting lists
+INFO - Time to process query: 0.007
+INFO - 841 : camel north america
+INFO - Processing query: 841: 'camel north america'
+INFO - Query 841 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 841 with 3 terms has 3 posting lists
+phrase term: camel
+phrase term: north
+phrase term: america
+DFRDependenceScoreModifier altered scores for 955 documents
+INFO - Time to process query: 1.246
+INFO - 842 : david mccullough
+INFO - Processing query: 842: 'david mccullough'
+INFO - Query 842 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 842 with 2 terms has 2 posting lists
+phrase term: david
+phrase term: mccullough
+DFRDependenceScoreModifier altered scores for 820 documents
+INFO - Time to process query: 0.238
+INFO - 843 : pol pot
+INFO - Processing query: 843: 'pol pot'
+INFO - Query 843 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 843 with 2 terms has 2 posting lists
+phrase term: pol
+phrase term: pot
+DFRDependenceScoreModifier altered scores for 273 documents
+INFO - Time to process query: 0.05
+INFO - 844 : segmental duplications
+INFO - Processing query: 844: 'segmental duplications'
+INFO - Query 844 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 844 with 2 terms has 2 posting lists
+phrase term: segment
+phrase term: duplic
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.343
+INFO - 845 : new jersey tomato
+INFO - Processing query: 845: 'new jersey tomato'
+WARN - query term new has low idf - ignored from scoring.
+INFO - Query 845 with 3 terms has 2 posting lists
+ngramC=1.0
+WARN - query term new has low idf - ignored from scoring.
+INFO - Query 845 with 3 terms has 2 posting lists
+phrase term: jersei
+phrase term: tomato
+DFRDependenceScoreModifier altered scores for 386 documents
+INFO - Time to process query: 0.262
+INFO - 846 : heredity and obesity
+INFO - Processing query: 846: 'heredity and obesity'
+INFO - Query 846 with 2 terms has 2 posting lists
+ngramC=1.0
+INFO - Query 846 with 2 terms has 2 posting lists
+phrase term: hered
+phrase term: obes
+DFRDependenceScoreModifier altered scores for 247 documents
+INFO - Time to process query: 0.028
+INFO - 847 : portugal world war ii
+INFO - Processing query: 847: 'portugal world war ii'
+INFO - Query 847 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 847 with 4 terms has 4 posting lists
+phrase term: portug
+phrase term: world
+phrase term: war
+phrase term: ii
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 1.178
+INFO - 848 : radio station call letters
+INFO - Processing query: 848: 'radio station call letters'
+INFO - Query 848 with 4 terms has 4 posting lists
+ngramC=1.0
+INFO - Query 848 with 4 terms has 4 posting lists
+phrase term: radio
+phrase term: station
+phrase term: call
+phrase term: letter
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 2.536
+INFO - 849 : scalable vector graphics
+INFO - Processing query: 849: 'scalable vector graphics'
+INFO - Query 849 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 849 with 3 terms has 3 posting lists
+phrase term: scalabl
+phrase term: vector
+phrase term: graphic
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.312
+INFO - 850 : mississippi river flood
+INFO - Processing query: 850: 'mississippi river flood'
+INFO - Query 850 with 3 terms has 3 posting lists
+ngramC=1.0
+INFO - Query 850 with 3 terms has 3 posting lists
+phrase term: mississippi
+phrase term: river
+phrase term: flood
+DFRDependenceScoreModifier altered scores for 1000 documents
+INFO - Time to process query: 0.984
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/blocks.DPH_Prox.terrier.801-850.txt.settings
+INFO - Finished topics, executed 50 queries in 49.59 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/blocks.DPH_Prox.terrier.801-850.txt
+Time elapsed: 55.643 seconds.
 num_ret               	801	1000
 num_rel               	801	128
 num_rel_ret           	801	118

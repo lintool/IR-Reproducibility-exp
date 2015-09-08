@@ -1,12 +1,222 @@
 Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
-FATAL - Failed to load index. Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-A problem occurred: java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-	at org.terrier.applications.batchquerying.TRECQuerying.loadIndex(TRECQuerying.java:359)
-	at org.terrier.applications.batchquerying.TRECQuerying.<init>(TRECQuerying.java:270)
-	at org.terrier.applications.TrecTerrier.run(TrecTerrier.java:414)
-	at org.terrier.applications.TrecTerrier.applyOptions(TrecTerrier.java:588)
-	at org.terrier.applications.TrecTerrier.main(TrecTerrier.java:245)
+INFO - Loading document document lengths 16% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 33% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 49% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 66% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 84% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 6.011
+INFO - 801 : kudzu pueraria lobata
+INFO - Processing query: 801: 'kudzu pueraria lobata'
+INFO - Query 801 with 3 terms has 3 posting lists
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.BM25.terrier.801-850.txt
+INFO - Time to process query: 0.136
+INFO - 802 : volcano eruptions global temperature
+INFO - Processing query: 802: 'volcano eruptions global temperature'
+INFO - Query 802 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.318
+INFO - 803 : may day
+INFO - Processing query: 803: 'may day'
+WARN - query term mai has low idf - ignored from scoring.
+INFO - Query 803 with 2 terms has 1 posting lists
+INFO - Time to process query: 0.482
+INFO - 804 : ban on human cloning
+INFO - Processing query: 804: 'ban on human cloning'
+INFO - Query 804 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.293
+INFO - 805 : identity theft passport
+INFO - Processing query: 805: 'identity theft passport'
+INFO - Query 805 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.084
+INFO - 806 : doctors without borders
+INFO - Processing query: 806: 'doctors without borders'
+INFO - Query 806 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.215
+INFO - 807 : sugar tariff rate quotas
+INFO - Processing query: 807: 'sugar tariff rate quotas'
+INFO - Query 807 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.232
+INFO - 808 : north korean counterfeiting
+INFO - Processing query: 808: 'north korean counterfeiting'
+INFO - Query 808 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.309
+INFO - 809 : wetlands wastewater treatment
+INFO - Processing query: 809: 'wetlands wastewater treatment'
+INFO - Query 809 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.193
+INFO - 810 : timeshare resales
+INFO - Processing query: 810: 'timeshare resales'
+INFO - Query 810 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.045
+INFO - 811 : handwriting recognition
+INFO - Processing query: 811: 'handwriting recognition'
+INFO - Query 811 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.151
+INFO - 812 : total knee replacement surgery
+INFO - Processing query: 812: 'total knee replacement surgery'
+INFO - Query 812 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.573
+INFO - 813 : atlantic intracoastal waterway
+INFO - Processing query: 813: 'atlantic intracoastal waterway'
+INFO - Query 813 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.16
+INFO - 814 : johnstown flood
+INFO - Processing query: 814: 'johnstown flood'
+INFO - Query 814 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.085
+INFO - 815 : coast guard rescues
+INFO - Processing query: 815: 'coast guard rescues'
+INFO - Query 815 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.15
+INFO - 816 : usaid assistance to galapagos
+INFO - Processing query: 816: 'usaid assistance to galapagos'
+INFO - Query 816 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.328
+INFO - 817 : sports stadium naming rights
+INFO - Processing query: 817: 'sports stadium naming rights'
+INFO - Query 817 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.098
+INFO - 818 : chaco culture national park
+INFO - Processing query: 818: 'chaco culture national park'
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 818 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.273
+INFO - 819 : 1890 census
+INFO - Processing query: 819: '1890 census'
+INFO - Query 819 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.17
+INFO - 820 : imported fire ants
+INFO - Processing query: 820: 'imported fire ants'
+INFO - Query 820 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.423
+INFO - 821 : internet work at home scams
+INFO - Processing query: 821: 'internet work at home scams'
+WARN - query term home has low idf - ignored from scoring.
+INFO - Query 821 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.611
+INFO - 822 : custer s last stand
+INFO - Processing query: 822: 'custer s last stand'
+INFO - Query 822 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.919
+INFO - 823 : continuing care retirement communities
+INFO - Processing query: 823: 'continuing care retirement communities'
+INFO - Query 823 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.151
+INFO - 824 : civil air patrol
+INFO - Processing query: 824: 'civil air patrol'
+INFO - Query 824 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.336
+INFO - 825 : national guard involvement in iraq
+INFO - Processing query: 825: 'national guard involvement in iraq'
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 825 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.292
+INFO - 826 : florida seminole indians
+INFO - Processing query: 826: 'florida seminole indians'
+INFO - Query 826 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.341
+INFO - 827 : hidden markov modeling hmm
+INFO - Processing query: 827: 'hidden markov modeling hmm'
+INFO - Query 827 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.322
+INFO - 828 : secret shoppers
+INFO - Processing query: 828: 'secret shoppers'
+INFO - Query 828 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.093
+INFO - 829 : spanish civil war support
+INFO - Processing query: 829: 'spanish civil war support'
+INFO - Query 829 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.893
+INFO - 830 : model railroads
+INFO - Processing query: 830: 'model railroads'
+INFO - Query 830 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.439
+INFO - 831 : dulles airport security
+INFO - Processing query: 831: 'dulles airport security'
+INFO - Query 831 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.454
+INFO - 832 : labor union activity
+INFO - Processing query: 832: 'labor union activity'
+INFO - Query 832 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.656
+INFO - 833 : iceland government
+INFO - Processing query: 833: 'iceland government'
+INFO - Query 833 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.448
+INFO - 834 : global positioning system earthquakes
+INFO - Processing query: 834: 'global positioning system earthquakes'
+WARN - query term system has low idf - ignored from scoring.
+INFO - Query 834 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.385
+INFO - 835 : big dig pork
+INFO - Processing query: 835: 'big dig pork'
+INFO - Query 835 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.127
+INFO - 836 : illegal immigrant wages
+INFO - Processing query: 836: 'illegal immigrant wages'
+INFO - Query 836 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.154
+INFO - 837 : eskimo history
+INFO - Processing query: 837: 'eskimo history'
+INFO - Query 837 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.332
+INFO - 838 : urban suburban coyotes
+INFO - Processing query: 838: 'urban suburban coyotes'
+INFO - Query 838 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.193
+INFO - 839 : textile dyeing techniques
+INFO - Processing query: 839: 'textile dyeing techniques'
+INFO - Query 839 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.138
+INFO - 840 : geysers
+INFO - Processing query: 840: 'geysers'
+INFO - Query 840 with 1 terms has 1 posting lists
+INFO - Time to process query: 0.069
+INFO - 841 : camel north america
+INFO - Processing query: 841: 'camel north america'
+INFO - Query 841 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.567
+INFO - 842 : david mccullough
+INFO - Processing query: 842: 'david mccullough'
+INFO - Query 842 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.171
+INFO - 843 : pol pot
+INFO - Processing query: 843: 'pol pot'
+INFO - Query 843 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.039
+INFO - 844 : segmental duplications
+INFO - Processing query: 844: 'segmental duplications'
+INFO - Query 844 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.178
+INFO - 845 : new jersey tomato
+INFO - Processing query: 845: 'new jersey tomato'
+WARN - query term new has low idf - ignored from scoring.
+INFO - Query 845 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.115
+INFO - 846 : heredity and obesity
+INFO - Processing query: 846: 'heredity and obesity'
+INFO - Query 846 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.076
+INFO - 847 : portugal world war ii
+INFO - Processing query: 847: 'portugal world war ii'
+INFO - Query 847 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.376
+INFO - 848 : radio station call letters
+INFO - Processing query: 848: 'radio station call letters'
+INFO - Query 848 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.82
+INFO - 849 : scalable vector graphics
+INFO - Processing query: 849: 'scalable vector graphics'
+INFO - Query 849 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.15
+INFO - 850 : mississippi river flood
+INFO - Processing query: 850: 'mississippi river flood'
+INFO - Query 850 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.268
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.BM25.terrier.801-850.txt.settings
+INFO - Finished topics, executed 50 queries in 16.847 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.BM25.terrier.801-850.txt
+Time elapsed: 22.886 seconds.
 num_ret               	801	1000
 num_rel               	801	128
 num_rel_ret           	801	112

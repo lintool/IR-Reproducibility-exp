@@ -1,12 +1,1262 @@
 Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
-FATAL - Failed to load index. Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-A problem occurred: java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-java.lang.IllegalArgumentException: Failed to load index: Index not found: /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/var/index/data.properties not found.
-	at org.terrier.applications.batchquerying.TRECQuerying.loadIndex(TRECQuerying.java:359)
-	at org.terrier.applications.batchquerying.TRECQuerying.<init>(TRECQuerying.java:270)
-	at org.terrier.applications.TrecTerrier.run(TrecTerrier.java:414)
-	at org.terrier.applications.TrecTerrier.applyOptions(TrecTerrier.java:588)
-	at org.terrier.applications.TrecTerrier.main(TrecTerrier.java:245)
+INFO - Loading document document lengths 13% done. Estimated finished in 0m06s
+INFO - Loading document document lengths 27% done. Estimated finished in 0m05s
+INFO - Loading document document lengths 41% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 55% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 69% done. Estimated finished in 0m02s
+INFO - Loading document document lengths 83% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 97% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 7.292
+INFO - 801 : kudzu pueraria lobata
+INFO - Processing query: 801: 'kudzu pueraria lobata'
+INFO - Query 801 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.7386577828051708 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: kudzu, normalisedFrequency: 1.7387
+INFO - 2: pueraria, normalisedFrequency: 1.6699
+INFO - 3: lobata, normalisedFrequency: 1.5152
+INFO - 4: daidzin, normalisedFrequency: 0.1714
+INFO - 5: sourc, normalisedFrequency: 0.1681
+INFO - 6: abstract, normalisedFrequency: 0.1547
+INFO - 7: stem, normalisedFrequency: 0.1488
+INFO - 8: journal, normalisedFrequency: 0.1419
+INFO - 9: ohwi, normalisedFrequency: 0.1245
+INFO - 10: na, normalisedFrequency: 0.1205
+INFO - NEWQUERY 801 kudzu^1.738657783 pueraria^1.669886136 lobata^1.515228169 daidzin^0.171396489 sourc^0.168053128 abstract^0.154719172 stem^0.148766159 journal^0.141871764 ohwi^0.124454678 na^0.120546710 
+INFO - Accessing inverted file for expanded query 801
+INFO - Query 801 with 10 terms has 10 posting lists
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/classical.DPH_QE.terrier.801-850.txt
+INFO - Time to process query: 1.82
+INFO - 802 : volcano eruptions global temperature
+INFO - Processing query: 802: 'volcano eruptions global temperature'
+INFO - Query 802 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.43650668907583184 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: volcano, normalisedFrequency: 1.3262
+INFO - 2: erupt, normalisedFrequency: 1.4365
+INFO - 3: global, normalisedFrequency: 1.0000
+INFO - 4: temperatur, normalisedFrequency: 1.0000
+INFO - 5: volcan, normalisedFrequency: 0.1468
+INFO - 6: stratospher, normalisedFrequency: 0.1135
+INFO - 7: tambora, normalisedFrequency: 0.1126
+INFO - 8: pinatubo, normalisedFrequency: 0.1030
+INFO - 9: agung, normalisedFrequency: 0.1023
+INFO - 10: crater, normalisedFrequency: 0.0949
+INFO - 11: lava, normalisedFrequency: 0.0911
+INFO - 12: indonesia, normalisedFrequency: 0.0896
+INFO - NEWQUERY 802 volcano^1.326235207 erupt^1.436506689 global^1.000000000 temperatur^1.000000000 volcan^0.146775007 stratospher^0.113543816 tambora^0.112576227 pinatubo^0.102965900 agung^0.102343203 crater^0.094864716 lava^0.091079454 indonesia^0.089643213 
+INFO - Accessing inverted file for expanded query 802
+INFO - Query 802 with 12 terms has 12 posting lists
+INFO - Time to process query: 0.916
+INFO - 803 : may day
+INFO - Processing query: 803: 'may day'
+WARN - query term mai has low idf - ignored from scoring.
+INFO - Query 803 with 2 terms has 1 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.08753826452475583 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: mai, normalisedFrequency: 1.0000
+INFO - 2: dai, normalisedFrequency: 1.0875
+INFO - 3: sb, normalisedFrequency: 0.0701
+INFO - 4: th, normalisedFrequency: 0.0677
+INFO - 5: ns, normalisedFrequency: 0.0646
+INFO - 6: close, normalisedFrequency: 0.0258
+INFO - 7: august, normalisedFrequency: 0.0194
+INFO - 8: octob, normalisedFrequency: 0.0181
+INFO - 9: dcru, normalisedFrequency: 0.0173
+INFO - 10: decemb, normalisedFrequency: 0.0151
+INFO - 11: februari, normalisedFrequency: 0.0150
+INFO - NEWQUERY 803 mai^1.000000000 dai^1.087538265 sb^0.070146968 th^0.067725024 ns^0.064644727 close^0.025785588 august^0.019388270 octob^0.018078504 dcru^0.017276290 decemb^0.015065430 februari^0.014959599 
+INFO - Accessing inverted file for expanded query 803
+WARN - query term mai has low idf - ignored from scoring.
+INFO - Query 803 with 11 terms has 10 posting lists
+INFO - Time to process query: 3.414
+INFO - 804 : ban on human cloning
+INFO - Processing query: 804: 'ban on human cloning'
+INFO - Query 804 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.43269395691311213 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: ban, normalisedFrequency: 1.1131
+INFO - 2: human, normalisedFrequency: 1.0863
+INFO - 3: clone, normalisedFrequency: 1.4327
+INFO - 4: embryo, normalisedFrequency: 0.2439
+INFO - 5: moral, normalisedFrequency: 0.0864
+INFO - 6: therapeut, normalisedFrequency: 0.0863
+INFO - 7: stem, normalisedFrequency: 0.0817
+INFO - 8: cell, normalisedFrequency: 0.0783
+INFO - 9: embryon, normalisedFrequency: 0.0585
+INFO - 10: ivf, normalisedFrequency: 0.0556
+INFO - NEWQUERY 804 ban^1.113105823 human^1.086293812 clone^1.432693957 embryo^0.243929982 moral^0.086389742 therapeut^0.086305017 stem^0.081655160 cell^0.078283813 embryon^0.058450240 ivf^0.055609738 
+INFO - Accessing inverted file for expanded query 804
+INFO - Query 804 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.191
+INFO - 805 : identity theft passport
+INFO - Processing query: 805: 'identity theft passport'
+INFO - Query 805 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3549048078565761 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: ident, normalisedFrequency: 1.3232
+INFO - 2: theft, normalisedFrequency: 1.3549
+INFO - 3: passport, normalisedFrequency: 1.1641
+INFO - 4: kilgor, normalisedFrequency: 0.0934
+INFO - 5: victim, normalisedFrequency: 0.0772
+INFO - 6: crime, normalisedFrequency: 0.0675
+INFO - 7: stolen, normalisedFrequency: 0.0484
+INFO - 8: virginia, normalisedFrequency: 0.0366
+INFO - 9: oag, normalisedFrequency: 0.0337
+INFO - 10: attornei, normalisedFrequency: 0.0336
+INFO - NEWQUERY 805 ident^1.323238785 theft^1.354904808 passport^1.164066015 kilgor^0.093395078 victim^0.077164687 crime^0.067535747 stolen^0.048421807 virginia^0.036574989 oag^0.033747623 attornei^0.033646087 
+INFO - Accessing inverted file for expanded query 805
+INFO - Query 805 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.831
+INFO - 806 : doctors without borders
+INFO - Processing query: 806: 'doctors without borders'
+INFO - Query 806 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2566726992220889 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: doctor, normalisedFrequency: 1.2567
+INFO - 2: border, normalisedFrequency: 1.0838
+INFO - 3: medic, normalisedFrequency: 0.0546
+INFO - 4: physician, normalisedFrequency: 0.0527
+INFO - 5: care, normalisedFrequency: 0.0463
+INFO - 6: 90, normalisedFrequency: 0.0399
+INFO - 7: grand, normalisedFrequency: 0.0315
+INFO - 8: medicin, normalisedFrequency: 0.0288
+INFO - 9: question, normalisedFrequency: 0.0221
+INFO - 10: sure, normalisedFrequency: 0.0217
+INFO - NEWQUERY 806 doctor^1.256672699 border^1.083822612 medic^0.054594382 physician^0.052734904 care^0.046271383 90^0.039899943 grand^0.031500452 medicin^0.028771495 question^0.022107145 sure^0.021659833 
+INFO - Accessing inverted file for expanded query 806
+INFO - Query 806 with 10 terms has 10 posting lists
+INFO - Time to process query: 2.501
+INFO - 807 : sugar tariff rate quotas
+INFO - Processing query: 807: 'sugar tariff rate quotas'
+INFO - Query 807 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4126632573387417 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: sugar, normalisedFrequency: 1.4073
+INFO - 2: tariff, normalisedFrequency: 1.2236
+INFO - 3: rate, normalisedFrequency: 1.0000
+INFO - 4: quota, normalisedFrequency: 1.4127
+INFO - 5: export, normalisedFrequency: 0.0883
+INFO - 6: refin, normalisedFrequency: 0.0761
+INFO - 7: import, normalisedFrequency: 0.0605
+INFO - 8: ton, normalisedFrequency: 0.0570
+INFO - 9: raw, normalisedFrequency: 0.0559
+INFO - 10: cane, normalisedFrequency: 0.0522
+INFO - 11: polyhydr, normalisedFrequency: 0.0513
+INFO - NEWQUERY 807 sugar^1.407333410 tariff^1.223612415 rate^1.000000000 quota^1.412663257 export^0.088296983 refin^0.076077465 import^0.060537957 ton^0.056953767 raw^0.055940079 cane^0.052156878 polyhydr^0.051260465 
+INFO - Accessing inverted file for expanded query 807
+INFO - Query 807 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.422
+INFO - 808 : north korean counterfeiting
+INFO - Processing query: 808: 'north korean counterfeiting'
+INFO - Query 808 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3971910639278873 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: north, normalisedFrequency: 1.1462
+INFO - 2: korean, normalisedFrequency: 1.3972
+INFO - 3: counterfeit, normalisedFrequency: 1.1262
+INFO - 4: traffick, normalisedFrequency: 0.2153
+INFO - 5: methamphetamin, normalisedFrequency: 0.1042
+INFO - 6: seizur, normalisedFrequency: 0.1022
+INFO - 7: pong, normalisedFrequency: 0.0996
+INFO - 8: korea, normalisedFrequency: 0.0918
+INFO - 9: smuggl, normalisedFrequency: 0.0904
+INFO - 10: drug, normalisedFrequency: 0.0800
+INFO - NEWQUERY 808 north^1.146151443 korean^1.397191064 counterfeit^1.126206523 traffick^0.215281733 methamphetamin^0.104170192 seizur^0.102222573 pong^0.099644784 korea^0.091790998 smuggl^0.090430272 drug^0.079985010 
+INFO - Accessing inverted file for expanded query 808
+INFO - Query 808 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.163
+INFO - 809 : wetlands wastewater treatment
+INFO - Processing query: 809: 'wetlands wastewater treatment'
+INFO - Query 809 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2660135091750821 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: wetland, normalisedFrequency: 1.2660
+INFO - 2: wastewat, normalisedFrequency: 1.1964
+INFO - 3: treatment, normalisedFrequency: 1.0991
+INFO - 4: construct, normalisedFrequency: 0.0438
+INFO - 5: plant, normalisedFrequency: 0.0431
+INFO - 6: system, normalisedFrequency: 0.0379
+INFO - 7: treat, normalisedFrequency: 0.0275
+INFO - 8: natur, normalisedFrequency: 0.0236
+INFO - 9: design, normalisedFrequency: 0.0232
+INFO - 10: surfac, normalisedFrequency: 0.0226
+INFO - NEWQUERY 809 wetland^1.266013509 wastewat^1.196372619 treatment^1.099102272 construct^0.043815320 plant^0.043142948 system^0.037921290 treat^0.027522725 natur^0.023558511 design^0.023154410 surfac^0.022603805 
+INFO - Accessing inverted file for expanded query 809
+WARN - query term system has low idf - ignored from scoring.
+INFO - Query 809 with 10 terms has 9 posting lists
+INFO - Time to process query: 2.295
+INFO - 810 : timeshare resales
+INFO - Processing query: 810: 'timeshare resales'
+INFO - Query 810 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5847605364901439 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: timeshar, normalisedFrequency: 1.5848
+INFO - 2: resal, normalisedFrequency: 1.1558
+INFO - 3: estat, normalisedFrequency: 0.1013
+INFO - 4: real, normalisedFrequency: 0.0799
+INFO - 5: consum, normalisedFrequency: 0.0690
+INFO - 6: resel, normalisedFrequency: 0.0622
+INFO - 7: membership, normalisedFrequency: 0.0620
+INFO - 8: campground, normalisedFrequency: 0.0546
+INFO - 9: escrow, normalisedFrequency: 0.0545
+INFO - 10: fee, normalisedFrequency: 0.0543
+INFO - NEWQUERY 810 timeshar^1.584760536 resal^1.155752946 estat^0.101267855 real^0.079945852 consum^0.069012241 resel^0.062152912 membership^0.062012257 campground^0.054594221 escrow^0.054455731 fee^0.054262789 
+INFO - Accessing inverted file for expanded query 810
+INFO - Query 810 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.815
+INFO - 811 : handwriting recognition
+INFO - Processing query: 811: 'handwriting recognition'
+INFO - Query 811 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5651980058595139 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: handwrit, normalisedFrequency: 1.5652
+INFO - 2: recognit, normalisedFrequency: 1.2224
+INFO - 3: signal, normalisedFrequency: 0.3488
+INFO - 4: transduc, normalisedFrequency: 0.2935
+INFO - 5: second, normalisedFrequency: 0.2005
+INFO - 6: stroke, normalisedFrequency: 0.1719
+INFO - 7: reject, normalisedFrequency: 0.1705
+INFO - 8: probabl, normalisedFrequency: 0.1667
+INFO - 9: input, normalisedFrequency: 0.1428
+INFO - 10: appeal, normalisedFrequency: 0.1390
+INFO - NEWQUERY 811 handwrit^1.565198006 recognit^1.222407751 signal^0.348834978 transduc^0.293497499 second^0.200453808 stroke^0.171949689 reject^0.170487336 probabl^0.166731695 input^0.142784248 appeal^0.139039058 
+INFO - Accessing inverted file for expanded query 811
+INFO - Query 811 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.115
+INFO - 812 : total knee replacement surgery
+INFO - Processing query: 812: 'total knee replacement surgery'
+INFO - Query 812 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4423817081089128 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: total, normalisedFrequency: 1.0000
+INFO - 2: knee, normalisedFrequency: 1.4424
+INFO - 3: replac, normalisedFrequency: 1.1274
+INFO - 4: surgeri, normalisedFrequency: 1.3405
+INFO - 5: claimant, normalisedFrequency: 0.2894
+INFO - 6: iro, normalisedFrequency: 0.1340
+INFO - 7: preauthor, normalisedFrequency: 0.1100
+INFO - 8: tex, normalisedFrequency: 0.0809
+INFO - 9: alj, normalisedFrequency: 0.0700
+INFO - 10: injuri, normalisedFrequency: 0.0681
+INFO - 11: medic, normalisedFrequency: 0.0670
+INFO - NEWQUERY 812 total^1.000000000 knee^1.442381708 replac^1.127381619 surgeri^1.340484949 claimant^0.289428330 iro^0.133992998 preauthor^0.109953153 tex^0.080918229 alj^0.069995899 injuri^0.068062309 medic^0.067041847 
+INFO - Accessing inverted file for expanded query 812
+INFO - Query 812 with 11 terms has 11 posting lists
+INFO - Time to process query: 2.07
+INFO - 813 : atlantic intracoastal waterway
+INFO - Processing query: 813: 'atlantic intracoastal waterway'
+INFO - Query 813 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3930274201124499 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: atlant, normalisedFrequency: 1.0935
+INFO - 2: intracoast, normalisedFrequency: 1.3812
+INFO - 3: waterwai, normalisedFrequency: 1.3930
+INFO - 4: barg, normalisedFrequency: 0.2344
+INFO - 5: florida, normalisedFrequency: 0.1725
+INFO - 6: truck, normalisedFrequency: 0.1378
+INFO - 7: coastwis, normalisedFrequency: 0.1131
+INFO - 8: dredg, normalisedFrequency: 0.0857
+INFO - 9: inland, normalisedFrequency: 0.0819
+INFO - 10: intermod, normalisedFrequency: 0.0811
+INFO - NEWQUERY 813 atlant^1.093535047 intracoast^1.381226381 waterwai^1.393027420 barg^0.234377811 florida^0.172539635 truck^0.137752655 coastwis^0.113111128 dredg^0.085748415 inland^0.081910804 intermod^0.081115133 
+INFO - Accessing inverted file for expanded query 813
+INFO - Query 813 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.762
+INFO - 814 : johnstown flood
+INFO - Processing query: 814: 'johnstown flood'
+INFO - Query 814 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5087365118143262 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: johnstown, normalisedFrequency: 1.5087
+INFO - 2: flood, normalisedFrequency: 1.2932
+INFO - 3: 1889, normalisedFrequency: 0.2233
+INFO - 4: book, normalisedFrequency: 0.1114
+INFO - 5: aftermath, normalisedFrequency: 0.0867
+INFO - 6: stori, normalisedFrequency: 0.0860
+INFO - 7: fletcher, normalisedFrequency: 0.0809
+INFO - 8: willi, normalisedFrequency: 0.0727
+INFO - 9: histori, normalisedFrequency: 0.0646
+INFO - 10: publish, normalisedFrequency: 0.0592
+INFO - NEWQUERY 814 johnstown^1.508736512 flood^1.293176862 1889^0.223299563 book^0.111358837 aftermath^0.086679607 stori^0.086010363 fletcher^0.080903124 willi^0.072668626 histori^0.064634932 publish^0.059204125 
+INFO - Accessing inverted file for expanded query 814
+INFO - Query 814 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.406
+INFO - 815 : coast guard rescues
+INFO - Processing query: 815: 'coast guard rescues'
+INFO - Query 815 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2773435426990398 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: coast, normalisedFrequency: 1.2503
+INFO - 2: guard, normalisedFrequency: 1.2773
+INFO - 3: rescu, normalisedFrequency: 1.1097
+INFO - 4: distress, normalisedFrequency: 0.0759
+INFO - 5: boat, normalisedFrequency: 0.0308
+INFO - 6: vessel, normalisedFrequency: 0.0283
+INFO - 7: maritim, normalisedFrequency: 0.0281
+INFO - 8: modern, normalisedFrequency: 0.0239
+INFO - 9: recruit, normalisedFrequency: 0.0227
+INFO - 10: full, normalisedFrequency: 0.0220
+INFO - NEWQUERY 815 coast^1.250336973 guard^1.277343543 rescu^1.109737637 distress^0.075939946 boat^0.030762854 vessel^0.028317925 maritim^0.028106274 modern^0.023944256 recruit^0.022736465 full^0.022020647 
+INFO - Accessing inverted file for expanded query 815
+INFO - Query 815 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.287
+INFO - 816 : usaid assistance to galapagos
+INFO - Processing query: 816: 'usaid assistance to galapagos'
+INFO - Query 816 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.33307346084057876 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: usaid, normalisedFrequency: 1.3331
+INFO - 2: assist, normalisedFrequency: 1.0000
+INFO - 3: galapago, normalisedFrequency: 1.1974
+INFO - 4: ecuador, normalisedFrequency: 0.3017
+INFO - 5: ecuadorian, normalisedFrequency: 0.2332
+INFO - 6: ngo, normalisedFrequency: 0.2049
+INFO - 7: biodivers, normalisedFrequency: 0.1093
+INFO - 8: strengthen, normalisedFrequency: 0.0988
+INFO - 9: indigen, normalisedFrequency: 0.0890
+INFO - 10: donor, normalisedFrequency: 0.0857
+INFO - 11: conserv, normalisedFrequency: 0.0750
+INFO - NEWQUERY 816 usaid^1.333073461 assist^1.000000000 galapago^1.197384007 ecuador^0.301696303 ecuadorian^0.233167534 ngo^0.204850765 biodivers^0.109316848 strengthen^0.098836254 indigen^0.089025232 donor^0.085671917 conserv^0.075024719 
+INFO - Accessing inverted file for expanded query 816
+INFO - Query 816 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.185
+INFO - 817 : sports stadium naming rights
+INFO - Processing query: 817: 'sports stadium naming rights'
+INFO - Query 817 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.46814555112801154 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: sport, normalisedFrequency: 1.2383
+INFO - 2: stadium, normalisedFrequency: 1.4681
+INFO - 3: name, normalisedFrequency: 1.0000
+INFO - 4: right, normalisedFrequency: 1.0000
+INFO - 5: basebal, normalisedFrequency: 0.2860
+INFO - 6: metrodom, normalisedFrequency: 0.2277
+INFO - 7: footbal, normalisedFrequency: 0.1957
+INFO - 8: revenu, normalisedFrequency: 0.1572
+INFO - 9: tax, normalisedFrequency: 0.1564
+INFO - 10: team, normalisedFrequency: 0.1288
+INFO - 11: financ, normalisedFrequency: 0.1283
+INFO - 12: memorabilia, normalisedFrequency: 0.1176
+INFO - NEWQUERY 817 sport^1.238334528 stadium^1.468145551 name^1.000000000 right^1.000000000 basebal^0.285992502 metrodom^0.227705128 footbal^0.195746462 revenu^0.157237821 tax^0.156417807 team^0.128825675 financ^0.128338304 memorabilia^0.117638965 
+INFO - Accessing inverted file for expanded query 817
+INFO - Query 817 with 12 terms has 12 posting lists
+INFO - Time to process query: 3.788
+INFO - 818 : chaco culture national park
+INFO - Processing query: 818: 'chaco culture national park'
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 818 with 4 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.6158494612883268 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: chaco, normalisedFrequency: 1.6158
+INFO - 2: cultur, normalisedFrequency: 1.3526
+INFO - 3: nation, normalisedFrequency: 1.0000
+INFO - 4: park, normalisedFrequency: 1.1404
+INFO - 5: pueblo, normalisedFrequency: 0.2172
+INFO - 6: hopi, normalisedFrequency: 0.1528
+INFO - 7: mexico, normalisedFrequency: 0.1267
+INFO - 8: heritag, normalisedFrequency: 0.0884
+INFO - 9: histor, normalisedFrequency: 0.0797
+INFO - 10: ruin, normalisedFrequency: 0.0746
+INFO - 11: zuni, normalisedFrequency: 0.0720
+INFO - NEWQUERY 818 chaco^1.615849461 cultur^1.352587927 nation^1.000000000 park^1.140386179 pueblo^0.217189818 hopi^0.152789211 mexico^0.126702261 heritag^0.088443169 histor^0.079730170 ruin^0.074590527 zuni^0.071990447 
+INFO - Accessing inverted file for expanded query 818
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 818 with 11 terms has 10 posting lists
+INFO - Time to process query: 1.373
+INFO - 819 : 1890 census
+INFO - Processing query: 819: '1890 census'
+INFO - Query 819 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3691037937833159 last weight=8.725908562246181E-4
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: 1890, normalisedFrequency: 1.1953
+INFO - 2: censu, normalisedFrequency: 1.1977
+INFO - 3: 1921, normalisedFrequency: 0.3691
+INFO - 4: rg, normalisedFrequency: 0.2150
+INFO - 5: m123, normalisedFrequency: 0.1399
+INFO - 6: eleventh, normalisedFrequency: 0.1288
+INFO - 7: na, normalisedFrequency: 0.1101
+INFO - 8: commerc, normalisedFrequency: 0.0937
+INFO - 9: census, normalisedFrequency: 0.0867
+INFO - 10: secretari, normalisedFrequency: 0.0862
+INFO - NEWQUERY 819 1890^1.195308814 censu^1.197695886 1921^0.369103794 rg^0.215049809 m123^0.139866718 eleventh^0.128758571 na^0.110098992 commerc^0.093696371 census^0.086698819 secretari^0.086203620 
+INFO - Accessing inverted file for expanded query 819
+INFO - Query 819 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.0
+INFO - 820 : imported fire ants
+INFO - Processing query: 820: 'imported fire ants'
+INFO - Query 820 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.350221253198676 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: import, normalisedFrequency: 1.0846
+INFO - 2: fire, normalisedFrequency: 1.1038
+INFO - 3: ant, normalisedFrequency: 1.3502
+INFO - 4: quarantin, normalisedFrequency: 0.0997
+INFO - 5: mound, normalisedFrequency: 0.0791
+INFO - 6: red, normalisedFrequency: 0.0571
+INFO - 7: coloni, normalisedFrequency: 0.0536
+INFO - 8: fireant, normalisedFrequency: 0.0466
+INFO - 9: solenopsi, normalisedFrequency: 0.0442
+INFO - 10: queen, normalisedFrequency: 0.0432
+INFO - NEWQUERY 820 import^1.084606753 fire^1.103801486 ant^1.350221253 quarantin^0.099707427 mound^0.079141992 red^0.057053381 coloni^0.053597516 fireant^0.046615298 solenopsi^0.044235911 queen^0.043156562 
+INFO - Accessing inverted file for expanded query 820
+INFO - Query 820 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.521
+INFO - 821 : internet work at home scams
+INFO - Processing query: 821: 'internet work at home scams'
+WARN - query term home has low idf - ignored from scoring.
+INFO - Query 821 with 4 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4785408833575228 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: internet, normalisedFrequency: 1.2009
+INFO - 2: work, normalisedFrequency: 1.0000
+INFO - 3: home, normalisedFrequency: 1.0000
+INFO - 4: scam, normalisedFrequency: 1.4785
+INFO - 5: consum, normalisedFrequency: 0.1120
+INFO - 6: monei, normalisedFrequency: 0.0871
+INFO - 7: ftc, normalisedFrequency: 0.0802
+INFO - 8: promis, normalisedFrequency: 0.0747
+INFO - 9: stuf, normalisedFrequency: 0.0739
+INFO - 10: scheme, normalisedFrequency: 0.0692
+INFO - 11: pyramid, normalisedFrequency: 0.0662
+INFO - 12: auction, normalisedFrequency: 0.0642
+INFO - NEWQUERY 821 internet^1.200859027 work^1.000000000 home^1.000000000 scam^1.478540883 consum^0.112016283 monei^0.087075634 ftc^0.080162365 promis^0.074666356 stuf^0.073926510 scheme^0.069235326 pyramid^0.066232725 auction^0.064211720 
+INFO - Accessing inverted file for expanded query 821
+WARN - query term home has low idf - ignored from scoring.
+INFO - Query 821 with 12 terms has 11 posting lists
+INFO - Time to process query: 2.064
+INFO - 822 : custer s last stand
+INFO - Processing query: 822: 'custer s last stand'
+INFO - Query 822 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4246962047328473 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: custer, normalisedFrequency: 1.4247
+INFO - 2: last, normalisedFrequency: 1.0000
+INFO - 3: stand, normalisedFrequency: 1.0574
+INFO - 4: battl, normalisedFrequency: 0.0918
+INFO - 5: 1876, normalisedFrequency: 0.0570
+INFO - 6: essai, normalisedFrequency: 0.0562
+INFO - 7: horn, normalisedFrequency: 0.0562
+INFO - 8: littl, normalisedFrequency: 0.0548
+INFO - 9: big, normalisedFrequency: 0.0481
+INFO - 10: georg, normalisedFrequency: 0.0459
+INFO - 11: cavalri, normalisedFrequency: 0.0439
+INFO - NEWQUERY 822 custer^1.424696205 last^1.000000000 stand^1.057408234 battl^0.091757612 1876^0.056999539 essai^0.056174371 horn^0.056152638 littl^0.054821822 big^0.048122803 georg^0.045851740 cavalri^0.043921714 
+INFO - Accessing inverted file for expanded query 822
+INFO - Query 822 with 11 terms has 11 posting lists
+INFO - Time to process query: 3.103
+INFO - 823 : continuing care retirement communities
+INFO - Processing query: 823: 'continuing care retirement communities'
+INFO - Query 823 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.10223492496590753 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: continu, normalisedFrequency: 1.0715
+INFO - 2: care, normalisedFrequency: 1.1022
+INFO - 3: retir, normalisedFrequency: 1.0848
+INFO - 4: commun, normalisedFrequency: 1.0441
+INFO - 5: nurs, normalisedFrequency: 0.0586
+INFO - 6: resid, normalisedFrequency: 0.0575
+INFO - 7: facil, normalisedFrequency: 0.0431
+INFO - 8: provid, normalisedFrequency: 0.0344
+INFO - 9: act, normalisedFrequency: 0.0291
+INFO - 10: senat, normalisedFrequency: 0.0267
+INFO - NEWQUERY 823 continu^1.071460023 care^1.102234925 retir^1.084769365 commun^1.044090026 nurs^0.058600092 resid^0.057521091 facil^0.043105755 provid^0.034382756 act^0.029060104 senat^0.026680599 
+INFO - Accessing inverted file for expanded query 823
+INFO - Query 823 with 10 terms has 10 posting lists
+INFO - Time to process query: 4.398
+INFO - 824 : civil air patrol
+INFO - Processing query: 824: 'civil air patrol'
+INFO - Query 824 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.34622523524228355 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: civil, normalisedFrequency: 1.1442
+INFO - 2: air, normalisedFrequency: 1.1744
+INFO - 3: patrol, normalisedFrequency: 1.3462
+INFO - 4: aerospac, normalisedFrequency: 0.2846
+INFO - 5: cadet, normalisedFrequency: 0.0924
+INFO - 6: flight, normalisedFrequency: 0.0452
+INFO - 7: forc, normalisedFrequency: 0.0408
+INFO - 8: mission, normalisedFrequency: 0.0282
+INFO - 9: fly, normalisedFrequency: 0.0247
+INFO - 10: instructor, normalisedFrequency: 0.0224
+INFO - NEWQUERY 824 civil^1.144168364 air^1.174356092 patrol^1.346225235 aerospac^0.284626112 cadet^0.092405096 flight^0.045197339 forc^0.040798148 mission^0.028197521 fly^0.024694248 instructor^0.022380509 
+INFO - Accessing inverted file for expanded query 824
+INFO - Query 824 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.536
+INFO - 825 : national guard involvement in iraq
+INFO - Processing query: 825: 'national guard involvement in iraq'
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 825 with 4 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.24622195724789936 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: nation, normalisedFrequency: 1.0000
+INFO - 2: guard, normalisedFrequency: 1.2462
+INFO - 3: involv, normalisedFrequency: 1.0860
+INFO - 4: iraq, normalisedFrequency: 1.1951
+INFO - 5: soldier, normalisedFrequency: 0.1646
+INFO - 6: battalion, normalisedFrequency: 0.1409
+INFO - 7: troop, normalisedFrequency: 0.1335
+INFO - 8: detach, normalisedFrequency: 0.0969
+INFO - 9: militari, normalisedFrequency: 0.0934
+INFO - 10: kuwait, normalisedFrequency: 0.0754
+INFO - 11: deploi, normalisedFrequency: 0.0694
+INFO - NEWQUERY 825 nation^1.000000000 guard^1.246221957 involv^1.086027004 iraq^1.195096816 soldier^0.164624403 battalion^0.140865242 troop^0.133474664 detach^0.096871054 militari^0.093412888 kuwait^0.075350264 deploi^0.069433103 
+INFO - Accessing inverted file for expanded query 825
+WARN - query term nation has low idf - ignored from scoring.
+INFO - Query 825 with 11 terms has 10 posting lists
+INFO - Time to process query: 1.13
+INFO - 826 : florida seminole indians
+INFO - Processing query: 826: 'florida seminole indians'
+INFO - Query 826 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4498708898266113 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: florida, normalisedFrequency: 1.2278
+INFO - 2: seminol, normalisedFrequency: 1.4178
+INFO - 3: indian, normalisedFrequency: 1.1833
+INFO - 4: fla, normalisedFrequency: 0.4499
+INFO - 5: creek, normalisedFrequency: 0.0540
+INFO - 6: war, normalisedFrequency: 0.0538
+INFO - 7: everglad, normalisedFrequency: 0.0472
+INFO - 8: tribe, normalisedFrequency: 0.0427
+INFO - 9: osceola, normalisedFrequency: 0.0406
+INFO - 10: histori, normalisedFrequency: 0.0313
+INFO - NEWQUERY 826 florida^1.227802225 seminol^1.417769856 indian^1.183341661 fla^0.449870890 creek^0.054022046 war^0.053758341 everglad^0.047236476 tribe^0.042660975 osceola^0.040590833 histori^0.031301833 
+INFO - Accessing inverted file for expanded query 826
+INFO - Query 826 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.539
+INFO - 827 : hidden markov modeling hmm
+INFO - Processing query: 827: 'hidden markov modeling hmm'
+INFO - Query 827 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.6334174299003542 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: hidden, normalisedFrequency: 1.0000
+INFO - 2: markov, normalisedFrequency: 1.1003
+INFO - 3: model, normalisedFrequency: 1.0000
+INFO - 4: hmm, normalisedFrequency: 1.6334
+INFO - 5: sequenc, normalisedFrequency: 0.2786
+INFO - 6: profil, normalisedFrequency: 0.2517
+INFO - 7: match, normalisedFrequency: 0.0973
+INFO - 8: node, normalisedFrequency: 0.0885
+INFO - 9: hmmerbuild, normalisedFrequency: 0.0813
+INFO - 10: gcg, normalisedFrequency: 0.0787
+INFO - 11: pfam, normalisedFrequency: 0.0769
+INFO - 12: probabl, normalisedFrequency: 0.0730
+INFO - NEWQUERY 827 hidden^1.000000000 markov^1.100334560 model^1.000000000 hmm^1.633417430 sequenc^0.278631741 profil^0.251695542 match^0.097295111 node^0.088514168 hmmerbuild^0.081312901 gcg^0.078733646 pfam^0.076885337 probabl^0.073035373 
+INFO - Accessing inverted file for expanded query 827
+INFO - Query 827 with 12 terms has 12 posting lists
+INFO - Time to process query: 1.237
+INFO - 828 : secret shoppers
+INFO - Processing query: 828: 'secret shoppers'
+INFO - Query 828 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5766468555822902 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: secret, normalisedFrequency: 1.4309
+INFO - 2: shopper, normalisedFrequency: 1.5766
+INFO - 3: particip, normalisedFrequency: 0.2884
+INFO - 4: interview, normalisedFrequency: 0.2286
+INFO - 5: pick, normalisedFrequency: 0.2221
+INFO - 6: agreement, normalisedFrequency: 0.2025
+INFO - 7: item, normalisedFrequency: 0.1731
+INFO - 8: train, normalisedFrequency: 0.1686
+INFO - 9: date, normalisedFrequency: 0.1237
+INFO - 10: will, normalisedFrequency: 0.1191
+INFO - NEWQUERY 828 secret^1.430863719 shopper^1.576646856 particip^0.288425108 interview^0.228585164 pick^0.222142134 agreement^0.202495548 item^0.173125392 train^0.168564738 date^0.123700394 will^0.119109018 
+INFO - Accessing inverted file for expanded query 828
+WARN - query term will has low idf - ignored from scoring.
+INFO - Query 828 with 10 terms has 9 posting lists
+INFO - Time to process query: 2.09
+INFO - 829 : spanish civil war support
+INFO - Processing query: 829: 'spanish civil war support'
+INFO - Query 829 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2449169317152393 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: spanish, normalisedFrequency: 1.2100
+INFO - 2: civil, normalisedFrequency: 1.0570
+INFO - 3: war, normalisedFrequency: 1.2449
+INFO - 4: support, normalisedFrequency: 1.0000
+INFO - 5: spain, normalisedFrequency: 0.1237
+INFO - 6: 1936, normalisedFrequency: 0.0709
+INFO - 7: american, normalisedFrequency: 0.0540
+INFO - 8: 1939, normalisedFrequency: 0.0488
+INFO - 9: franco, normalisedFrequency: 0.0467
+INFO - 10: hitler, normalisedFrequency: 0.0433
+INFO - 11: soviet, normalisedFrequency: 0.0407
+INFO - NEWQUERY 829 spanish^1.209978159 civil^1.057005449 war^1.244916932 support^1.000000000 spain^0.123728828 1936^0.070925661 american^0.053980919 1939^0.048807403 franco^0.046683527 hitler^0.043337013 soviet^0.040745536 
+INFO - Accessing inverted file for expanded query 829
+INFO - Query 829 with 11 terms has 11 posting lists
+INFO - Time to process query: 2.951
+INFO - 830 : model railroads
+INFO - Processing query: 830: 'model railroads'
+INFO - Query 830 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.25343175485178476 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: model, normalisedFrequency: 1.0820
+INFO - 2: railroad, normalisedFrequency: 1.2534
+INFO - 3: searchwidgit, normalisedFrequency: 0.0511
+INFO - 4: m689, normalisedFrequency: 0.0496
+INFO - 5: null, normalisedFrequency: 0.0430
+INFO - 6: layout, normalisedFrequency: 0.0410
+INFO - 7: write, normalisedFrequency: 0.0391
+INFO - 8: document, normalisedFrequency: 0.0347
+INFO - 9: 625, normalisedFrequency: 0.0280
+INFO - 10: vh, normalisedFrequency: 0.0267
+INFO - NEWQUERY 830 model^1.082048988 railroad^1.253431755 searchwidgit^0.051136689 m689^0.049569034 null^0.042973826 layout^0.041019609 write^0.039057235 document^0.034724879 625^0.027983982 vh^0.026673814 
+INFO - Accessing inverted file for expanded query 830
+WARN - query term document has low idf - ignored from scoring.
+INFO - Query 830 with 10 terms has 9 posting lists
+INFO - Time to process query: 1.662
+INFO - 831 : dulles airport security
+INFO - Processing query: 831: 'dulles airport security'
+INFO - Query 831 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.48769356848800616 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: dull, normalisedFrequency: 1.4108
+INFO - 2: airport, normalisedFrequency: 1.3728
+INFO - 3: secur, normalisedFrequency: 1.1627
+INFO - 4: screener, normalisedFrequency: 0.4877
+INFO - 5: ziglar, normalisedFrequency: 0.4249
+INFO - 6: argenbright, normalisedFrequency: 0.2631
+INFO - 7: unconfirm, normalisedFrequency: 0.1729
+INFO - 8: citizen, normalisedFrequency: 0.1398
+INFO - 9: eighti, normalisedFrequency: 0.1372
+INFO - 10: mead, normalisedFrequency: 0.1336
+INFO - NEWQUERY 831 dull^1.410837580 airport^1.372816456 secur^1.162675828 screener^0.487693568 ziglar^0.424895379 argenbright^0.263054853 unconfirm^0.172866386 citizen^0.139827476 eighti^0.137168062 mead^0.133565434 
+INFO - Accessing inverted file for expanded query 831
+INFO - Query 831 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.489
+INFO - 832 : labor union activity
+INFO - Processing query: 832: 'labor union activity'
+INFO - Query 832 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.1770545537377035 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: labor, normalisedFrequency: 1.1047
+INFO - 2: union, normalisedFrequency: 1.1771
+INFO - 3: activ, normalisedFrequency: 1.0000
+INFO - 4: bargain, normalisedFrequency: 0.0404
+INFO - 5: fee, normalisedFrequency: 0.0346
+INFO - 6: refund, normalisedFrequency: 0.0281
+INFO - 7: due, normalisedFrequency: 0.0254
+INFO - 8: employe, normalisedFrequency: 0.0252
+INFO - 9: spent, normalisedFrequency: 0.0220
+INFO - 10: pai, normalisedFrequency: 0.0188
+INFO - 11: opinion, normalisedFrequency: 0.0187
+INFO - NEWQUERY 832 labor^1.104665980 union^1.177054554 activ^1.000000000 bargain^0.040395796 fee^0.034587446 refund^0.028148065 due^0.025411902 employe^0.025199184 spent^0.021972153 pai^0.018791960 opinion^0.018740447 
+INFO - Accessing inverted file for expanded query 832
+INFO - Query 832 with 11 terms has 11 posting lists
+INFO - Time to process query: 3.195
+INFO - 833 : iceland government
+INFO - Processing query: 833: 'iceland government'
+INFO - Query 833 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5341684377450272 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: iceland, normalisedFrequency: 1.5342
+INFO - 2: govern, normalisedFrequency: 1.0267
+INFO - 3: embassi, normalisedFrequency: 0.0381
+INFO - 4: reykjavik, normalisedFrequency: 0.0357
+INFO - 5: foreign, normalisedFrequency: 0.0311
+INFO - 6: countri, normalisedFrequency: 0.0260
+INFO - 7: oddsson, normalisedFrequency: 0.0207
+INFO - 8: icelandair, normalisedFrequency: 0.0150
+INFO - 9: ministri, normalisedFrequency: 0.0138
+INFO - 10: minist, normalisedFrequency: 0.0122
+INFO - NEWQUERY 833 iceland^1.534168438 govern^1.026716155 embassi^0.038062336 reykjavik^0.035710693 foreign^0.031116846 countri^0.026039157 oddsson^0.020679930 icelandair^0.014994422 ministri^0.013778455 minist^0.012168194 
+INFO - Accessing inverted file for expanded query 833
+INFO - Query 833 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.742
+INFO - 834 : global positioning system earthquakes
+INFO - Processing query: 834: 'global positioning system earthquakes'
+WARN - query term system has low idf - ignored from scoring.
+INFO - Query 834 with 4 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.25890183586914006 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: global, normalisedFrequency: 1.0000
+INFO - 2: posit, normalisedFrequency: 1.0489
+INFO - 3: system, normalisedFrequency: 1.0000
+INFO - 4: earthquak, normalisedFrequency: 1.1046
+INFO - 5: gp, normalisedFrequency: 0.2589
+INFO - 6: scignedu, normalisedFrequency: 0.0980
+INFO - 7: glassco, normalisedFrequency: 0.0870
+INFO - 8: tecton, normalisedFrequency: 0.0691
+INFO - 9: maggi, normalisedFrequency: 0.0570
+INFO - 10: airplan, normalisedFrequency: 0.0399
+INFO - 11: navig, normalisedFrequency: 0.0374
+INFO - 12: kayak, normalisedFrequency: 0.0371
+INFO - NEWQUERY 834 global^1.000000000 posit^1.048901096 system^1.000000000 earthquak^1.104590510 gp^0.258901836 scignedu^0.098042851 glassco^0.087018264 tecton^0.069117923 maggi^0.056987152 airplan^0.039877947 navig^0.037405470 kayak^0.037101611 
+INFO - Accessing inverted file for expanded query 834
+WARN - query term system has low idf - ignored from scoring.
+INFO - Query 834 with 12 terms has 11 posting lists
+INFO - Time to process query: 1.596
+INFO - 835 : big dig pork
+INFO - Processing query: 835: 'big dig pork'
+INFO - Query 835 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4694125213444161 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: big, normalisedFrequency: 1.2891
+INFO - 2: dig, normalisedFrequency: 1.4694
+INFO - 3: pork, normalisedFrequency: 1.0000
+INFO - 4: fhwa, normalisedFrequency: 0.2695
+INFO - 5: billion, normalisedFrequency: 0.1543
+INFO - 6: offici, normalisedFrequency: 0.1539
+INFO - 7: overrun, normalisedFrequency: 0.1316
+INFO - 8: cost, normalisedFrequency: 0.1251
+INFO - 9: arteri, normalisedFrequency: 0.0328
+INFO - 10: review, normalisedFrequency: 0.0323
+INFO - 11: boston, normalisedFrequency: 0.0318
+INFO - NEWQUERY 835 big^1.289126658 dig^1.469412521 pork^1.000000000 fhwa^0.269474183 billion^0.154333839 offici^0.153928500 overrun^0.131630529 cost^0.125062435 arteri^0.032846938 review^0.032308798 boston^0.031838939 
+INFO - Accessing inverted file for expanded query 835
+INFO - Query 835 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.61
+INFO - 836 : illegal immigrant wages
+INFO - Processing query: 836: 'illegal immigrant wages'
+INFO - Query 836 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2397297328236901 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: illeg, normalisedFrequency: 1.2100
+INFO - 2: immigr, normalisedFrequency: 1.2397
+INFO - 3: wage, normalisedFrequency: 1.1103
+INFO - 4: worker, normalisedFrequency: 0.1176
+INFO - 5: alien, normalisedFrequency: 0.0974
+INFO - 6: employ, normalisedFrequency: 0.0521
+INFO - 7: american, normalisedFrequency: 0.0426
+INFO - 8: displac, normalisedFrequency: 0.0399
+INFO - 9: labor, normalisedFrequency: 0.0337
+INFO - 10: enforc, normalisedFrequency: 0.0329
+INFO - NEWQUERY 836 illeg^1.209989738 immigr^1.239729733 wage^1.110339034 worker^0.117580206 alien^0.097392991 employ^0.052138118 american^0.042645272 displac^0.039902769 labor^0.033724430 enforc^0.032888128 
+INFO - Accessing inverted file for expanded query 836
+INFO - Query 836 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.829
+INFO - 837 : eskimo history
+INFO - Processing query: 837: 'eskimo history'
+INFO - Query 837 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.6709063847846826 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: eskimo, normalisedFrequency: 1.3890
+INFO - 2: histori, normalisedFrequency: 1.0000
+INFO - 3: curlew, normalisedFrequency: 0.6709
+INFO - 4: bird, normalisedFrequency: 0.4700
+INFO - 5: saskatchewan, normalisedFrequency: 0.1153
+INFO - 6: ornithologist, normalisedFrequency: 0.1146
+INFO - 7: labrador, normalisedFrequency: 0.1113
+INFO - 8: whimbrel, normalisedFrequency: 0.0857
+INFO - 9: vanish, normalisedFrequency: 0.0767
+INFO - 10: migrat, normalisedFrequency: 0.0645
+INFO - 11: gollop, normalisedFrequency: 0.0609
+INFO - NEWQUERY 837 eskimo^1.389044974 histori^1.000000000 curlew^0.670906385 bird^0.469985009 saskatchewan^0.115299156 ornithologist^0.114604682 labrador^0.111335946 whimbrel^0.085695054 vanish^0.076691157 migrat^0.064534367 gollop^0.060924824 
+INFO - Accessing inverted file for expanded query 837
+INFO - Query 837 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.014
+INFO - 838 : urban suburban coyotes
+INFO - Processing query: 838: 'urban suburban coyotes'
+INFO - Query 838 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.485025689021983 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: urban, normalisedFrequency: 1.0000
+INFO - 2: suburban, normalisedFrequency: 1.0000
+INFO - 3: coyot, normalisedFrequency: 1.4850
+INFO - 4: dog, normalisedFrequency: 0.0562
+INFO - 5: pup, normalisedFrequency: 0.0561
+INFO - 6: pet, normalisedFrequency: 0.0519
+INFO - 7: ws, normalisedFrequency: 0.0486
+INFO - 8: anim, normalisedFrequency: 0.0437
+INFO - 9: garbag, normalisedFrequency: 0.0365
+INFO - 10: livestock, normalisedFrequency: 0.0338
+INFO - 11: prei, normalisedFrequency: 0.0307
+INFO - 12: poultri, normalisedFrequency: 0.0303
+INFO - NEWQUERY 838 urban^1.000000000 suburban^1.000000000 coyot^1.485025689 dog^0.056157170 pup^0.056146510 pet^0.051868827 ws^0.048622722 anim^0.043661995 garbag^0.036508771 livestock^0.033845837 prei^0.030656483 poultri^0.030267315 
+INFO - Accessing inverted file for expanded query 838
+INFO - Query 838 with 12 terms has 12 posting lists
+INFO - Time to process query: 0.861
+INFO - 839 : textile dyeing techniques
+INFO - Processing query: 839: 'textile dyeing techniques'
+INFO - Query 839 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5138228635179584 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: textil, normalisedFrequency: 1.1476
+INFO - 2: dye, normalisedFrequency: 1.5138
+INFO - 3: techniqu, normalisedFrequency: 1.0000
+INFO - 4: wool, normalisedFrequency: 0.0713
+INFO - 5: yarn, normalisedFrequency: 0.0706
+INFO - 6: fabric, normalisedFrequency: 0.0677
+INFO - 7: dyestuff, normalisedFrequency: 0.0676
+INFO - 8: carpet, normalisedFrequency: 0.0648
+INFO - 9: wastewat, normalisedFrequency: 0.0593
+INFO - 10: finish, normalisedFrequency: 0.0583
+INFO - 11: mill, normalisedFrequency: 0.0576
+INFO - NEWQUERY 839 textil^1.147647507 dye^1.513822864 techniqu^1.000000000 wool^0.071269250 yarn^0.070569726 fabric^0.067682743 dyestuff^0.067632251 carpet^0.064751663 wastewat^0.059258276 finish^0.058346712 mill^0.057644513 
+INFO - Accessing inverted file for expanded query 839
+INFO - Query 839 with 11 terms has 11 posting lists
+INFO - Time to process query: 0.756
+INFO - 840 : geysers
+INFO - Processing query: 840: 'geysers'
+INFO - Query 840 with 1 terms has 1 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.6337691204305105 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: geyser, normalisedFrequency: 1.6338
+INFO - 2: steam, normalisedFrequency: 0.2280
+INFO - 3: geotherm, normalisedFrequency: 0.1588
+INFO - 4: truesdel, normalisedFrequency: 0.1170
+INFO - 5: h2, normalisedFrequency: 0.0891
+INFO - 6: n2, normalisedFrequency: 0.0885
+INFO - 7: franciscan, normalisedFrequency: 0.0880
+INFO - 8: northwest, normalisedFrequency: 0.0851
+INFO - 9: co2, normalisedFrequency: 0.0751
+INFO - 10: reservoir, normalisedFrequency: 0.0744
+INFO - NEWQUERY 840 geyser^1.633769120 steam^0.228026635 geotherm^0.158805829 truesdel^0.117047269 h2^0.089107075 n2^0.088504139 franciscan^0.087994118 northwest^0.085117387 co2^0.075093004 reservoir^0.074413236 
+INFO - Accessing inverted file for expanded query 840
+INFO - Query 840 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.441
+INFO - 841 : camel north america
+INFO - Processing query: 841: 'camel north america'
+INFO - Query 841 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.9381350012423438 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: camel, normalisedFrequency: 1.7085
+INFO - 2: north, normalisedFrequency: 1.0000
+INFO - 3: america, normalisedFrequency: 1.1970
+INFO - 4: megalonyx, normalisedFrequency: 0.9381
+INFO - 5: sloth, normalisedFrequency: 0.8413
+INFO - 6: claw, normalisedFrequency: 0.2566
+INFO - 7: fossil, normalisedFrequency: 0.2325
+INFO - 8: jeffersonii, normalisedFrequency: 0.2289
+INFO - 9: anim, normalisedFrequency: 0.2196
+INFO - 10: teeth, normalisedFrequency: 0.1705
+INFO - 11: extinct, normalisedFrequency: 0.1648
+INFO - NEWQUERY 841 camel^1.708486055 north^1.000000000 america^1.197030890 megalonyx^0.938135001 sloth^0.841255013 claw^0.256604255 fossil^0.232467506 jeffersonii^0.228941102 anim^0.219550797 teeth^0.170467514 extinct^0.164839668 
+INFO - Accessing inverted file for expanded query 841
+INFO - Query 841 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.356
+INFO - 842 : david mccullough
+INFO - Processing query: 842: 'david mccullough'
+INFO - Query 842 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5619647793357574 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: david, normalisedFrequency: 1.1096
+INFO - 2: mccullough, normalisedFrequency: 1.5620
+INFO - 3: willi, normalisedFrequency: 0.0803
+INFO - 4: fran, normalisedFrequency: 0.0720
+INFO - 5: m133, normalisedFrequency: 0.0684
+INFO - 6: fiction, normalisedFrequency: 0.0684
+INFO - 7: searchwidgit, normalisedFrequency: 0.0519
+INFO - 8: richman, normalisedFrequency: 0.0506
+INFO - 9: colleen, normalisedFrequency: 0.0493
+INFO - 10: s616c, normalisedFrequency: 0.0471
+INFO - NEWQUERY 842 david^1.109600123 mccullough^1.561964779 willi^0.080272777 fran^0.072003684 m133^0.068422765 fiction^0.068360772 searchwidgit^0.051924076 richman^0.050572728 colleen^0.049296762 s616c^0.047109814 
+INFO - Accessing inverted file for expanded query 842
+INFO - Query 842 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.707
+INFO - 843 : pol pot
+INFO - Processing query: 843: 'pol pot'
+INFO - Query 843 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4073050127740995 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: pol, normalisedFrequency: 1.4073
+INFO - 2: pot, normalisedFrequency: 1.3706
+INFO - 3: khmer, normalisedFrequency: 0.3725
+INFO - 4: cambodian, normalisedFrequency: 0.2549
+INFO - 5: cambodia, normalisedFrequency: 0.1734
+INFO - 6: kill, normalisedFrequency: 0.1233
+INFO - 7: roug, normalisedFrequency: 0.0756
+INFO - 8: leader, normalisedFrequency: 0.0721
+INFO - 9: extermin, normalisedFrequency: 0.0720
+INFO - 10: peopl, normalisedFrequency: 0.0604
+INFO - NEWQUERY 843 pol^1.407305013 pot^1.370647371 khmer^0.372488625 cambodian^0.254919553 cambodia^0.173395309 kill^0.123252783 roug^0.075641024 leader^0.072129123 extermin^0.071956436 peopl^0.060420291 
+INFO - Accessing inverted file for expanded query 843
+INFO - Query 843 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.823
+INFO - 844 : segmental duplications
+INFO - Processing query: 844: 'segmental duplications'
+INFO - Query 844 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.7021251930569142 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: segment, normalisedFrequency: 1.4054
+INFO - 2: duplic, normalisedFrequency: 1.3624
+INFO - 3: hagberg, normalisedFrequency: 0.7021
+INFO - 4: transloc, normalisedFrequency: 0.4021
+INFO - 5: t5, normalisedFrequency: 0.3986
+INFO - 6: chromosom, normalisedFrequency: 0.3741
+INFO - 7: barlei, normalisedFrequency: 0.2460
+INFO - 8: breakpoint, normalisedFrequency: 0.1773
+INFO - 9: t6, normalisedFrequency: 0.1712
+INFO - 10: sval, normalisedFrequency: 0.1395
+INFO - NEWQUERY 844 segment^1.405386210 duplic^1.362430336 hagberg^0.702125193 transloc^0.402093599 t5^0.398575645 chromosom^0.374130341 barlei^0.246007093 breakpoint^0.177312286 t6^0.171216473 sval^0.139474441 
+INFO - Accessing inverted file for expanded query 844
+INFO - Query 844 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.69
+INFO - 845 : new jersey tomato
+INFO - Processing query: 845: 'new jersey tomato'
+WARN - query term new has low idf - ignored from scoring.
+INFO - Query 845 with 3 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.42328108179099333 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: new, normalisedFrequency: 1.0000
+INFO - 2: jersei, normalisedFrequency: 1.2755
+INFO - 3: tomato, normalisedFrequency: 1.4233
+INFO - 4: plant, normalisedFrequency: 0.2117
+INFO - 5: pepper, normalisedFrequency: 0.1986
+INFO - 6: greenhous, normalisedFrequency: 0.1257
+INFO - 7: fresh, normalisedFrequency: 0.1255
+INFO - 8: excess, normalisedFrequency: 0.0656
+INFO - 9: stem, normalisedFrequency: 0.0617
+INFO - 10: food, normalisedFrequency: 0.0476
+INFO - 11: supermarket, normalisedFrequency: 0.0441
+INFO - NEWQUERY 845 new^1.000000000 jersei^1.275534559 tomato^1.423281082 plant^0.211729040 pepper^0.198602145 greenhous^0.125705676 fresh^0.125530521 excess^0.065618532 stem^0.061746236 food^0.047605022 supermarket^0.044071900 
+INFO - Accessing inverted file for expanded query 845
+WARN - query term new has low idf - ignored from scoring.
+INFO - Query 845 with 11 terms has 10 posting lists
+INFO - Time to process query: 0.842
+INFO - 846 : heredity and obesity
+INFO - Processing query: 846: 'heredity and obesity'
+INFO - Query 846 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4459580692416198 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: hered, normalisedFrequency: 1.1850
+INFO - 2: obes, normalisedFrequency: 1.4460
+INFO - 3: fit, normalisedFrequency: 0.2313
+INFO - 4: phenotyp, normalisedFrequency: 0.2075
+INFO - 5: fat, normalisedFrequency: 0.2027
+INFO - 6: bouchard, normalisedFrequency: 0.1766
+INFO - 7: weight, normalisedFrequency: 0.1481
+INFO - 8: herit, normalisedFrequency: 0.1332
+INFO - 9: bmi, normalisedFrequency: 0.1180
+INFO - 10: exercis, normalisedFrequency: 0.1023
+INFO - NEWQUERY 846 hered^1.184990797 obes^1.445958069 fit^0.231259343 phenotyp^0.207485735 fat^0.202697149 bouchard^0.176615691 weight^0.148145297 herit^0.133209380 bmi^0.118010960 exercis^0.102321294 
+INFO - Accessing inverted file for expanded query 846
+INFO - Query 846 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.603
+INFO - 847 : portugal world war ii
+INFO - Processing query: 847: 'portugal world war ii'
+INFO - Query 847 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.26100313430370975 last weight=0.0
+INFO - query length after expansion: 13
+INFO - Expanded query: 
+INFO - 1: portug, normalisedFrequency: 1.0000
+INFO - 2: world, normalisedFrequency: 1.0000
+INFO - 3: war, normalisedFrequency: 1.2610
+INFO - 4: ii, normalisedFrequency: 1.0000
+INFO - 5: neutral, normalisedFrequency: 0.2172
+INFO - 6: nazi, normalisedFrequency: 0.1933
+INFO - 7: gold, normalisedFrequency: 0.1905
+INFO - 8: swiss, normalisedFrequency: 0.1752
+INFO - 9: loot, normalisedFrequency: 0.1657
+INFO - 10: switzerland, normalisedFrequency: 0.1574
+INFO - 11: german, normalisedFrequency: 0.1356
+INFO - 12: eizenstat, normalisedFrequency: 0.1346
+INFO - 13: alli, normalisedFrequency: 0.1127
+INFO - NEWQUERY 847 portug^1.000000000 world^1.000000000 war^1.261003134 ii^1.000000000 neutral^0.217164076 nazi^0.193344692 gold^0.190517066 swiss^0.175213034 loot^0.165673927 switzerland^0.157408222 german^0.135550549 eizenstat^0.134640332 alli^0.112684632 
+INFO - Accessing inverted file for expanded query 847
+INFO - Query 847 with 13 terms has 13 posting lists
+INFO - Time to process query: 1.386
+INFO - 848 : radio station call letters
+INFO - Processing query: 848: 'radio station call letters'
+INFO - Query 848 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3002184484378675 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: radio, normalisedFrequency: 1.1590
+INFO - 2: station, normalisedFrequency: 1.1498
+INFO - 3: call, normalisedFrequency: 1.1282
+INFO - 4: letter, normalisedFrequency: 1.1603
+INFO - 5: fm, normalisedFrequency: 0.3002
+INFO - 6: broadcast, normalisedFrequency: 0.1716
+INFO - 7: owner, normalisedFrequency: 0.1208
+INFO - 8: am, normalisedFrequency: 0.1046
+INFO - 9: compani, normalisedFrequency: 0.0745
+INFO - 10: locat, normalisedFrequency: 0.0482
+INFO - NEWQUERY 848 radio^1.158991148 station^1.149764591 call^1.128222615 letter^1.160255843 fm^0.300218448 broadcast^0.171590103 owner^0.120838881 am^0.104623837 compani^0.074548977 locat^0.048150705 
+INFO - Accessing inverted file for expanded query 848
+INFO - Query 848 with 10 terms has 10 posting lists
+INFO - Time to process query: 3.779
+INFO - 849 : scalable vector graphics
+INFO - Processing query: 849: 'scalable vector graphics'
+INFO - Query 849 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5678593849310104 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: scalabl, normalisedFrequency: 1.0759
+INFO - 2: vector, normalisedFrequency: 1.0582
+INFO - 3: graphic, normalisedFrequency: 1.1110
+INFO - 4: svg, normalisedFrequency: 0.5679
+INFO - 5: devic, normalisedFrequency: 0.0832
+INFO - 6: pixel, normalisedFrequency: 0.0677
+INFO - 7: web, normalisedFrequency: 0.0242
+INFO - 8: viewer, normalisedFrequency: 0.0239
+INFO - 9: output, normalisedFrequency: 0.0239
+INFO - 10: support, normalisedFrequency: 0.0217
+INFO - NEWQUERY 849 scalabl^1.075903222 vector^1.058239978 graphic^1.111045028 svg^0.567859385 devic^0.083230636 pixel^0.067742496 web^0.024248795 viewer^0.023937776 output^0.023913005 support^0.021662891 
+INFO - Accessing inverted file for expanded query 849
+INFO - Query 849 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.979
+INFO - 850 : mississippi river flood
+INFO - Processing query: 850: 'mississippi river flood'
+INFO - Query 850 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2558838003626926 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: mississippi, normalisedFrequency: 1.1997
+INFO - 2: river, normalisedFrequency: 1.1166
+INFO - 3: flood, normalisedFrequency: 1.2559
+INFO - 4: 1993, normalisedFrequency: 0.0501
+INFO - 5: loui, normalisedFrequency: 0.0336
+INFO - 6: leve, normalisedFrequency: 0.0284
+INFO - 7: missouri, normalisedFrequency: 0.0264
+INFO - 8: basin, normalisedFrequency: 0.0233
+INFO - 9: illinoi, normalisedFrequency: 0.0225
+INFO - 10: earli, normalisedFrequency: 0.0219
+INFO - NEWQUERY 850 mississippi^1.199725722 river^1.116612460 flood^1.255883800 1993^0.050083693 loui^0.033627796 leve^0.028417163 missouri^0.026352490 basin^0.023307939 illinoi^0.022527314 earli^0.021894384 
+INFO - Accessing inverted file for expanded query 850
+INFO - Query 850 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.733
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/classical.DPH_QE.terrier.801-850.txt.settings
+INFO - Finished topics, executed 50 queries in 82.027 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/classical.DPH_QE.terrier.801-850.txt
+Time elapsed: 89.35 seconds.
 num_ret               	801	1000
 num_rel               	801	128
 num_rel_ret           	801	118
