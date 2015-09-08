@@ -1,0 +1,16 @@
+Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
+Creating collection.spec file.
+Creating logging configuration (terrier-log.xml) file.
+Creating terrier.properties file.
+/media/Gov2/data/GX272/75.gz
+/media/Gov2/data/GX272/76.gz
+/media/Gov2/data/GX272/77.gz
+/media/Gov2/data/GX272/78.gz
+/media/Gov2/data/GX272/79.gz
+/media/Gov2/data/GX272/80.gz
+/media/Gov2/data/GX272/81.gz
+/media/Gov2/data/GX272/82.gz
+/media/Gov2/data/GX272/83.gz
+/media/Gov2/data/GX272/84.gz
+Updated collection.spec file. Please check that it contains
+all and only all the files to be indexed, or create it manually.
