@@ -7,59 +7,59 @@ Loading vocab... done
 
 Averages over 50 queries
 --------------------------------------------------------
-Total time excluding I/O   (per query) :     45530515 ns
+Total time excluding I/O   (per query) :     45518934 ns
 --------------------------------------------------------
-Total running time                     :   9746560060 ns
+Total running time                     :   9422297550 ns
 --------------------------------------------------------
 Total number of segments processed     :        10323
 --------------------------------------------------------
-query id,postings processed,ns:801,3412,12126518
-query id,postings processed,ns:802,1799778,30344114
-query id,postings processed,ns:803,11857198,120788149
-query id,postings processed,ns:804,15476067,92961308
-query id,postings processed,ns:805,328631,11246010
-query id,postings processed,ns:806,3143629,49279721
-query id,postings processed,ns:807,1434038,26580645
-query id,postings processed,ns:808,2727166,40960488
-query id,postings processed,ns:809,1251954,23860329
-query id,postings processed,ns:810,5345,3540155
-query id,postings processed,ns:811,271285,10129619
-query id,postings processed,ns:812,3841036,60177604
-query id,postings processed,ns:813,446535,13102536
-query id,postings processed,ns:814,259999,10211186
-query id,postings processed,ns:815,796394,17697500
-query id,postings processed,ns:816,20388779,94779969
-query id,postings processed,ns:817,3418921,51476876
-query id,postings processed,ns:818,8938683,83301464
-query id,postings processed,ns:819,1130589,21790100
-query id,postings processed,ns:820,1365791,24592701
-query id,postings processed,ns:821,25408209,180141808
-query id,postings processed,ns:822,16297544,75595776
-query id,postings processed,ns:823,6043236,81109632
-query id,postings processed,ns:824,2896883,45544579
-query id,postings processed,ns:825,23066913,128364980
-query id,postings processed,ns:826,1765652,31034318
-query id,postings processed,ns:827,1329735,23481641
-query id,postings processed,ns:828,115646,8087944
-query id,postings processed,ns:829,6716675,87164785
-query id,postings processed,ns:830,2051293,32059792
-query id,postings processed,ns:831,3950033,50498382
-query id,postings processed,ns:832,5248461,74788884
-query id,postings processed,ns:833,3888571,50801166
-query id,postings processed,ns:834,7270248,78893689
-query id,postings processed,ns:835,520030,13998684
-query id,postings processed,ns:836,785247,17865309
-query id,postings processed,ns:837,2307410,33938294
-query id,postings processed,ns:838,1445009,25002530
-query id,postings processed,ns:839,536425,14456437
-query id,postings processed,ns:840,4552,3306986
-query id,postings processed,ns:841,3522353,51825522
-query id,postings processed,ns:842,663090,15526226
-query id,postings processed,ns:843,154006,8764395
-query id,postings processed,ns:844,499570,12607258
-query id,postings processed,ns:845,10898697,76586597
-query id,postings processed,ns:846,18306664,73335824
-query id,postings processed,ns:847,3011783,47624920
-query id,postings processed,ns:848,6060144,81584448
-query id,postings processed,ns:849,761780,17175915
-query id,postings processed,ns:850,2190130,36412082
+query id,postings processed,ns:801,3412,12000154
+query id,postings processed,ns:802,1799778,29914090
+query id,postings processed,ns:803,11857198,120536019
+query id,postings processed,ns:804,15476067,92762185
+query id,postings processed,ns:805,328631,11165260
+query id,postings processed,ns:806,3143629,49494322
+query id,postings processed,ns:807,1434038,26571601
+query id,postings processed,ns:808,2727166,41068957
+query id,postings processed,ns:809,1251954,23860450
+query id,postings processed,ns:810,5345,3538657
+query id,postings processed,ns:811,271285,10175505
+query id,postings processed,ns:812,3841036,60557455
+query id,postings processed,ns:813,446535,13139794
+query id,postings processed,ns:814,259999,10208332
+query id,postings processed,ns:815,796394,18050676
+query id,postings processed,ns:816,20388779,94566256
+query id,postings processed,ns:817,3418921,51763092
+query id,postings processed,ns:818,8938683,83488051
+query id,postings processed,ns:819,1130589,21814393
+query id,postings processed,ns:820,1365791,24617232
+query id,postings processed,ns:821,25408209,180292818
+query id,postings processed,ns:822,16297544,75505751
+query id,postings processed,ns:823,6043236,81257398
+query id,postings processed,ns:824,2896883,45868677
+query id,postings processed,ns:825,23066913,128203601
+query id,postings processed,ns:826,1765652,31407710
+query id,postings processed,ns:827,1329735,23417207
+query id,postings processed,ns:828,115646,8043530
+query id,postings processed,ns:829,6716675,87462267
+query id,postings processed,ns:830,2051293,32283487
+query id,postings processed,ns:831,3950033,50252249
+query id,postings processed,ns:832,5248461,74661435
+query id,postings processed,ns:833,3888571,51093085
+query id,postings processed,ns:834,7270248,78906798
+query id,postings processed,ns:835,520030,13880038
+query id,postings processed,ns:836,785247,17597564
+query id,postings processed,ns:837,2307410,33021231
+query id,postings processed,ns:838,1445009,24920330
+query id,postings processed,ns:839,536425,14074751
+query id,postings processed,ns:840,4552,3206628
+query id,postings processed,ns:841,3522353,52026782
+query id,postings processed,ns:842,663090,15535236
+query id,postings processed,ns:843,154006,8799888
+query id,postings processed,ns:844,499570,12594263
+query id,postings processed,ns:845,10898697,76729017
+query id,postings processed,ns:846,18306664,73068624
+query id,postings processed,ns:847,3011783,47539938
+query id,postings processed,ns:848,6060144,81319929
+query id,postings processed,ns:849,761780,17161904
+query id,postings processed,ns:850,2190130,36522108
