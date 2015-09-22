@@ -1,0 +1,1633 @@
+751  -  (body:scrabbl body:player)
+
+751 Stats:
+  Search Seconds:         0.083
+  DocName Seconds:        0.046
+  Num Points:         1,000.000
+  Num Good Points:       54.000
+  Max Good Points:       77.000
+  Average Precision:      0.294
+  MRR:                    1.000
+  Recall:                 0.701
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         0.750
+  Precision At 5:         0.600
+  Precision At 6:         0.667
+  Precision At 7:         0.571
+  Precision At 8:         0.625
+  Precision At 9:         0.556
+  Precision At 10:        0.600
+  Precision At 11:        0.545
+  Precision At 12:        0.500
+  Precision At 13:        0.462
+  Precision At 14:        0.429
+  Precision At 15:        0.467
+  Precision At 16:        0.500
+  Precision At 17:        0.529
+  Precision At 18:        0.556
+  Precision At 19:        0.579
+  Precision At 20:        0.600
+
+752  -  (body:dam body:remov)
+
+752 Stats:
+  Search Seconds:         0.080
+  DocName Seconds:        0.012
+  Num Points:         1,000.000
+  Num Good Points:      280.000
+  Max Good Points:      349.000
+  Average Precision:      0.562
+  MRR:                    1.000
+  Recall:                 0.802
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        1.000
+  Precision At 12:        1.000
+  Precision At 13:        1.000
+  Precision At 14:        1.000
+  Precision At 15:        1.000
+  Precision At 16:        1.000
+  Precision At 17:        1.000
+  Precision At 18:        1.000
+  Precision At 19:        1.000
+  Precision At 20:        1.000
+
+753  -  (body:bulli body:prevent body:program)
+
+753 Stats:
+  Search Seconds:         0.262
+  DocName Seconds:        0.011
+  Num Points:         1,000.000
+  Num Good Points:       44.000
+  Max Good Points:       45.000
+  Average Precision:      0.257
+  MRR:                    1.000
+  Recall:                 0.978
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         0.667
+  Precision At 4:         0.500
+  Precision At 5:         0.600
+  Precision At 6:         0.667
+  Precision At 7:         0.714
+  Precision At 8:         0.625
+  Precision At 9:         0.556
+  Precision At 10:        0.600
+  Precision At 11:        0.545
+  Precision At 12:        0.500
+  Precision At 13:        0.462
+  Precision At 14:        0.500
+  Precision At 15:        0.533
+  Precision At 16:        0.500
+  Precision At 17:        0.471
+  Precision At 18:        0.444
+  Precision At 19:        0.421
+  Precision At 20:        0.400
+
+754  -  (body:domest body:adopt body:law)
+
+754 Stats:
+  Search Seconds:         0.167
+  DocName Seconds:        0.009
+  Num Points:         1,000.000
+  Num Good Points:      107.000
+  Max Good Points:      376.000
+  Average Precision:      0.065
+  MRR:                    0.333
+  Recall:                 0.285
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.333
+  Precision At 4:         0.250
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.429
+  Precision At 8:         0.375
+  Precision At 9:         0.444
+  Precision At 10:        0.400
+  Precision At 11:        0.364
+  Precision At 12:        0.333
+  Precision At 13:        0.385
+  Precision At 14:        0.357
+  Precision At 15:        0.400
+  Precision At 16:        0.438
+  Precision At 17:        0.412
+  Precision At 18:        0.389
+  Precision At 19:        0.421
+  Precision At 20:        0.450
+
+755  -  (body:scottish body:highland body:game)
+
+755 Stats:
+  Search Seconds:         0.036
+  DocName Seconds:        0.009
+  Num Points:         1,000.000
+  Num Good Points:       32.000
+  Max Good Points:       36.000
+  Average Precision:      0.476
+  MRR:                    1.000
+  Recall:                 0.889
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         0.889
+  Precision At 10:        0.800
+  Precision At 11:        0.727
+  Precision At 12:        0.667
+  Precision At 13:        0.692
+  Precision At 14:        0.643
+  Precision At 15:        0.600
+  Precision At 16:        0.562
+  Precision At 17:        0.529
+  Precision At 18:        0.500
+  Precision At 19:        0.526
+  Precision At 20:        0.550
+
+756  -  (body:volcan body:activ)
+
+756 Stats:
+  Search Seconds:         0.128
+  DocName Seconds:        0.009
+  Num Points:         1,000.000
+  Num Good Points:      276.000
+  Max Good Points:      396.000
+  Average Precision:      0.313
+  MRR:                    1.000
+  Recall:                 0.697
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         0.667
+  Precision At 4:         0.500
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.571
+  Precision At 8:         0.500
+  Precision At 9:         0.556
+  Precision At 10:        0.600
+  Precision At 11:        0.545
+  Precision At 12:        0.583
+  Precision At 13:        0.615
+  Precision At 14:        0.643
+  Precision At 15:        0.667
+  Precision At 16:        0.688
+  Precision At 17:        0.647
+  Precision At 18:        0.611
+  Precision At 19:        0.579
+  Precision At 20:        0.550
+
+757  -  body:mural
+
+757 Stats:
+  Search Seconds:         0.006
+  DocName Seconds:        0.009
+  Num Points:         1,000.000
+  Num Good Points:      250.000
+  Max Good Points:      388.000
+  Average Precision:      0.271
+  MRR:                    0.500
+  Recall:                 0.644
+  Precision At 1:         0.000
+  Precision At 2:         0.500
+  Precision At 3:         0.333
+  Precision At 4:         0.250
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.571
+  Precision At 8:         0.500
+  Precision At 9:         0.556
+  Precision At 10:        0.500
+  Precision At 11:        0.545
+  Precision At 12:        0.583
+  Precision At 13:        0.538
+  Precision At 14:        0.500
+  Precision At 15:        0.467
+  Precision At 16:        0.500
+  Precision At 17:        0.529
+  Precision At 18:        0.556
+  Precision At 19:        0.526
+  Precision At 20:        0.550
+
+758  -  (body:embryon body:stem body:cell)
+
+758 Stats:
+  Search Seconds:         0.035
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      351.000
+  Max Good Points:      372.000
+  Average Precision:      0.680
+  MRR:                    1.000
+  Recall:                 0.944
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         0.667
+  Precision At 4:         0.750
+  Precision At 5:         0.800
+  Precision At 6:         0.833
+  Precision At 7:         0.857
+  Precision At 8:         0.875
+  Precision At 9:         0.889
+  Precision At 10:        0.900
+  Precision At 11:        0.909
+  Precision At 12:        0.917
+  Precision At 13:        0.923
+  Precision At 14:        0.929
+  Precision At 15:        0.933
+  Precision At 16:        0.938
+  Precision At 17:        0.941
+  Precision At 18:        0.944
+  Precision At 19:        0.947
+  Precision At 20:        0.950
+
+759  -  (body:civil body:war body:battl body:reenact)
+
+759 Stats:
+  Search Seconds:         0.067
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       59.000
+  Max Good Points:       91.000
+  Average Precision:      0.280
+  MRR:                    0.500
+  Recall:                 0.648
+  Precision At 1:         0.000
+  Precision At 2:         0.500
+  Precision At 3:         0.667
+  Precision At 4:         0.500
+  Precision At 5:         0.600
+  Precision At 6:         0.667
+  Precision At 7:         0.714
+  Precision At 8:         0.625
+  Precision At 9:         0.667
+  Precision At 10:        0.700
+  Precision At 11:        0.727
+  Precision At 12:        0.667
+  Precision At 13:        0.615
+  Precision At 14:        0.643
+  Precision At 15:        0.667
+  Precision At 16:        0.625
+  Precision At 17:        0.647
+  Precision At 18:        0.611
+  Precision At 19:        0.632
+  Precision At 20:        0.650
+
+760  -  (body:american body:muslim body:mosqu body:school)
+
+760 Stats:
+  Search Seconds:         0.154
+  DocName Seconds:        0.009
+  Num Points:         1,000.000
+  Num Good Points:       96.000
+  Max Good Points:      115.000
+  Average Precision:      0.226
+  MRR:                    1.000
+  Recall:                 0.835
+  Precision At 1:         1.000
+  Precision At 2:         0.500
+  Precision At 3:         0.667
+  Precision At 4:         0.750
+  Precision At 5:         0.600
+  Precision At 6:         0.500
+  Precision At 7:         0.571
+  Precision At 8:         0.625
+  Precision At 9:         0.667
+  Precision At 10:        0.700
+  Precision At 11:        0.727
+  Precision At 12:        0.750
+  Precision At 13:        0.692
+  Precision At 14:        0.643
+  Precision At 15:        0.667
+  Precision At 16:        0.688
+  Precision At 17:        0.706
+  Precision At 18:        0.667
+  Precision At 19:        0.632
+  Precision At 20:        0.600
+
+761  -  (body:problem body:hmong body:immigr)
+
+761 Stats:
+  Search Seconds:         0.078
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      225.000
+  Max Good Points:      254.000
+  Average Precision:      0.564
+  MRR:                    1.000
+  Recall:                 0.886
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        1.000
+  Precision At 12:        1.000
+  Precision At 13:        1.000
+  Precision At 14:        1.000
+  Precision At 15:        1.000
+  Precision At 16:        1.000
+  Precision At 17:        1.000
+  Precision At 18:        1.000
+  Precision At 19:        1.000
+  Precision At 20:        1.000
+
+762  -  (body:histori body:physician body:america)
+
+762 Stats:
+  Search Seconds:         0.105
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       32.000
+  Max Good Points:      108.000
+  Average Precision:      0.024
+  MRR:                    0.000
+  Recall:                 0.296
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.000
+  Precision At 4:         0.000
+  Precision At 5:         0.000
+  Precision At 6:         0.000
+  Precision At 7:         0.143
+  Precision At 8:         0.125
+  Precision At 9:         0.111
+  Precision At 10:        0.100
+  Precision At 11:        0.091
+  Precision At 12:        0.083
+  Precision At 13:        0.077
+  Precision At 14:        0.071
+  Precision At 15:        0.067
+  Precision At 16:        0.062
+  Precision At 17:        0.118
+  Precision At 18:        0.111
+  Precision At 19:        0.105
+  Precision At 20:        0.100
+
+763  -  (body:hunt body:death)
+
+763 Stats:
+  Search Seconds:         0.053
+  DocName Seconds:        0.009
+  Num Points:         1,000.000
+  Num Good Points:      118.000
+  Max Good Points:      207.000
+  Average Precision:      0.116
+  MRR:                    0.333
+  Recall:                 0.570
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.333
+  Precision At 4:         0.250
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.571
+  Precision At 8:         0.625
+  Precision At 9:         0.556
+  Precision At 10:        0.500
+  Precision At 11:        0.455
+  Precision At 12:        0.500
+  Precision At 13:        0.462
+  Precision At 14:        0.429
+  Precision At 15:        0.467
+  Precision At 16:        0.438
+  Precision At 17:        0.412
+  Precision At 18:        0.389
+  Precision At 19:        0.421
+  Precision At 20:        0.450
+
+764  -  (body:increas body:mass body:transit body:us)
+
+764 Stats:
+  Search Seconds:         0.415
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      160.000
+  Max Good Points:      338.000
+  Average Precision:      0.126
+  MRR:                    1.000
+  Recall:                 0.473
+  Precision At 1:         1.000
+  Precision At 2:         0.500
+  Precision At 3:         0.667
+  Precision At 4:         0.500
+  Precision At 5:         0.600
+  Precision At 6:         0.500
+  Precision At 7:         0.571
+  Precision At 8:         0.500
+  Precision At 9:         0.556
+  Precision At 10:        0.600
+  Precision At 11:        0.545
+  Precision At 12:        0.500
+  Precision At 13:        0.538
+  Precision At 14:        0.500
+  Precision At 15:        0.467
+  Precision At 16:        0.438
+  Precision At 17:        0.471
+  Precision At 18:        0.444
+  Precision At 19:        0.421
+  Precision At 20:        0.400
+
+765  -  (body:ephedra body:ma body:huang body:death)
+
+765 Stats:
+  Search Seconds:         0.046
+  DocName Seconds:        0.009
+  Num Points:         1,000.000
+  Num Good Points:      104.000
+  Max Good Points:      107.000
+  Average Precision:      0.457
+  MRR:                    1.000
+  Recall:                 0.972
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         0.889
+  Precision At 10:        0.900
+  Precision At 11:        0.909
+  Precision At 12:        0.833
+  Precision At 13:        0.769
+  Precision At 14:        0.786
+  Precision At 15:        0.800
+  Precision At 16:        0.812
+  Precision At 17:        0.765
+  Precision At 18:        0.722
+  Precision At 19:        0.737
+  Precision At 20:        0.700
+
+766  -  (body:diamond body:smuggl)
+
+766 Stats:
+  Search Seconds:         0.011
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      137.000
+  Max Good Points:      232.000
+  Average Precision:      0.421
+  MRR:                    1.000
+  Recall:                 0.591
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        0.909
+  Precision At 12:        0.917
+  Precision At 13:        0.923
+  Precision At 14:        0.929
+  Precision At 15:        0.933
+  Precision At 16:        0.938
+  Precision At 17:        0.941
+  Precision At 18:        0.889
+  Precision At 19:        0.895
+  Precision At 20:        0.900
+
+767  -  (body:pharmacist body:licens body:requir)
+
+767 Stats:
+  Search Seconds:         0.153
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      338.000
+  Max Good Points:      515.000
+  Average Precision:      0.477
+  MRR:                    1.000
+  Recall:                 0.656
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        1.000
+  Precision At 12:        1.000
+  Precision At 13:        1.000
+  Precision At 14:        1.000
+  Precision At 15:        1.000
+  Precision At 16:        1.000
+  Precision At 17:        1.000
+  Precision At 18:        1.000
+  Precision At 19:        1.000
+  Precision At 20:        1.000
+
+768  -  (body:women body:state body:legislatur)
+
+768 Stats:
+  Search Seconds:         0.307
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       52.000
+  Max Good Points:      105.000
+  Average Precision:      0.125
+  MRR:                    1.000
+  Recall:                 0.495
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         0.857
+  Precision At 8:         0.875
+  Precision At 9:         0.778
+  Precision At 10:        0.700
+  Precision At 11:        0.636
+  Precision At 12:        0.583
+  Precision At 13:        0.538
+  Precision At 14:        0.500
+  Precision At 15:        0.467
+  Precision At 16:        0.438
+  Precision At 17:        0.471
+  Precision At 18:        0.444
+  Precision At 19:        0.474
+  Precision At 20:        0.450
+
+769  -  (body:kroll body:associ body:employe)
+
+769 Stats:
+  Search Seconds:         0.176
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       17.000
+  Max Good Points:       51.000
+  Average Precision:      0.007
+  MRR:                    0.000
+  Recall:                 0.333
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.000
+  Precision At 4:         0.000
+  Precision At 5:         0.000
+  Precision At 6:         0.000
+  Precision At 7:         0.000
+  Precision At 8:         0.000
+  Precision At 9:         0.000
+  Precision At 10:        0.000
+  Precision At 11:        0.000
+  Precision At 12:        0.000
+  Precision At 13:        0.000
+  Precision At 14:        0.000
+  Precision At 15:        0.000
+  Precision At 16:        0.000
+  Precision At 17:        0.000
+  Precision At 18:        0.000
+  Precision At 19:        0.000
+  Precision At 20:        0.000
+
+770  -  ((body:kyrgyzstan body:unit) body:state body:relat)
+
+770 Stats:
+  Search Seconds:         0.661
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      244.000
+  Max Good Points:      317.000
+  Average Precision:      0.464
+  MRR:                    1.000
+  Recall:                 0.770
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         0.800
+  Precision At 6:         0.833
+  Precision At 7:         0.857
+  Precision At 8:         0.875
+  Precision At 9:         0.889
+  Precision At 10:        0.900
+  Precision At 11:        0.909
+  Precision At 12:        0.917
+  Precision At 13:        0.846
+  Precision At 14:        0.857
+  Precision At 15:        0.867
+  Precision At 16:        0.875
+  Precision At 17:        0.882
+  Precision At 18:        0.833
+  Precision At 19:        0.842
+  Precision At 20:        0.800
+
+771  -  (body:deform body:leopard body:frog)
+
+771 Stats:
+  Search Seconds:         0.012
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      113.000
+  Max Good Points:      121.000
+  Average Precision:      0.511
+  MRR:                    1.000
+  Recall:                 0.934
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        0.909
+  Precision At 12:        0.833
+  Precision At 13:        0.769
+  Precision At 14:        0.714
+  Precision At 15:        0.733
+  Precision At 16:        0.688
+  Precision At 17:        0.647
+  Precision At 18:        0.667
+  Precision At 19:        0.684
+  Precision At 20:        0.700
+
+772  -  (body:flag body:displai body:rule)
+
+772 Stats:
+  Search Seconds:         0.172
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       99.000
+  Max Good Points:      171.000
+  Average Precision:      0.236
+  MRR:                    1.000
+  Recall:                 0.579
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         0.875
+  Precision At 9:         0.889
+  Precision At 10:        0.900
+  Precision At 11:        0.818
+  Precision At 12:        0.833
+  Precision At 13:        0.846
+  Precision At 14:        0.786
+  Precision At 15:        0.733
+  Precision At 16:        0.688
+  Precision At 17:        0.706
+  Precision At 18:        0.667
+  Precision At 19:        0.684
+  Precision At 20:        0.700
+
+773  -  (body:pennsylvania body:slot body:machin body:gambl)
+
+773 Stats:
+  Search Seconds:         0.070
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:       89.000
+  Max Good Points:       91.000
+  Average Precision:      0.525
+  MRR:                    1.000
+  Recall:                 0.978
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        1.000
+  Precision At 12:        1.000
+  Precision At 13:        1.000
+  Precision At 14:        1.000
+  Precision At 15:        1.000
+  Precision At 16:        1.000
+  Precision At 17:        1.000
+  Precision At 18:        1.000
+  Precision At 19:        1.000
+  Precision At 20:        1.000
+
+774  -  (body:caus body:homeless)
+
+774 Stats:
+  Search Seconds:         0.073
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      256.000
+  Max Good Points:      357.000
+  Average Precision:      0.301
+  MRR:                    1.000
+  Recall:                 0.717
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         0.833
+  Precision At 7:         0.714
+  Precision At 8:         0.750
+  Precision At 9:         0.667
+  Precision At 10:        0.600
+  Precision At 11:        0.545
+  Precision At 12:        0.500
+  Precision At 13:        0.538
+  Precision At 14:        0.500
+  Precision At 15:        0.533
+  Precision At 16:        0.500
+  Precision At 17:        0.471
+  Precision At 18:        0.444
+  Precision At 19:        0.474
+  Precision At 20:        0.500
+
+775  -  (body:commerci body:candi body:maker)
+
+775 Stats:
+  Search Seconds:         0.085
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      379.000
+  Max Good Points:      559.000
+  Average Precision:      0.427
+  MRR:                    0.500
+  Recall:                 0.678
+  Precision At 1:         0.000
+  Precision At 2:         0.500
+  Precision At 3:         0.333
+  Precision At 4:         0.500
+  Precision At 5:         0.600
+  Precision At 6:         0.667
+  Precision At 7:         0.571
+  Precision At 8:         0.625
+  Precision At 9:         0.556
+  Precision At 10:        0.500
+  Precision At 11:        0.455
+  Precision At 12:        0.417
+  Precision At 13:        0.385
+  Precision At 14:        0.357
+  Precision At 15:        0.333
+  Precision At 16:        0.312
+  Precision At 17:        0.294
+  Precision At 18:        0.278
+  Precision At 19:        0.263
+  Precision At 20:        0.250
+
+776  -  (body:magnet body:school body:success)
+
+776 Stats:
+  Search Seconds:         0.131
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      107.000
+  Max Good Points:      124.000
+  Average Precision:      0.293
+  MRR:                    1.000
+  Recall:                 0.863
+  Precision At 1:         1.000
+  Precision At 2:         0.500
+  Precision At 3:         0.667
+  Precision At 4:         0.750
+  Precision At 5:         0.600
+  Precision At 6:         0.500
+  Precision At 7:         0.571
+  Precision At 8:         0.500
+  Precision At 9:         0.444
+  Precision At 10:        0.500
+  Precision At 11:        0.455
+  Precision At 12:        0.500
+  Precision At 13:        0.538
+  Precision At 14:        0.500
+  Precision At 15:        0.467
+  Precision At 16:        0.438
+  Precision At 17:        0.412
+  Precision At 18:        0.444
+  Precision At 19:        0.474
+  Precision At 20:        0.500
+
+777  -  (body:hybrid body:altern body:fuel body:car)
+
+777 Stats:
+  Search Seconds:         0.071
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      181.000
+  Max Good Points:      218.000
+  Average Precision:      0.353
+  MRR:                    0.250
+  Recall:                 0.830
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.000
+  Precision At 4:         0.250
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.429
+  Precision At 8:         0.500
+  Precision At 9:         0.444
+  Precision At 10:        0.400
+  Precision At 11:        0.455
+  Precision At 12:        0.500
+  Precision At 13:        0.462
+  Precision At 14:        0.429
+  Precision At 15:        0.467
+  Precision At 16:        0.438
+  Precision At 17:        0.412
+  Precision At 18:        0.389
+  Precision At 19:        0.368
+  Precision At 20:        0.350
+
+778  -  (body:golden body:ratio)
+
+778 Stats:
+  Search Seconds:         0.030
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       19.000
+  Max Good Points:       37.000
+  Average Precision:      0.117
+  MRR:                    1.000
+  Recall:                 0.514
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         0.667
+  Precision At 4:         0.500
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.429
+  Precision At 8:         0.500
+  Precision At 9:         0.444
+  Precision At 10:        0.400
+  Precision At 11:        0.364
+  Precision At 12:        0.333
+  Precision At 13:        0.308
+  Precision At 14:        0.286
+  Precision At 15:        0.267
+  Precision At 16:        0.250
+  Precision At 17:        0.235
+  Precision At 18:        0.222
+  Precision At 19:        0.211
+  Precision At 20:        0.200
+
+779  -  (body:javelina body:rang body:descript)
+
+779 Stats:
+  Search Seconds:         0.221
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      189.000
+  Max Good Points:      224.000
+  Average Precision:      0.517
+  MRR:                    1.000
+  Recall:                 0.844
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        1.000
+  Precision At 12:        1.000
+  Precision At 13:        1.000
+  Precision At 14:        1.000
+  Precision At 15:        1.000
+  Precision At 16:        1.000
+  Precision At 17:        1.000
+  Precision At 18:        1.000
+  Precision At 19:        1.000
+  Precision At 20:        1.000
+
+780  -  (body:arabl body:land)
+
+780 Stats:
+  Search Seconds:         0.074
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      384.000
+  Max Good Points:      540.000
+  Average Precision:      0.408
+  MRR:                    1.000
+  Recall:                 0.711
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         0.857
+  Precision At 8:         0.875
+  Precision At 9:         0.778
+  Precision At 10:        0.800
+  Precision At 11:        0.818
+  Precision At 12:        0.833
+  Precision At 13:        0.846
+  Precision At 14:        0.786
+  Precision At 15:        0.733
+  Precision At 16:        0.750
+  Precision At 17:        0.765
+  Precision At 18:        0.778
+  Precision At 19:        0.737
+  Precision At 20:        0.700
+
+781  -  (body:squirrel body:control body:protect)
+
+781 Stats:
+  Search Seconds:         0.172
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      356.000
+  Max Good Points:      555.000
+  Average Precision:      0.413
+  MRR:                    1.000
+  Recall:                 0.641
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        0.900
+  Precision At 11:        0.909
+  Precision At 12:        0.917
+  Precision At 13:        0.923
+  Precision At 14:        0.929
+  Precision At 15:        0.933
+  Precision At 16:        0.938
+  Precision At 17:        0.941
+  Precision At 18:        0.944
+  Precision At 19:        0.895
+  Precision At 20:        0.900
+
+782  -  (body:orang body:varieti body:season)
+
+782 Stats:
+  Search Seconds:         0.057
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      199.000
+  Max Good Points:      207.000
+  Average Precision:      0.712
+  MRR:                    1.000
+  Recall:                 0.961
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         0.833
+  Precision At 7:         0.857
+  Precision At 8:         0.875
+  Precision At 9:         0.889
+  Precision At 10:        0.900
+  Precision At 11:        0.909
+  Precision At 12:        0.833
+  Precision At 13:        0.846
+  Precision At 14:        0.857
+  Precision At 15:        0.867
+  Precision At 16:        0.875
+  Precision At 17:        0.824
+  Precision At 18:        0.833
+  Precision At 19:        0.842
+  Precision At 20:        0.850
+
+783  -  (body:school body:mercuri body:poison)
+
+783 Stats:
+  Search Seconds:         0.084
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       44.000
+  Max Good Points:       81.000
+  Average Precision:      0.066
+  MRR:                    0.000
+  Recall:                 0.543
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.000
+  Precision At 4:         0.000
+  Precision At 5:         0.000
+  Precision At 6:         0.167
+  Precision At 7:         0.143
+  Precision At 8:         0.125
+  Precision At 9:         0.111
+  Precision At 10:        0.100
+  Precision At 11:        0.091
+  Precision At 12:        0.083
+  Precision At 13:        0.077
+  Precision At 14:        0.071
+  Precision At 15:        0.133
+  Precision At 16:        0.125
+  Precision At 17:        0.118
+  Precision At 18:        0.111
+  Precision At 19:        0.105
+  Precision At 20:        0.100
+
+784  -  (body:mersenn body:prime)
+
+784 Stats:
+  Search Seconds:         0.014
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:        4.000
+  Max Good Points:        4.000
+  Average Precision:      0.415
+  MRR:                    1.000
+  Recall:                 1.000
+  Precision At 1:         1.000
+  Precision At 2:         0.500
+  Precision At 3:         0.333
+  Precision At 4:         0.250
+  Precision At 5:         0.200
+  Precision At 6:         0.167
+  Precision At 7:         0.286
+  Precision At 8:         0.250
+  Precision At 9:         0.222
+  Precision At 10:        0.200
+  Precision At 11:        0.182
+  Precision At 12:        0.167
+  Precision At 13:        0.154
+  Precision At 14:        0.214
+  Precision At 15:        0.200
+  Precision At 16:        0.188
+  Precision At 17:        0.176
+  Precision At 18:        0.167
+  Precision At 19:        0.158
+  Precision At 20:        0.150
+
+785  -  ((body:ivori body:bill) body:woodpeck)
+
+785 Stats:
+  Search Seconds:         0.091
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      101.000
+  Max Good Points:      188.000
+  Average Precision:      0.315
+  MRR:                    1.000
+  Recall:                 0.537
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         0.889
+  Precision At 10:        0.800
+  Precision At 11:        0.818
+  Precision At 12:        0.833
+  Precision At 13:        0.846
+  Precision At 14:        0.857
+  Precision At 15:        0.867
+  Precision At 16:        0.812
+  Precision At 17:        0.824
+  Precision At 18:        0.833
+  Precision At 19:        0.842
+  Precision At 20:        0.800
+
+786  -  (body:yew body:tree)
+
+786 Stats:
+  Search Seconds:         0.026
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      214.000
+  Max Good Points:      237.000
+  Average Precision:      0.414
+  MRR:                    0.500
+  Recall:                 0.903
+  Precision At 1:         0.000
+  Precision At 2:         0.500
+  Precision At 3:         0.667
+  Precision At 4:         0.750
+  Precision At 5:         0.800
+  Precision At 6:         0.833
+  Precision At 7:         0.857
+  Precision At 8:         0.750
+  Precision At 9:         0.667
+  Precision At 10:        0.600
+  Precision At 11:        0.545
+  Precision At 12:        0.500
+  Precision At 13:        0.462
+  Precision At 14:        0.500
+  Precision At 15:        0.533
+  Precision At 16:        0.500
+  Precision At 17:        0.471
+  Precision At 18:        0.500
+  Precision At 19:        0.474
+  Precision At 20:        0.450
+
+787  -  (body:sunflow body:cultiv)
+
+787 Stats:
+  Search Seconds:         0.010
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      355.000
+  Max Good Points:      435.000
+  Average Precision:      0.618
+  MRR:                    1.000
+  Recall:                 0.816
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        1.000
+  Precision At 12:        1.000
+  Precision At 13:        1.000
+  Precision At 14:        1.000
+  Precision At 15:        1.000
+  Precision At 16:        1.000
+  Precision At 17:        1.000
+  Precision At 18:        1.000
+  Precision At 19:        1.000
+  Precision At 20:        1.000
+
+788  -  (body:revers body:mortgag)
+
+788 Stats:
+  Search Seconds:         0.024
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      136.000
+  Max Good Points:      143.000
+  Average Precision:      0.577
+  MRR:                    1.000
+  Recall:                 0.951
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         0.875
+  Precision At 9:         0.889
+  Precision At 10:        0.800
+  Precision At 11:        0.818
+  Precision At 12:        0.833
+  Precision At 13:        0.846
+  Precision At 14:        0.786
+  Precision At 15:        0.733
+  Precision At 16:        0.688
+  Precision At 17:        0.706
+  Precision At 18:        0.722
+  Precision At 19:        0.684
+  Precision At 20:        0.700
+
+789  -  (body:abandon body:mine body:reclam)
+
+789 Stats:
+  Search Seconds:         0.042
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      166.000
+  Max Good Points:      213.000
+  Average Precision:      0.232
+  MRR:                    0.500
+  Recall:                 0.779
+  Precision At 1:         0.000
+  Precision At 2:         0.500
+  Precision At 3:         0.333
+  Precision At 4:         0.500
+  Precision At 5:         0.600
+  Precision At 6:         0.500
+  Precision At 7:         0.429
+  Precision At 8:         0.375
+  Precision At 9:         0.333
+  Precision At 10:        0.400
+  Precision At 11:        0.364
+  Precision At 12:        0.333
+  Precision At 13:        0.308
+  Precision At 14:        0.286
+  Precision At 15:        0.267
+  Precision At 16:        0.250
+  Precision At 17:        0.294
+  Precision At 18:        0.278
+  Precision At 19:        0.263
+  Precision At 20:        0.250
+
+790  -  (body:women body:right body:saudi body:arabia)
+
+790 Stats:
+  Search Seconds:         0.134
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       63.000
+  Max Good Points:       69.000
+  Average Precision:      0.535
+  MRR:                    1.000
+  Recall:                 0.913
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         0.889
+  Precision At 10:        0.900
+  Precision At 11:        0.909
+  Precision At 12:        0.917
+  Precision At 13:        0.923
+  Precision At 14:        0.929
+  Precision At 15:        0.933
+  Precision At 16:        0.875
+  Precision At 17:        0.824
+  Precision At 18:        0.833
+  Precision At 19:        0.842
+  Precision At 20:        0.800
+
+791  -  (body:gullah body:geeche body:languag body:cultur)
+
+791 Stats:
+  Search Seconds:         0.067
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:       64.000
+  Max Good Points:       74.000
+  Average Precision:      0.455
+  MRR:                    1.000
+  Recall:                 0.865
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         0.750
+  Precision At 5:         0.800
+  Precision At 6:         0.833
+  Precision At 7:         0.857
+  Precision At 8:         0.875
+  Precision At 9:         0.778
+  Precision At 10:        0.800
+  Precision At 11:        0.727
+  Precision At 12:        0.667
+  Precision At 13:        0.615
+  Precision At 14:        0.571
+  Precision At 15:        0.600
+  Precision At 16:        0.562
+  Precision At 17:        0.529
+  Precision At 18:        0.556
+  Precision At 19:        0.526
+  Precision At 20:        0.550
+
+792  -  (body:social body:secur body:mean body:test)
+
+792 Stats:
+  Search Seconds:         0.277
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      111.000
+  Max Good Points:      228.000
+  Average Precision:      0.150
+  MRR:                    0.333
+  Recall:                 0.487
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.333
+  Precision At 4:         0.500
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.429
+  Precision At 8:         0.500
+  Precision At 9:         0.556
+  Precision At 10:        0.600
+  Precision At 11:        0.545
+  Precision At 12:        0.583
+  Precision At 13:        0.538
+  Precision At 14:        0.500
+  Precision At 15:        0.467
+  Precision At 16:        0.438
+  Precision At 17:        0.412
+  Precision At 18:        0.444
+  Precision At 19:        0.421
+  Precision At 20:        0.450
+
+793  -  (body:bagpip body:band)
+
+793 Stats:
+  Search Seconds:         0.031
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      133.000
+  Max Good Points:      142.000
+  Average Precision:      0.345
+  MRR:                    1.000
+  Recall:                 0.937
+  Precision At 1:         1.000
+  Precision At 2:         0.500
+  Precision At 3:         0.667
+  Precision At 4:         0.750
+  Precision At 5:         0.600
+  Precision At 6:         0.500
+  Precision At 7:         0.429
+  Precision At 8:         0.500
+  Precision At 9:         0.556
+  Precision At 10:        0.500
+  Precision At 11:        0.545
+  Precision At 12:        0.583
+  Precision At 13:        0.615
+  Precision At 14:        0.571
+  Precision At 15:        0.533
+  Precision At 16:        0.500
+  Precision At 17:        0.529
+  Precision At 18:        0.556
+  Precision At 19:        0.579
+  Precision At 20:        0.600
+
+794  -  (body:pet body:therapi)
+
+794 Stats:
+  Search Seconds:         0.027
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       45.000
+  Max Good Points:       83.000
+  Average Precision:      0.097
+  MRR:                    1.000
+  Recall:                 0.542
+  Precision At 1:         1.000
+  Precision At 2:         0.500
+  Precision At 3:         0.333
+  Precision At 4:         0.500
+  Precision At 5:         0.600
+  Precision At 6:         0.500
+  Precision At 7:         0.429
+  Precision At 8:         0.375
+  Precision At 9:         0.444
+  Precision At 10:        0.400
+  Precision At 11:        0.364
+  Precision At 12:        0.333
+  Precision At 13:        0.308
+  Precision At 14:        0.286
+  Precision At 15:        0.267
+  Precision At 16:        0.250
+  Precision At 17:        0.235
+  Precision At 18:        0.278
+  Precision At 19:        0.263
+  Precision At 20:        0.300
+
+795  -  (body:notabl body:cocker body:spaniel)
+
+795 Stats:
+  Search Seconds:         0.012
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:       25.000
+  Max Good Points:       43.000
+  Average Precision:      0.053
+  MRR:                    0.000
+  Recall:                 0.581
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.000
+  Precision At 4:         0.000
+  Precision At 5:         0.000
+  Precision At 6:         0.000
+  Precision At 7:         0.000
+  Precision At 8:         0.000
+  Precision At 9:         0.000
+  Precision At 10:        0.000
+  Precision At 11:        0.000
+  Precision At 12:        0.000
+  Precision At 13:        0.000
+  Precision At 14:        0.000
+  Precision At 15:        0.000
+  Precision At 16:        0.000
+  Precision At 17:        0.000
+  Precision At 18:        0.000
+  Precision At 19:        0.000
+  Precision At 20:        0.000
+
+796  -  (body:blue body:grass body:music body:festiv body:histori)
+
+796 Stats:
+  Search Seconds:         0.149
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      118.000
+  Max Good Points:      201.000
+  Average Precision:      0.254
+  MRR:                    1.000
+  Recall:                 0.587
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         1.000
+  Precision At 4:         1.000
+  Precision At 5:         1.000
+  Precision At 6:         1.000
+  Precision At 7:         1.000
+  Precision At 8:         1.000
+  Precision At 9:         1.000
+  Precision At 10:        1.000
+  Precision At 11:        1.000
+  Precision At 12:        1.000
+  Precision At 13:        0.923
+  Precision At 14:        0.857
+  Precision At 15:        0.800
+  Precision At 16:        0.812
+  Precision At 17:        0.765
+  Precision At 18:        0.722
+  Precision At 19:        0.737
+  Precision At 20:        0.750
+
+797  -  (body:reintroduct body:grai body:wolv)
+
+797 Stats:
+  Search Seconds:         0.034
+  DocName Seconds:        0.006
+  Num Points:         1,000.000
+  Num Good Points:      155.000
+  Max Good Points:      173.000
+  Average Precision:      0.515
+  MRR:                    1.000
+  Recall:                 0.896
+  Precision At 1:         1.000
+  Precision At 2:         1.000
+  Precision At 3:         0.667
+  Precision At 4:         0.500
+  Precision At 5:         0.600
+  Precision At 6:         0.667
+  Precision At 7:         0.714
+  Precision At 8:         0.750
+  Precision At 9:         0.667
+  Precision At 10:        0.600
+  Precision At 11:        0.636
+  Precision At 12:        0.583
+  Precision At 13:        0.615
+  Precision At 14:        0.571
+  Precision At 15:        0.600
+  Precision At 16:        0.562
+  Precision At 17:        0.588
+  Precision At 18:        0.556
+  Precision At 19:        0.579
+  Precision At 20:        0.600
+
+798  -  (body:massachusett body:textil body:mill)
+
+798 Stats:
+  Search Seconds:         0.040
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:       58.000
+  Max Good Points:       98.000
+  Average Precision:      0.159
+  MRR:                    0.500
+  Recall:                 0.592
+  Precision At 1:         0.000
+  Precision At 2:         0.500
+  Precision At 3:         0.333
+  Precision At 4:         0.250
+  Precision At 5:         0.200
+  Precision At 6:         0.167
+  Precision At 7:         0.143
+  Precision At 8:         0.125
+  Precision At 9:         0.111
+  Precision At 10:        0.200
+  Precision At 11:        0.182
+  Precision At 12:        0.250
+  Precision At 13:        0.308
+  Precision At 14:        0.357
+  Precision At 15:        0.400
+  Precision At 16:        0.438
+  Precision At 17:        0.412
+  Precision At 18:        0.389
+  Precision At 19:        0.368
+  Precision At 20:        0.350
+
+799  -  (body:anim body:alzheim body:research)
+
+799 Stats:
+  Search Seconds:         0.187
+  DocName Seconds:        0.006
+  Num Points:         1,000.000
+  Num Good Points:      143.000
+  Max Good Points:      157.000
+  Average Precision:      0.291
+  MRR:                    0.333
+  Recall:                 0.911
+  Precision At 1:         0.000
+  Precision At 2:         0.000
+  Precision At 3:         0.333
+  Precision At 4:         0.250
+  Precision At 5:         0.400
+  Precision At 6:         0.500
+  Precision At 7:         0.571
+  Precision At 8:         0.625
+  Precision At 9:         0.556
+  Precision At 10:        0.600
+  Precision At 11:        0.636
+  Precision At 12:        0.583
+  Precision At 13:        0.538
+  Precision At 14:        0.500
+  Precision At 15:        0.533
+  Precision At 16:        0.562
+  Precision At 17:        0.529
+  Precision At 18:        0.500
+  Precision At 19:        0.474
+  Precision At 20:        0.450
+
+800  -  (body:ovarian body:cancer body:treatment)
+
+800 Stats:
+  Search Seconds:         0.065
+  DocName Seconds:        0.007
+  Num Points:         1,000.000
+  Num Good Points:      122.000
+  Max Good Points:      155.000
+  Average Precision:      0.226
+  MRR:                    1.000
+  Recall:                 0.787
+  Precision At 1:         1.000
+  Precision At 2:         0.500
+  Precision At 3:         0.333
+  Precision At 4:         0.250
+  Precision At 5:         0.200
+  Precision At 6:         0.167
+  Precision At 7:         0.143
+  Precision At 8:         0.125
+  Precision At 9:         0.111
+  Precision At 10:        0.200
+  Precision At 11:        0.273
+  Precision At 12:        0.333
+  Precision At 13:        0.385
+  Precision At 14:        0.357
+  Precision At 15:        0.333
+  Precision At 16:        0.312
+  Precision At 17:        0.294
+  Precision At 18:        0.333
+  Precision At 19:        0.368
+  Precision At 20:        0.400
+
+
+
+SUMMARY
+  Search Seconds:         0.110
+  DocName Seconds:        0.008
+  Num Points:         1,000.000
+  Num Good Points:      148.080
+  Max Good Points:      208.140
+  Average Precision:      0.335
+  MRR:                    0.792
+  Recall:                 0.727
+  Precision At 1:         0.700
+  Precision At 2:         0.690
+  Precision At 3:         0.680
+  Precision At 4:         0.665
+  Precision At 5:         0.672
+  Precision At 6:         0.680
+  Precision At 7:         0.677
+  Precision At 8:         0.670
+  Precision At 9:         0.649
+  Precision At 10:        0.642
+  Precision At 11:        0.627
+  Precision At 12:        0.618
+  Precision At 13:        0.609
+  Precision At 14:        0.594
+  Precision At 15:        0.595
+  Precision At 16:        0.584
+  Precision At 17:        0.578
+  Precision At 18:        0.571
+  Precision At 19:        0.569
+  Precision At 20:        0.569
+
+

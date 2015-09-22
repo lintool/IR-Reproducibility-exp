@@ -1,0 +1,2613 @@
+Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
+INFO - Loading document document lengths 13% done. Estimated finished in 0m06s
+INFO - Loading document document lengths 27% done. Estimated finished in 0m05s
+INFO - Loading document document lengths 41% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 54% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 68% done. Estimated finished in 0m02s
+INFO - Loading document document lengths 82% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 96% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 7.381
+INFO - 701 : u s oil industry history
+INFO - Processing query: 701: 'u s oil industry history'
+INFO - Query 701 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.18583012804206944 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: oil, normalisedFrequency: 1.1858
+INFO - 2: industri, normalisedFrequency: 1.0836
+INFO - 3: histori, normalisedFrequency: 1.0459
+INFO - 4: offshor, normalisedFrequency: 0.0758
+INFO - 5: petroleum, normalisedFrequency: 0.0666
+INFO - 6: barbara, normalisedFrequency: 0.0532
+INFO - 7: oc, normalisedFrequency: 0.0513
+INFO - 8: mm, normalisedFrequency: 0.0330
+INFO - 9: studi, normalisedFrequency: 0.0296
+INFO - 10: drill, normalisedFrequency: 0.0282
+INFO - NEWQUERY 701 oil^1.185830128 industri^1.083600824 histori^1.045948991 offshor^0.075754307 petroleum^0.066624656 barbara^0.053186869 oc^0.051347909 mm^0.033038494 studi^0.029567187 drill^0.028193591 
+INFO - Accessing inverted file for expanded query 701
+INFO - Query 701 with 10 terms has 10 posting lists
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/classical.DPH_QE.terrier.1.701-750.txt
+INFO - Time to process query: 2.475
+INFO - 702 : pearl farming
+INFO - Processing query: 702: 'pearl farming'
+INFO - Query 702 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.43778052148646035 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: pearl, normalisedFrequency: 1.4378
+INFO - 2: farm, normalisedFrequency: 1.0607
+INFO - 3: shell, normalisedFrequency: 0.0606
+INFO - 4: farmer, normalisedFrequency: 0.0382
+INFO - 5: conserv, normalisedFrequency: 0.0233
+INFO - 6: detriment, normalisedFrequency: 0.0204
+INFO - 7: sell, normalisedFrequency: 0.0186
+INFO - 8: accept, normalisedFrequency: 0.0156
+INFO - 9: harvest, normalisedFrequency: 0.0156
+INFO - 10: father, normalisedFrequency: 0.0119
+INFO - NEWQUERY 702 pearl^1.437780521 farm^1.060675221 shell^0.060574441 farmer^0.038170523 conserv^0.023336419 detriment^0.020390474 sell^0.018613787 accept^0.015580246 harvest^0.015555814 father^0.011875523 
+INFO - Accessing inverted file for expanded query 702
+INFO - Query 702 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.719
+INFO - 703 : u s against international criminal court
+INFO - Processing query: 703: 'u s against international criminal court'
+INFO - Query 703 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4325109729231773 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: intern, normalisedFrequency: 1.2414
+INFO - 2: crimin, normalisedFrequency: 1.2959
+INFO - 3: court, normalisedFrequency: 1.1389
+INFO - 4: icc, normalisedFrequency: 0.4325
+INFO - 5: rome, normalisedFrequency: 0.0898
+INFO - 6: bloomfield, normalisedFrequency: 0.0803
+INFO - 7: bolton, normalisedFrequency: 0.0679
+INFO - 8: articl, normalisedFrequency: 0.0661
+INFO - 9: kazakhstan, normalisedFrequency: 0.0636
+INFO - 10: remark, normalisedFrequency: 0.0617
+INFO - NEWQUERY 703 intern^1.241363553 crimin^1.295894096 court^1.138913888 icc^0.432510973 rome^0.089780496 bloomfield^0.080291973 bolton^0.067932640 articl^0.066054335 kazakhstan^0.063560644 remark^0.061681404 
+INFO - Accessing inverted file for expanded query 703
+INFO - Query 703 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.838
+INFO - 704 : green party political views
+INFO - Processing query: 704: 'green party political views'
+INFO - Query 704 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.12556126368191173 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: green, normalisedFrequency: 1.0490
+INFO - 2: parti, normalisedFrequency: 1.1256
+INFO - 3: polit, normalisedFrequency: 1.0702
+INFO - 4: view, normalisedFrequency: 1.0000
+INFO - 5: candid, normalisedFrequency: 0.0548
+INFO - 6: libertarian, normalisedFrequency: 0.0514
+INFO - 7: elect, normalisedFrequency: 0.0508
+INFO - 8: voter, normalisedFrequency: 0.0432
+INFO - 9: presidenti, normalisedFrequency: 0.0279
+INFO - 10: offici, normalisedFrequency: 0.0186
+INFO - 11: vote, normalisedFrequency: 0.0176
+INFO - NEWQUERY 704 green^1.049041031 parti^1.125561264 polit^1.070208795 view^1.000000000 candid^0.054823802 libertarian^0.051402656 elect^0.050848640 voter^0.043237539 presidenti^0.027943848 offici^0.018597112 vote^0.017641729 
+INFO - Accessing inverted file for expanded query 704
+INFO - Query 704 with 11 terms has 11 posting lists
+INFO - Time to process query: 3.5
+INFO - 705 : iraq foreign debt reduction
+INFO - Processing query: 705: 'iraq foreign debt reduction'
+INFO - Query 705 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.27736324496388093 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: iraq, normalisedFrequency: 1.2774
+INFO - 2: foreign, normalisedFrequency: 1.0484
+INFO - 3: debt, normalisedFrequency: 1.0653
+INFO - 4: reduct, normalisedFrequency: 1.0262
+INFO - 5: iraqi, normalisedFrequency: 0.1272
+INFO - 6: bush, normalisedFrequency: 0.0804
+INFO - 7: saddam, normalisedFrequency: 0.0726
+INFO - 8: hussein, normalisedFrequency: 0.0659
+INFO - 9: sai, normalisedFrequency: 0.0321
+INFO - 10: presid, normalisedFrequency: 0.0269
+INFO - NEWQUERY 705 iraq^1.277363245 foreign^1.048397538 debt^1.065347427 reduct^1.026216083 iraqi^0.127214949 bush^0.080373067 saddam^0.072561723 hussein^0.065936719 sai^0.032105214 presid^0.026856066 
+INFO - Accessing inverted file for expanded query 705
+INFO - Query 705 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.984
+INFO - 706 : controlling type ii diabetes
+INFO - Processing query: 706: 'controlling type ii diabetes'
+INFO - Query 706 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.301374566151327 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: control, normalisedFrequency: 1.0000
+INFO - 2: type, normalisedFrequency: 1.0313
+INFO - 3: ii, normalisedFrequency: 1.0512
+INFO - 4: diabet, normalisedFrequency: 1.3014
+INFO - 5: insulin, normalisedFrequency: 0.1373
+INFO - 6: glycem, normalisedFrequency: 0.0952
+INFO - 7: sugar, normalisedFrequency: 0.0691
+INFO - 8: diet, normalisedFrequency: 0.0664
+INFO - 9: blood, normalisedFrequency: 0.0529
+INFO - 10: care, normalisedFrequency: 0.0377
+INFO - 11: treat, normalisedFrequency: 0.0340
+INFO - NEWQUERY 706 control^1.000000000 type^1.031301907 ii^1.051185246 diabet^1.301374566 insulin^0.137302184 glycem^0.095198306 sugar^0.069147606 diet^0.066351854 blood^0.052892052 care^0.037650782 treat^0.033977567 
+INFO - Accessing inverted file for expanded query 706
+INFO - Query 706 with 11 terms has 11 posting lists
+INFO - Time to process query: 3.064
+INFO - 707 : aspirin cancer prevention
+INFO - Processing query: 707: 'aspirin cancer prevention'
+INFO - Query 707 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4473130475693771 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: aspirin, normalisedFrequency: 1.4161
+INFO - 2: cancer, normalisedFrequency: 1.3516
+INFO - 3: prevent, normalisedFrequency: 1.0000
+INFO - 4: colorect, normalisedFrequency: 0.4473
+INFO - 5: polyp, normalisedFrequency: 0.1768
+INFO - 6: adenoma, normalisedFrequency: 0.1638
+INFO - 7: trial, normalisedFrequency: 0.1241
+INFO - 8: nci, normalisedFrequency: 0.1117
+INFO - 9: risk, normalisedFrequency: 0.0718
+INFO - 10: peopl, normalisedFrequency: 0.0647
+INFO - 11: regularli, normalisedFrequency: 0.0630
+INFO - NEWQUERY 707 aspirin^1.416107353 cancer^1.351576493 prevent^1.000000000 colorect^0.447313048 polyp^0.176800154 adenoma^0.163826714 trial^0.124093008 nci^0.111717166 risk^0.071799449 peopl^0.064658613 regularli^0.063014111 
+INFO - Accessing inverted file for expanded query 707
+INFO - Query 707 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.86
+INFO - 708 : decorative slate sources
+INFO - Processing query: 708: 'decorative slate sources'
+INFO - Query 708 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.25394951571290536 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: decor, normalisedFrequency: 1.0000
+INFO - 2: slate, normalisedFrequency: 1.2010
+INFO - 3: sourc, normalisedFrequency: 1.0000
+INFO - 4: advertis, normalisedFrequency: 0.2539
+INFO - 5: kystd, normalisedFrequency: 0.2134
+INFO - 6: kref, normalisedFrequency: 0.1606
+INFO - 7: tear, normalisedFrequency: 0.1074
+INFO - 8: attach, normalisedFrequency: 0.0968
+INFO - 9: purchas, normalisedFrequency: 0.0964
+INFO - 10: victori, normalisedFrequency: 0.0926
+INFO - 11: ad, normalisedFrequency: 0.0860
+INFO - 12: copi, normalisedFrequency: 0.0769
+INFO - NEWQUERY 708 decor^1.000000000 slate^1.200981632 sourc^1.000000000 advertis^0.253949516 kystd^0.213411468 kref^0.160593773 tear^0.107440639 attach^0.096759254 purchas^0.096422056 victori^0.092649208 ad^0.085996439 copi^0.076853653 
+INFO - Accessing inverted file for expanded query 708
+INFO - Query 708 with 12 terms has 12 posting lists
+INFO - Time to process query: 2.173
+INFO - 709 : horse racing jockey weight
+INFO - Processing query: 709: 'horse racing jockey weight'
+INFO - Query 709 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3692426084535138 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: hors, normalisedFrequency: 1.3692
+INFO - 2: race, normalisedFrequency: 1.2977
+INFO - 3: jockei, normalisedFrequency: 1.2250
+INFO - 4: weight, normalisedFrequency: 1.0374
+INFO - 5: steward, normalisedFrequency: 0.0617
+INFO - 6: paddock, normalisedFrequency: 0.0476
+INFO - 7: weigh, normalisedFrequency: 0.0442
+INFO - 8: finish, normalisedFrequency: 0.0405
+INFO - 9: starter, normalisedFrequency: 0.0372
+INFO - 10: start, normalisedFrequency: 0.0367
+INFO - NEWQUERY 709 hors^1.369242608 race^1.297671567 jockei^1.224985374 weight^1.037357038 steward^0.061710516 paddock^0.047590068 weigh^0.044243984 finish^0.040471983 starter^0.037163852 start^0.036747607 
+INFO - Accessing inverted file for expanded query 709
+INFO - Query 709 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.112
+INFO - 710 : prostate cancer treatments
+INFO - Processing query: 710: 'prostate cancer treatments'
+INFO - Query 710 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4643325496371571 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: prostat, normalisedFrequency: 1.4643
+INFO - 2: cancer, normalisedFrequency: 1.2668
+INFO - 3: treatment, normalisedFrequency: 1.1185
+INFO - 4: therapi, normalisedFrequency: 0.1310
+INFO - 5: stage, normalisedFrequency: 0.1116
+INFO - 6: prostatectomi, normalisedFrequency: 0.0983
+INFO - 7: hormon, normalisedFrequency: 0.0959
+INFO - 8: trial, normalisedFrequency: 0.0923
+INFO - 9: clinic, normalisedFrequency: 0.0804
+INFO - 10: pdq, normalisedFrequency: 0.0683
+INFO - NEWQUERY 710 prostat^1.464332550 cancer^1.266833859 treatment^1.118494588 therapi^0.131033603 stage^0.111641659 prostatectomi^0.098299301 hormon^0.095854824 trial^0.092306866 clinic^0.080425280 pdq^0.068314534 
+INFO - Accessing inverted file for expanded query 710
+INFO - Query 710 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.879
+INFO - 711 : train station security measures
+INFO - Processing query: 711: 'train station security measures'
+INFO - Query 711 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.47084958575910474 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: train, normalisedFrequency: 1.0953
+INFO - 2: station, normalisedFrequency: 1.0974
+INFO - 3: secur, normalisedFrequency: 1.0825
+INFO - 4: measur, normalisedFrequency: 1.0000
+INFO - 5: amtrak, normalisedFrequency: 0.4708
+INFO - 6: ridership, normalisedFrequency: 0.1525
+INFO - 7: transit, normalisedFrequency: 0.1398
+INFO - 8: rail, normalisedFrequency: 0.1380
+INFO - 9: tunnel, normalisedFrequency: 0.0872
+INFO - 10: polic, normalisedFrequency: 0.0835
+INFO - 11: passeng, normalisedFrequency: 0.0773
+INFO - NEWQUERY 711 train^1.095263130 station^1.097436509 secur^1.082533422 measur^1.000000000 amtrak^0.470849586 ridership^0.152529764 transit^0.139823279 rail^0.138006752 tunnel^0.087229581 polic^0.083462072 passeng^0.077285621 
+INFO - Accessing inverted file for expanded query 711
+INFO - Query 711 with 11 terms has 11 posting lists
+INFO - Time to process query: 2.946
+INFO - 712 : pyramid scheme
+INFO - Processing query: 712: 'pyramid scheme'
+INFO - Query 712 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5100077504456006 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: pyramid, normalisedFrequency: 1.5100
+INFO - 2: scheme, normalisedFrequency: 1.1815
+INFO - 3: recruit, normalisedFrequency: 0.1523
+INFO - 4: monei, normalisedFrequency: 0.0667
+INFO - 5: illeg, normalisedFrequency: 0.0511
+INFO - 6: legitim, normalisedFrequency: 0.0420
+INFO - 7: particip, normalisedFrequency: 0.0372
+INFO - 8: disguis, normalisedFrequency: 0.0346
+INFO - 9: market, normalisedFrequency: 0.0342
+INFO - 10: compani, normalisedFrequency: 0.0331
+INFO - NEWQUERY 712 pyramid^1.510007750 scheme^1.181518996 recruit^0.152264864 monei^0.066666948 illeg^0.051090629 legitim^0.041955916 particip^0.037205935 disguis^0.034586229 market^0.034168469 compani^0.033104913 
+INFO - Accessing inverted file for expanded query 712
+INFO - Query 712 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.948
+INFO - 713 : chesapeake bay maryland clean
+INFO - Processing query: 713: 'chesapeake bay maryland clean'
+INFO - Query 713 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.37210674771303315 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: chesapeak, normalisedFrequency: 1.3721
+INFO - 2: bai, normalisedFrequency: 1.3414
+INFO - 3: maryland, normalisedFrequency: 1.1962
+INFO - 4: clean, normalisedFrequency: 1.2135
+INFO - 5: dnr, normalisedFrequency: 0.1142
+INFO - 6: boater, normalisedFrequency: 0.0947
+INFO - 7: cost, normalisedFrequency: 0.0866
+INFO - 8: partner, normalisedFrequency: 0.0719
+INFO - 9: pollut, normalisedFrequency: 0.0574
+INFO - 10: largest, normalisedFrequency: 0.0440
+INFO - NEWQUERY 713 chesapeak^1.372106748 bai^1.341438510 maryland^1.196220095 clean^1.213461485 dnr^0.114191310 boater^0.094749426 cost^0.086576781 partner^0.071869032 pollut^0.057395164 largest^0.044048092 
+INFO - Accessing inverted file for expanded query 713
+INFO - Query 713 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.363
+INFO - 714 : license restrictions older drivers
+INFO - Processing query: 714: 'license restrictions older drivers'
+INFO - Query 714 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.22876556467297038 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: licens, normalisedFrequency: 1.0936
+INFO - 2: restrict, normalisedFrequency: 1.1555
+INFO - 3: older, normalisedFrequency: 1.1183
+INFO - 4: driver, normalisedFrequency: 1.2288
+INFO - 5: unrestrict, normalisedFrequency: 0.1002
+INFO - 6: test, normalisedFrequency: 0.0856
+INFO - 7: ag, normalisedFrequency: 0.0699
+INFO - 8: dmv, normalisedFrequency: 0.0696
+INFO - 9: requir, normalisedFrequency: 0.0617
+INFO - 10: 70, normalisedFrequency: 0.0553
+INFO - NEWQUERY 714 licens^1.093574628 restrict^1.155511700 older^1.118301418 driver^1.228765565 unrestrict^0.100220306 test^0.085562057 ag^0.069892867 dmv^0.069593619 requir^0.061682775 70^0.055342699 
+INFO - Accessing inverted file for expanded query 714
+WARN - query term requir has low idf - ignored from scoring.
+INFO - Query 714 with 10 terms has 9 posting lists
+INFO - Time to process query: 1.623
+INFO - 715 : schizophrenia drugs
+INFO - Processing query: 715: 'schizophrenia drugs'
+INFO - Query 715 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5295288814497727 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: schizophrenia, normalisedFrequency: 1.5295
+INFO - 2: drug, normalisedFrequency: 1.0829
+INFO - 3: antipsychot, normalisedFrequency: 0.2258
+INFO - 4: schizophren, normalisedFrequency: 0.1795
+INFO - 5: clozaril, normalisedFrequency: 0.1352
+INFO - 6: patient, normalisedFrequency: 0.1276
+INFO - 7: symptom, normalisedFrequency: 0.1093
+INFO - 8: agranulocytosi, normalisedFrequency: 0.0755
+INFO - 9: hallucin, normalisedFrequency: 0.0744
+INFO - 10: delus, normalisedFrequency: 0.0699
+INFO - NEWQUERY 715 schizophrenia^1.529528881 drug^1.082868920 antipsychot^0.225755572 schizophren^0.179512457 clozaril^0.135199165 patient^0.127593449 symptom^0.109322665 agranulocytosi^0.075494007 hallucin^0.074438829 delus^0.069910089 
+INFO - Accessing inverted file for expanded query 715
+INFO - Query 715 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.372
+INFO - 716 : spammer arrest sue
+INFO - Processing query: 716: 'spammer arrest sue'
+INFO - Query 716 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4846563689713399 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: spammer, normalisedFrequency: 1.3940
+INFO - 2: arrest, normalisedFrequency: 1.0000
+INFO - 3: sue, normalisedFrequency: 1.0000
+INFO - 4: spam, normalisedFrequency: 0.4847
+INFO - 5: isp, normalisedFrequency: 0.1451
+INFO - 6: consum, normalisedFrequency: 0.0818
+INFO - 7: legisl, normalisedFrequency: 0.0801
+INFO - 8: legitim, normalisedFrequency: 0.0799
+INFO - 9: ftc, normalisedFrequency: 0.0719
+INFO - 10: 2214, normalisedFrequency: 0.0584
+INFO - 11: email, normalisedFrequency: 0.0481
+INFO - 12: enforc, normalisedFrequency: 0.0468
+INFO - NEWQUERY 716 spammer^1.394002989 arrest^1.000000000 sue^1.000000000 spam^0.484656369 isp^0.145069183 consum^0.081840054 legisl^0.080097218 legitim^0.079903767 ftc^0.071933786 2214^0.058420634 email^0.048118067 enforc^0.046834494 
+INFO - Accessing inverted file for expanded query 716
+INFO - Query 716 with 12 terms has 12 posting lists
+INFO - Time to process query: 1.02
+INFO - 717 : gifted talented student programs
+INFO - Processing query: 717: 'gifted talented student programs'
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 717 with 4 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4232133758602461 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: gift, normalisedFrequency: 1.4194
+INFO - 2: talent, normalisedFrequency: 1.4232
+INFO - 3: student, normalisedFrequency: 1.1661
+INFO - 4: program, normalisedFrequency: 1.0000
+INFO - 5: teacher, normalisedFrequency: 0.0973
+INFO - 6: educ, normalisedFrequency: 0.0514
+INFO - 7: instruct, normalisedFrequency: 0.0335
+INFO - 8: grade, normalisedFrequency: 0.0314
+INFO - 9: learn, normalisedFrequency: 0.0270
+INFO - 10: school, normalisedFrequency: 0.0263
+INFO - 11: colleagu, normalisedFrequency: 0.0261
+INFO - NEWQUERY 717 gift^1.419419279 talent^1.423213376 student^1.166084742 program^1.000000000 teacher^0.097319276 educ^0.051437385 instruct^0.033487035 grade^0.031402381 learn^0.027010774 school^0.026340965 colleagu^0.026056481 
+INFO - Accessing inverted file for expanded query 717
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 717 with 11 terms has 10 posting lists
+INFO - Time to process query: 1.827
+INFO - 718 : controlling acid rain
+INFO - Processing query: 718: 'controlling acid rain'
+INFO - Query 718 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.24015195799262434 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: control, normalisedFrequency: 1.0000
+INFO - 2: acid, normalisedFrequency: 1.2315
+INFO - 3: rain, normalisedFrequency: 1.2402
+INFO - 4: adirondack, normalisedFrequency: 0.1549
+INFO - 5: sweenei, normalisedFrequency: 0.1476
+INFO - 6: boehlert, normalisedFrequency: 0.1472
+INFO - 7: mchugh, normalisedFrequency: 0.1466
+INFO - 8: bill, normalisedFrequency: 0.0777
+INFO - 9: legisl, normalisedFrequency: 0.0775
+INFO - 10: 107th, normalisedFrequency: 0.0604
+INFO - 11: pierrepont, normalisedFrequency: 0.0554
+INFO - NEWQUERY 718 control^1.000000000 acid^1.231458046 rain^1.240151958 adirondack^0.154869538 sweenei^0.147644555 boehlert^0.147154859 mchugh^0.146573894 bill^0.077707898 legisl^0.077521643 107th^0.060355095 pierrepont^0.055442106 
+INFO - Accessing inverted file for expanded query 718
+INFO - Query 718 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.4
+INFO - 719 : cruise ship damage sea life
+INFO - Processing query: 719: 'cruise ship damage sea life'
+INFO - Query 719 with 5 terms has 5 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.24607946432593383 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: cruis, normalisedFrequency: 1.2125
+INFO - 2: ship, normalisedFrequency: 1.2461
+INFO - 3: damag, normalisedFrequency: 1.0000
+INFO - 4: sea, normalisedFrequency: 1.0491
+INFO - 5: life, normalisedFrequency: 1.0000
+INFO - 6: passeng, normalisedFrequency: 0.0969
+INFO - 7: accid, normalisedFrequency: 0.0943
+INFO - 8: fire, normalisedFrequency: 0.0865
+INFO - 9: safeti, normalisedFrequency: 0.0622
+INFO - 10: board, normalisedFrequency: 0.0603
+INFO - 11: crew, normalisedFrequency: 0.0522
+INFO - 12: aboard, normalisedFrequency: 0.0425
+INFO - NEWQUERY 719 cruis^1.212536195 ship^1.246079464 damag^1.000000000 sea^1.049114062 life^1.000000000 passeng^0.096861478 accid^0.094255415 fire^0.086523883 safeti^0.062151861 board^0.060337033 crew^0.052206762 aboard^0.042464337 
+INFO - Accessing inverted file for expanded query 719
+INFO - Query 719 with 12 terms has 12 posting lists
+INFO - Time to process query: 1.661
+INFO - 720 : federal welfare reform
+INFO - Processing query: 720: 'federal welfare reform'
+INFO - Query 720 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2585006607905334 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: feder, normalisedFrequency: 1.0379
+INFO - 2: welfar, normalisedFrequency: 1.2585
+INFO - 3: reform, normalisedFrequency: 1.1448
+INFO - 4: governor, normalisedFrequency: 0.0473
+INFO - 5: tanf, normalisedFrequency: 0.0427
+INFO - 6: assist, normalisedFrequency: 0.0259
+INFO - 7: temporari, normalisedFrequency: 0.0230
+INFO - 8: work, normalisedFrequency: 0.0226
+INFO - 9: legisl, normalisedFrequency: 0.0181
+INFO - 10: needi, normalisedFrequency: 0.0176
+INFO - NEWQUERY 720 feder^1.037884532 welfar^1.258500661 reform^1.144782653 governor^0.047327389 tanf^0.042665531 assist^0.025915211 temporari^0.022965522 work^0.022647024 legisl^0.018058977 needi^0.017569846 
+INFO - Accessing inverted file for expanded query 720
+INFO - Query 720 with 10 terms has 10 posting lists
+INFO - Time to process query: 2.973
+INFO - 721 : census data applications
+INFO - Processing query: 721: 'census data applications'
+WARN - query term data has low idf - ignored from scoring.
+INFO - Query 721 with 3 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.16549273626389793 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: censu, normalisedFrequency: 1.1655
+INFO - 2: data, normalisedFrequency: 1.0000
+INFO - 3: applic, normalisedFrequency: 1.0520
+INFO - 4: 2000, normalisedFrequency: 0.0430
+INFO - 5: elig, normalisedFrequency: 0.0351
+INFO - 6: 202, normalisedFrequency: 0.0261
+INFO - 7: employ, normalisedFrequency: 0.0251
+INFO - 8: nationwid, normalisedFrequency: 0.0240
+INFO - 9: local, normalisedFrequency: 0.0222
+INFO - 10: hand, normalisedFrequency: 0.0182
+INFO - 11: project, normalisedFrequency: 0.0170
+INFO - NEWQUERY 721 censu^1.165492736 data^1.000000000 applic^1.052036501 2000^0.043021617 elig^0.035133770 202^0.026082430 employ^0.025060794 nationwid^0.024040830 local^0.022150969 hand^0.018171552 project^0.016978755 
+INFO - Accessing inverted file for expanded query 721
+WARN - query term data has low idf - ignored from scoring.
+WARN - query term project has low idf - ignored from scoring.
+INFO - Query 721 with 11 terms has 9 posting lists
+INFO - Time to process query: 3.432
+INFO - 722 : iran terrorism
+INFO - Processing query: 722: 'iran terrorism'
+INFO - Query 722 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.406095408585924 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: iran, normalisedFrequency: 1.4061
+INFO - 2: terror, normalisedFrequency: 1.2077
+INFO - 3: iranian, normalisedFrequency: 0.1452
+INFO - 4: terrorist, normalisedFrequency: 0.0775
+INFO - 5: qaeda, normalisedFrequency: 0.0675
+INFO - 6: palestinian, normalisedFrequency: 0.0650
+INFO - 7: diplomat, normalisedFrequency: 0.0396
+INFO - 8: eu, normalisedFrequency: 0.0389
+INFO - 9: peac, normalisedFrequency: 0.0343
+INFO - 10: isra, normalisedFrequency: 0.0341
+INFO - NEWQUERY 722 iran^1.406095409 terror^1.207669188 iranian^0.145227476 terrorist^0.077486718 qaeda^0.067528300 palestinian^0.065047447 diplomat^0.039561927 eu^0.038891302 peac^0.034308101 isra^0.034089934 
+INFO - Accessing inverted file for expanded query 722
+INFO - Query 722 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.171
+INFO - 723 : executive privilege
+INFO - Processing query: 723: 'executive privilege'
+INFO - Query 723 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.30258040297058625 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: execut, normalisedFrequency: 1.0990
+INFO - 2: privileg, normalisedFrequency: 1.3026
+INFO - 3: assert, normalisedFrequency: 0.1123
+INFO - 4: counsel, normalisedFrequency: 0.0586
+INFO - 5: presid, normalisedFrequency: 0.0465
+INFO - 6: subpoena, normalisedFrequency: 0.0376
+INFO - 7: properli, normalisedFrequency: 0.0365
+INFO - 8: white, normalisedFrequency: 0.0361
+INFO - 9: hous, normalisedFrequency: 0.0345
+INFO - 10: protect, normalisedFrequency: 0.0296
+INFO - NEWQUERY 723 execut^1.098972204 privileg^1.302580403 assert^0.112329198 counsel^0.058573286 presid^0.046469899 subpoena^0.037625449 properli^0.036471116 white^0.036131941 hous^0.034454585 protect^0.029640354 
+INFO - Accessing inverted file for expanded query 723
+INFO - Query 723 with 10 terms has 10 posting lists
+INFO - Time to process query: 2.065
+INFO - 724 : iran contra
+INFO - Processing query: 724: 'iran contra'
+INFO - Query 724 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.41777749396390934 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: iran, normalisedFrequency: 1.1747
+INFO - 2: contra, normalisedFrequency: 1.4178
+INFO - 3: intellig, normalisedFrequency: 0.0415
+INFO - 4: america, normalisedFrequency: 0.0354
+INFO - 5: arm, normalisedFrequency: 0.0294
+INFO - 6: central, normalisedFrequency: 0.0281
+INFO - 7: 1986, normalisedFrequency: 0.0276
+INFO - 8: walsh, normalisedFrequency: 0.0246
+INFO - 9: hostag, normalisedFrequency: 0.0244
+INFO - 10: govern, normalisedFrequency: 0.0222
+INFO - NEWQUERY 724 iran^1.174714108 contra^1.417777494 intellig^0.041509404 america^0.035409852 arm^0.029410851 central^0.028133502 1986^0.027587039 walsh^0.024599700 hostag^0.024397825 govern^0.022169095 
+INFO - Accessing inverted file for expanded query 724
+INFO - Query 724 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.232
+INFO - 725 : low white blood cell count
+INFO - Processing query: 725: 'low white blood cell count'
+INFO - Query 725 with 5 terms has 5 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.7345868632111717 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: low, normalisedFrequency: 1.2040
+INFO - 2: white, normalisedFrequency: 1.0000
+INFO - 3: blood, normalisedFrequency: 1.4141
+INFO - 4: cell, normalisedFrequency: 1.3126
+INFO - 5: count, normalisedFrequency: 1.4389
+INFO - 6: filgrastim, normalisedFrequency: 0.7346
+INFO - 7: marrow, normalisedFrequency: 0.3988
+INFO - 8: bone, normalisedFrequency: 0.3477
+INFO - 9: doctor, normalisedFrequency: 0.3418
+INFO - 10: neutropenia, normalisedFrequency: 0.3031
+INFO - 11: infect, normalisedFrequency: 0.2644
+INFO - NEWQUERY 725 low^1.204024616 white^1.000000000 blood^1.414051037 cell^1.312611582 count^1.438933042 filgrastim^0.734586863 marrow^0.398768683 bone^0.347660363 doctor^0.341846361 neutropenia^0.303110040 infect^0.264445999 
+INFO - Accessing inverted file for expanded query 725
+INFO - Query 725 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.634
+INFO - 726 : hubble telescope repairs
+INFO - Processing query: 726: 'hubble telescope repairs'
+INFO - Query 726 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4676639967957246 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: hubbl, normalisedFrequency: 1.4677
+INFO - 2: telescop, normalisedFrequency: 1.2846
+INFO - 3: repair, normalisedFrequency: 1.0764
+INFO - 4: shuttl, normalisedFrequency: 0.0929
+INFO - 5: astronaut, normalisedFrequency: 0.0810
+INFO - 6: insul, normalisedFrequency: 0.0615
+INFO - 7: space, normalisedFrequency: 0.0565
+INFO - 8: hst, normalisedFrequency: 0.0552
+INFO - 9: orbit, normalisedFrequency: 0.0386
+INFO - 10: flight, normalisedFrequency: 0.0324
+INFO - NEWQUERY 726 hubbl^1.467663997 telescop^1.284593122 repair^1.076359131 shuttl^0.092908973 astronaut^0.081041068 insul^0.061498460 space^0.056487632 hst^0.055165796 orbit^0.038571421 flight^0.032410487 
+INFO - Accessing inverted file for expanded query 726
+INFO - Query 726 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.705
+INFO - 727 : church arson
+INFO - Processing query: 727: 'church arson'
+INFO - Query 727 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3315178691611426 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: church, normalisedFrequency: 1.3315
+INFO - 2: arson, normalisedFrequency: 1.2533
+INFO - 3: balling, normalisedFrequency: 0.2663
+INFO - 4: baptist, normalisedFrequency: 0.1200
+INFO - 5: indiana, normalisedFrequency: 0.0935
+INFO - 6: count, normalisedFrequency: 0.0752
+INFO - 7: ncatf, normalisedFrequency: 0.0562
+INFO - 8: methodist, normalisedFrequency: 0.0476
+INFO - 9: guilti, normalisedFrequency: 0.0433
+INFO - 10: missionari, normalisedFrequency: 0.0407
+INFO - NEWQUERY 727 church^1.331517869 arson^1.253307755 balling^0.266285393 baptist^0.120037251 indiana^0.093470977 count^0.075155447 ncatf^0.056180807 methodist^0.047617837 guilti^0.043257545 missionari^0.040684597 
+INFO - Accessing inverted file for expanded query 727
+INFO - Query 727 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.413
+INFO - 728 : whales save endangered
+INFO - Processing query: 728: 'whales save endangered'
+INFO - Query 728 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3660010995109966 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: whale, normalisedFrequency: 1.3660
+INFO - 2: save, normalisedFrequency: 1.0000
+INFO - 3: endang, normalisedFrequency: 1.2071
+INFO - 4: bowhead, normalisedFrequency: 0.3064
+INFO - 5: speci, normalisedFrequency: 0.2126
+INFO - 6: balaena, normalisedFrequency: 0.1091
+INFO - 7: balaenoptera, normalisedFrequency: 0.0947
+INFO - 8: mysticetu, normalisedFrequency: 0.0891
+INFO - 9: mammal, normalisedFrequency: 0.0782
+INFO - 10: glaciali, normalisedFrequency: 0.0776
+INFO - 11: megaptera, normalisedFrequency: 0.0741
+INFO - NEWQUERY 728 whale^1.366001100 save^1.000000000 endang^1.207140891 bowhead^0.306354494 speci^0.212558389 balaena^0.109120083 balaenoptera^0.094659039 mysticetu^0.089084802 mammal^0.078192785 glaciali^0.077612095 megaptera^0.074080574 
+INFO - Accessing inverted file for expanded query 728
+INFO - Query 728 with 11 terms has 11 posting lists
+INFO - Time to process query: 0.538
+INFO - 729 : whistle blower department of defense
+INFO - Processing query: 729: 'whistle blower department of defense'
+WARN - query term depart has low idf - ignored from scoring.
+INFO - Query 729 with 4 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.468486191419508 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: whistl, normalisedFrequency: 1.4385
+INFO - 2: blower, normalisedFrequency: 1.4685
+INFO - 3: depart, normalisedFrequency: 1.0000
+INFO - 4: defens, normalisedFrequency: 1.0000
+INFO - 5: lockhe, normalisedFrequency: 0.4607
+INFO - 6: paducah, normalisedFrequency: 0.3231
+INFO - 7: martin, normalisedFrequency: 0.1625
+INFO - 8: suit, normalisedFrequency: 0.1529
+INFO - 9: egan, normalisedFrequency: 0.1479
+INFO - 10: paducahsun, normalisedFrequency: 0.1306
+INFO - 11: 8650, normalisedFrequency: 0.0935
+INFO - 12: justic, normalisedFrequency: 0.0930
+INFO - NEWQUERY 729 whistl^1.438530449 blower^1.468486191 depart^1.000000000 defens^1.000000000 lockhe^0.460676050 paducah^0.323125722 martin^0.162477461 suit^0.152938170 egan^0.147867956 paducahsun^0.130641318 8650^0.093483457 justic^0.092974841 
+INFO - Accessing inverted file for expanded query 729
+WARN - query term depart has low idf - ignored from scoring.
+INFO - Query 729 with 12 terms has 11 posting lists
+INFO - Time to process query: 0.535
+INFO - 730 : gastric bypass complications
+INFO - Processing query: 730: 'gastric bypass complications'
+INFO - Query 730 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.32496072325308245 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: gastric, normalisedFrequency: 1.2955
+INFO - 2: bypass, normalisedFrequency: 1.1917
+INFO - 3: complic, normalisedFrequency: 1.0000
+INFO - 4: surgeri, normalisedFrequency: 0.3250
+INFO - 5: stomach, normalisedFrequency: 0.2437
+INFO - 6: pouch, normalisedFrequency: 0.1299
+INFO - 7: roux, normalisedFrequency: 0.0929
+INFO - 8: surgeon, normalisedFrequency: 0.0840
+INFO - 9: eat, normalisedFrequency: 0.0810
+INFO - 10: obes, normalisedFrequency: 0.0736
+INFO - 11: weight, normalisedFrequency: 0.0702
+INFO - NEWQUERY 730 gastric^1.295548650 bypass^1.191703436 complic^1.000000000 surgeri^0.324960723 stomach^0.243698118 pouch^0.129926581 roux^0.092936496 surgeon^0.083975488 eat^0.081029495 obes^0.073601420 weight^0.070245202 
+INFO - Accessing inverted file for expanded query 730
+INFO - Query 730 with 11 terms has 11 posting lists
+INFO - Time to process query: 0.457
+INFO - 731 : kurds history
+INFO - Processing query: 731: 'kurds history'
+INFO - Query 731 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5868192613015043 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: kurd, normalisedFrequency: 1.5868
+INFO - 2: histori, normalisedFrequency: 1.0000
+INFO - 3: fiction, normalisedFrequency: 0.2440
+INFO - 4: m138m, normalisedFrequency: 0.1894
+INFO - 5: 956, normalisedFrequency: 0.1525
+INFO - 6: searchwidgit, normalisedFrequency: 0.1046
+INFO - 7: l796k, normalisedFrequency: 0.1019
+INFO - 8: juvenil, normalisedFrequency: 0.1011
+INFO - 9: null, normalisedFrequency: 0.0878
+INFO - 10: non, normalisedFrequency: 0.0873
+INFO - 11: 20th, normalisedFrequency: 0.0846
+INFO - NEWQUERY 731 kurd^1.586819261 histori^1.000000000 fiction^0.244016393 m138m^0.189356851 956^0.152490271 searchwidgit^0.104618772 l796k^0.101947776 juvenil^0.101102548 null^0.087839294 non^0.087346239 20th^0.084617610 
+INFO - Accessing inverted file for expanded query 731
+INFO - Query 731 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.492
+INFO - 732 : u s cheese production
+INFO - Processing query: 732: 'u s cheese production'
+INFO - Query 732 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4398454432649334 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: chees, normalisedFrequency: 1.4398
+INFO - 2: product, normalisedFrequency: 1.0824
+INFO - 3: fat, normalisedFrequency: 0.0805
+INFO - 4: milk, normalisedFrequency: 0.0777
+INFO - 5: frozen, normalisedFrequency: 0.0613
+INFO - 6: miscellan, normalisedFrequency: 0.0606
+INFO - 7: cream, normalisedFrequency: 0.0411
+INFO - 8: food, normalisedFrequency: 0.0399
+INFO - 9: ingredi, normalisedFrequency: 0.0371
+INFO - 10: dry, normalisedFrequency: 0.0354
+INFO - NEWQUERY 732 chees^1.439845443 product^1.082427190 fat^0.080480709 milk^0.077664026 frozen^0.061286527 miscellan^0.060591066 cream^0.041088793 food^0.039902658 ingredi^0.037134900 dry^0.035424327 
+INFO - Accessing inverted file for expanded query 732
+INFO - Query 732 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.415
+INFO - 733 : airline overbooking
+INFO - Processing query: 733: 'airline overbooking'
+INFO - Query 733 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.7048280193699892 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: airlin, normalisedFrequency: 1.6842
+INFO - 2: overbook, normalisedFrequency: 1.7048
+INFO - 3: oig, normalisedFrequency: 0.3873
+INFO - 4: flight, normalisedFrequency: 0.1740
+INFO - 5: ticket, normalisedFrequency: 0.1578
+INFO - 6: fare, normalisedFrequency: 0.1568
+INFO - 7: lowest, normalisedFrequency: 0.1155
+INFO - 8: inspector, normalisedFrequency: 0.1133
+INFO - 9: nelligan, normalisedFrequency: 0.1017
+INFO - 10: baggag, normalisedFrequency: 0.0982
+INFO - NEWQUERY 733 airlin^1.684177662 overbook^1.704828019 oig^0.387339224 flight^0.174002001 ticket^0.157783247 fare^0.156750601 lowest^0.115546030 inspector^0.113260764 nelligan^0.101742664 baggag^0.098174687 
+INFO - Accessing inverted file for expanded query 733
+INFO - Query 733 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.257
+INFO - 734 : recycling successes
+INFO - Processing query: 734: 'recycling successes'
+INFO - Query 734 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2604857521622714 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: recycl, normalisedFrequency: 1.2605
+INFO - 2: success, normalisedFrequency: 1.0382
+INFO - 3: bui, normalisedFrequency: 0.0611
+INFO - 4: sabrc, normalisedFrequency: 0.0373
+INFO - 5: purchas, normalisedFrequency: 0.0372
+INFO - 6: nonrecycl, normalisedFrequency: 0.0350
+INFO - 7: program, normalisedFrequency: 0.0328
+INFO - 8: product, normalisedFrequency: 0.0208
+INFO - 9: track, normalisedFrequency: 0.0191
+INFO - 10: procur, normalisedFrequency: 0.0185
+INFO - NEWQUERY 734 recycl^1.260485752 success^1.038234650 bui^0.061083790 sabrc^0.037286771 purchas^0.037161275 nonrecycl^0.034982575 program^0.032750529 product^0.020803504 track^0.019088820 procur^0.018539780 
+INFO - Accessing inverted file for expanded query 734
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 734 with 10 terms has 9 posting lists
+INFO - Time to process query: 1.608
+INFO - 735 : afghan women condition
+INFO - Processing query: 735: 'afghan women condition'
+INFO - Query 735 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.4289275715469243 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: afghan, normalisedFrequency: 1.4289
+INFO - 2: women, normalisedFrequency: 1.2286
+INFO - 3: condit, normalisedFrequency: 1.0000
+INFO - 4: afghanistan, normalisedFrequency: 0.2049
+INFO - 5: jirga, normalisedFrequency: 0.0850
+INFO - 6: loya, normalisedFrequency: 0.0828
+INFO - 7: democraci, normalisedFrequency: 0.0686
+INFO - 8: countri, normalisedFrequency: 0.0545
+INFO - 9: jalal, normalisedFrequency: 0.0497
+INFO - 10: leagu, normalisedFrequency: 0.0468
+INFO - 11: samar, normalisedFrequency: 0.0463
+INFO - NEWQUERY 735 afghan^1.428927572 women^1.228622214 condit^1.000000000 afghanistan^0.204938229 jirga^0.085025734 loya^0.082790905 democraci^0.068593055 countri^0.054489414 jalal^0.049677386 leagu^0.046770977 samar^0.046330030 
+INFO - Accessing inverted file for expanded query 735
+INFO - Query 735 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.743
+INFO - 736 : location bse infections
+INFO - Processing query: 736: 'location bse infections'
+INFO - Query 736 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.525233738488942 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: locat, normalisedFrequency: 1.0000
+INFO - 2: bse, normalisedFrequency: 1.5252
+INFO - 3: infect, normalisedFrequency: 1.1118
+INFO - 4: feed, normalisedFrequency: 0.1361
+INFO - 5: cattl, normalisedFrequency: 0.1311
+INFO - 6: anim, normalisedFrequency: 0.1138
+INFO - 7: introduct, normalisedFrequency: 0.1073
+INFO - 8: ban, normalisedFrequency: 0.0668
+INFO - 9: encephalopathi, normalisedFrequency: 0.0569
+INFO - 10: spongiform, normalisedFrequency: 0.0548
+INFO - 11: cow, normalisedFrequency: 0.0515
+INFO - NEWQUERY 736 locat^1.000000000 bse^1.525233738 infect^1.111787088 feed^0.136143411 cattl^0.131097031 anim^0.113818699 introduct^0.107288622 ban^0.066825576 encephalopathi^0.056888514 spongiform^0.054753737 cow^0.051470645 
+INFO - Accessing inverted file for expanded query 736
+INFO - Query 736 with 11 terms has 11 posting lists
+INFO - Time to process query: 2.066
+INFO - 737 : enron california energy crisis
+INFO - Processing query: 737: 'enron california energy crisis'
+INFO - Query 737 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.40451273329095416 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: enron, normalisedFrequency: 1.4045
+INFO - 2: california, normalisedFrequency: 1.1635
+INFO - 3: energi, normalisedFrequency: 1.2542
+INFO - 4: crisi, normalisedFrequency: 1.2487
+INFO - 5: manipul, normalisedFrequency: 0.2403
+INFO - 6: feinstein, normalisedFrequency: 0.2375
+INFO - 7: senat, normalisedFrequency: 0.1018
+INFO - 8: price, normalisedFrequency: 0.0989
+INFO - 9: market, normalisedFrequency: 0.0980
+INFO - 10: compani, normalisedFrequency: 0.0903
+INFO - NEWQUERY 737 enron^1.404512733 california^1.163459603 energi^1.254179071 crisi^1.248711979 manipul^0.240295029 feinstein^0.237477138 senat^0.101788206 price^0.098859053 market^0.097975994 compani^0.090310399 
+INFO - Accessing inverted file for expanded query 737
+INFO - Query 737 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.933
+INFO - 738 : anthrax hoaxes
+INFO - Processing query: 738: 'anthrax hoaxes'
+INFO - Query 738 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.6003981066741316 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: anthrax, normalisedFrequency: 1.2878
+INFO - 2: hoax, normalisedFrequency: 1.6004
+INFO - 3: schumer, normalisedFrequency: 0.2989
+INFO - 4: terrorist, normalisedFrequency: 0.2091
+INFO - 5: prank, normalisedFrequency: 0.1700
+INFO - 6: powderi, normalisedFrequency: 0.1418
+INFO - 7: fbi, normalisedFrequency: 0.1307
+INFO - 8: yorker, normalisedFrequency: 0.1182
+INFO - 9: scare, normalisedFrequency: 0.1035
+INFO - 10: kingston, normalisedFrequency: 0.0743
+INFO - NEWQUERY 738 anthrax^1.287795798 hoax^1.600398107 schumer^0.298888736 terrorist^0.209075368 prank^0.170001762 powderi^0.141837183 fbi^0.130695967 yorker^0.118215218 scare^0.103531808 kingston^0.074344222 
+INFO - Accessing inverted file for expanded query 738
+INFO - Query 738 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.072
+INFO - 739 : habitat for humanity
+INFO - Processing query: 739: 'habitat for humanity'
+INFO - Query 739 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.20355698081321294 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: habitat, normalisedFrequency: 1.2036
+INFO - 2: human, normalisedFrequency: 1.0905
+INFO - 3: intern, normalisedFrequency: 0.0385
+INFO - 4: null, normalisedFrequency: 0.0122
+INFO - 5: document, normalisedFrequency: 0.0115
+INFO - 6: write, normalisedFrequency: 0.0107
+INFO - 7: temp, normalisedFrequency: 0.0103
+INFO - 8: parent, normalisedFrequency: 0.0059
+INFO - 9: number, normalisedFrequency: 0.0045
+INFO - 10: next, normalisedFrequency: 0.0043
+INFO - NEWQUERY 739 habitat^1.203556981 human^1.090539453 intern^0.038474881 null^0.012214039 document^0.011453332 write^0.010665716 temp^0.010261746 parent^0.005855141 number^0.004489845 next^0.004313722 
+INFO - Accessing inverted file for expanded query 739
+WARN - query term document has low idf - ignored from scoring.
+WARN - query term number has low idf - ignored from scoring.
+INFO - Query 739 with 10 terms has 8 posting lists
+INFO - Time to process query: 2.701
+INFO - 740 : regulate assisted living maryland
+INFO - Processing query: 740: 'regulate assisted living maryland'
+INFO - Query 740 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.18218797863553293 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: regul, normalisedFrequency: 1.0000
+INFO - 2: assist, normalisedFrequency: 1.1245
+INFO - 3: live, normalisedFrequency: 1.1822
+INFO - 4: maryland, normalisedFrequency: 1.0754
+INFO - 5: resid, normalisedFrequency: 0.0823
+INFO - 6: medic, normalisedFrequency: 0.0746
+INFO - 7: provid, normalisedFrequency: 0.0653
+INFO - 8: nurs, normalisedFrequency: 0.0526
+INFO - 9: dhmh, normalisedFrequency: 0.0493
+INFO - 10: care, normalisedFrequency: 0.0442
+INFO - 11: ohcq, normalisedFrequency: 0.0436
+INFO - NEWQUERY 740 regul^1.000000000 assist^1.124514414 live^1.182187979 maryland^1.075394901 resid^0.082294888 medic^0.074639386 provid^0.065251341 nurs^0.052559828 dhmh^0.049315105 care^0.044180902 ohcq^0.043566393 
+INFO - Accessing inverted file for expanded query 740
+INFO - Query 740 with 11 terms has 11 posting lists
+INFO - Time to process query: 2.991
+INFO - 741 : artificial intelligence
+INFO - Processing query: 741: 'artificial intelligence'
+INFO - Query 741 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3635382787231381 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: artifici, normalisedFrequency: 1.3635
+INFO - 2: intellig, normalisedFrequency: 1.2709
+INFO - 3: spielberg, normalisedFrequency: 0.1634
+INFO - 4: fiction, normalisedFrequency: 0.1087
+INFO - 5: steven, normalisedFrequency: 0.0769
+INFO - 6: wachowski, normalisedFrequency: 0.0744
+INFO - 7: n744h, normalisedFrequency: 0.0640
+INFO - 8: m147e, normalisedFrequency: 0.0586
+INFO - 9: mostow, normalisedFrequency: 0.0523
+INFO - 10: non, normalisedFrequency: 0.0500
+INFO - NEWQUERY 741 artifici^1.363538279 intellig^1.270871386 spielberg^0.163384752 fiction^0.108655995 steven^0.076945823 wachowski^0.074438705 n744h^0.064000159 m147e^0.058625488 mostow^0.052282334 non^0.050024145 
+INFO - Accessing inverted file for expanded query 741
+INFO - Query 741 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.667
+INFO - 742 : hedge funds fraud protection
+INFO - Processing query: 742: 'hedge funds fraud protection'
+INFO - Query 742 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.5292565624289512 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: hedg, normalisedFrequency: 1.5293
+INFO - 2: fund, normalisedFrequency: 1.1099
+INFO - 3: fraud, normalisedFrequency: 1.0000
+INFO - 4: protect, normalisedFrequency: 1.0000
+INFO - 5: investor, normalisedFrequency: 0.1175
+INFO - 6: invest, normalisedFrequency: 0.0930
+INFO - 7: broker, normalisedFrequency: 0.0378
+INFO - 8: regist, normalisedFrequency: 0.0290
+INFO - 9: prime, normalisedFrequency: 0.0282
+INFO - 10: advis, normalisedFrequency: 0.0261
+INFO - 11: secur, normalisedFrequency: 0.0251
+INFO - 12: market, normalisedFrequency: 0.0246
+INFO - NEWQUERY 742 hedg^1.529256562 fund^1.109889750 fraud^1.000000000 protect^1.000000000 investor^0.117456720 invest^0.092993808 broker^0.037761805 regist^0.029042743 prime^0.028157401 advis^0.026087466 secur^0.025110834 market^0.024588832 
+INFO - Accessing inverted file for expanded query 742
+INFO - Query 742 with 12 terms has 12 posting lists
+INFO - Time to process query: 2.645
+INFO - 743 : freighter ship registration
+INFO - Processing query: 743: 'freighter ship registration'
+INFO - Query 743 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2858029755901854 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: freighter, normalisedFrequency: 1.1437
+INFO - 2: ship, normalisedFrequency: 1.2858
+INFO - 3: registr, normalisedFrequency: 1.0000
+INFO - 4: stern, normalisedFrequency: 0.2063
+INFO - 5: height, normalisedFrequency: 0.1756
+INFO - 6: wave, normalisedFrequency: 0.1328
+INFO - 7: ferri, normalisedFrequency: 0.1303
+INFO - 8: river, normalisedFrequency: 0.1070
+INFO - 9: car, normalisedFrequency: 0.0955
+INFO - 10: mile, normalisedFrequency: 0.0589
+INFO - 11: island, normalisedFrequency: 0.0512
+INFO - NEWQUERY 743 freighter^1.143688259 ship^1.285802976 registr^1.000000000 stern^0.206339677 height^0.175609794 wave^0.132828253 ferri^0.130334631 river^0.107000933 car^0.095510781 mile^0.058938846 island^0.051244030 
+INFO - Accessing inverted file for expanded query 743
+INFO - Query 743 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.313
+INFO - 744 : counterfeit id punishments
+INFO - Processing query: 744: 'counterfeit id punishments'
+INFO - Query 744 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.22557217625014084 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: counterfeit, normalisedFrequency: 1.1972
+INFO - 2: id, normalisedFrequency: 1.0000
+INFO - 3: punish, normalisedFrequency: 1.1053
+INFO - 4: penalti, normalisedFrequency: 0.2256
+INFO - 5: forg, normalisedFrequency: 0.0689
+INFO - 6: possess, normalisedFrequency: 0.0646
+INFO - 7: illeg, normalisedFrequency: 0.0316
+INFO - 8: purpos, normalisedFrequency: 0.0290
+INFO - 9: intent, normalisedFrequency: 0.0288
+INFO - 10: pursuant, normalisedFrequency: 0.0287
+INFO - 11: guilti, normalisedFrequency: 0.0267
+INFO - NEWQUERY 744 counterfeit^1.197159852 id^1.000000000 punish^1.105311619 penalti^0.225572176 forg^0.068890131 possess^0.064569942 illeg^0.031646782 purpos^0.029005166 intent^0.028834609 pursuant^0.028715578 guilti^0.026725609 
+INFO - Accessing inverted file for expanded query 744
+INFO - Query 744 with 11 terms has 11 posting lists
+INFO - Time to process query: 1.173
+INFO - 745 : doomsday cults
+INFO - Processing query: 745: 'doomsday cults'
+INFO - Query 745 with 2 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.3125476923540317 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: doomsdai, normalisedFrequency: 1.1037
+INFO - 2: cult, normalisedFrequency: 1.1805
+INFO - 3: religi, normalisedFrequency: 0.3125
+INFO - 4: religion, normalisedFrequency: 0.2236
+INFO - 5: jehovah, normalisedFrequency: 0.2188
+INFO - 6: church, normalisedFrequency: 0.2165
+INFO - 7: cathol, normalisedFrequency: 0.1366
+INFO - 8: genocid, normalisedFrequency: 0.1055
+INFO - 9: freedom, normalisedFrequency: 0.0959
+INFO - 10: wit, normalisedFrequency: 0.0883
+INFO - NEWQUERY 745 doomsdai^1.103704170 cult^1.180526876 religi^0.312547692 religion^0.223630417 jehovah^0.218826130 church^0.216455725 cathol^0.136614078 genocid^0.105523010 freedom^0.095924804 wit^0.088277528 
+INFO - Accessing inverted file for expanded query 745
+INFO - Query 745 with 10 terms has 10 posting lists
+INFO - Time to process query: 0.325
+INFO - 746 : outsource job india
+INFO - Processing query: 746: 'outsource job india'
+INFO - Query 746 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.47416250579765656 last weight=0.0
+INFO - query length after expansion: 10
+INFO - Expanded query: 
+INFO - 1: outsourc, normalisedFrequency: 1.4742
+INFO - 2: job, normalisedFrequency: 1.1135
+INFO - 3: india, normalisedFrequency: 1.0790
+INFO - 4: ocwen, normalisedFrequency: 0.3859
+INFO - 5: worker, normalisedFrequency: 0.1198
+INFO - 6: evan, normalisedFrequency: 0.1159
+INFO - 7: offshor, normalisedFrequency: 0.0940
+INFO - 8: foreign, normalisedFrequency: 0.0706
+INFO - 9: global, normalisedFrequency: 0.0651
+INFO - 10: countri, normalisedFrequency: 0.0628
+INFO - NEWQUERY 746 outsourc^1.474162506 job^1.113450142 india^1.078983160 ocwen^0.385913848 worker^0.119793518 evan^0.115898536 offshor^0.094001310 foreign^0.070561396 global^0.065062738 countri^0.062806608 
+INFO - Accessing inverted file for expanded query 746
+INFO - Query 746 with 10 terms has 10 posting lists
+INFO - Time to process query: 1.379
+INFO - 747 : library computer oversight
+INFO - Processing query: 747: 'library computer oversight'
+INFO - Query 747 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2163031331387968 last weight=0.0
+INFO - query length after expansion: 12
+INFO - Expanded query: 
+INFO - 1: librari, normalisedFrequency: 1.0000
+INFO - 2: comput, normalisedFrequency: 1.1669
+INFO - 3: oversight, normalisedFrequency: 1.0000
+INFO - 4: exce, normalisedFrequency: 0.2163
+INFO - 5: filter, normalisedFrequency: 0.1923
+INFO - 6: crime, normalisedFrequency: 0.1716
+INFO - 7: softwar, normalisedFrequency: 0.1591
+INFO - 8: pornographi, normalisedFrequency: 0.1537
+INFO - 9: fiscal, normalisedFrequency: 0.1435
+INFO - 10: fy, normalisedFrequency: 0.1360
+INFO - 11: cost, normalisedFrequency: 0.1261
+INFO - 12: assum, normalisedFrequency: 0.1231
+INFO - NEWQUERY 747 librari^1.000000000 comput^1.166872972 oversight^1.000000000 exce^0.216303133 filter^0.192271080 crime^0.171573267 softwar^0.159060848 pornographi^0.153687861 fiscal^0.143531925 fy^0.136039717 cost^0.126147463 assum^0.123119204 
+INFO - Accessing inverted file for expanded query 747
+INFO - Query 747 with 12 terms has 12 posting lists
+INFO - Time to process query: 3.675
+INFO - 748 : nuclear reactor types
+INFO - Processing query: 748: 'nuclear reactor types'
+INFO - Query 748 with 3 terms has 3 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.38423942376537373 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: nuclear, normalisedFrequency: 1.1831
+INFO - 2: reactor, normalisedFrequency: 1.3219
+INFO - 3: type, normalisedFrequency: 1.0000
+INFO - 4: uranium, normalisedFrequency: 0.3842
+INFO - 5: power, normalisedFrequency: 0.0933
+INFO - 6: boil, normalisedFrequency: 0.0829
+INFO - 7: tabl, normalisedFrequency: 0.0565
+INFO - 8: pwr, normalisedFrequency: 0.0515
+INFO - 9: pressur, normalisedFrequency: 0.0437
+INFO - 10: plant, normalisedFrequency: 0.0416
+INFO - 11: supplier, normalisedFrequency: 0.0337
+INFO - NEWQUERY 748 nuclear^1.183134858 reactor^1.321903605 type^1.000000000 uranium^0.384239424 power^0.093330045 boil^0.082883523 tabl^0.056459537 pwr^0.051547362 pressur^0.043697385 plant^0.041628754 supplier^0.033721461 
+INFO - Accessing inverted file for expanded query 748
+INFO - Query 748 with 11 terms has 11 posting lists
+INFO - Time to process query: 2.479
+INFO - 749 : puerto rico state
+INFO - Processing query: 749: 'puerto rico state'
+WARN - query term state has low idf - ignored from scoring.
+INFO - Query 749 with 3 terms has 2 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.30422847946586556 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: puerto, normalisedFrequency: 1.3042
+INFO - 2: rico, normalisedFrequency: 1.3001
+INFO - 3: state, normalisedFrequency: 1.0000
+INFO - 4: island, normalisedFrequency: 0.0325
+INFO - 5: se, normalisedFrequency: 0.0273
+INFO - 6: direct, normalisedFrequency: 0.0240
+INFO - 7: humacao, normalisedFrequency: 0.0158
+INFO - 8: survei, normalisedFrequency: 0.0153
+INFO - 9: rican, normalisedFrequency: 0.0123
+INFO - 10: develop, normalisedFrequency: 0.0099
+INFO - 11: 000, normalisedFrequency: 0.0093
+INFO - NEWQUERY 749 puerto^1.304228479 rico^1.300057124 state^1.000000000 island^0.032469843 se^0.027301560 direct^0.023955020 humacao^0.015812893 survei^0.015285929 rican^0.012293782 develop^0.009933093 000^0.009292078 
+INFO - Accessing inverted file for expanded query 749
+WARN - query term state has low idf - ignored from scoring.
+WARN - query term 000 has low idf - ignored from scoring.
+INFO - Query 749 with 11 terms has 9 posting lists
+INFO - Time to process query: 2.113
+INFO - 750 : john edwards womens issues
+INFO - Processing query: 750: 'john edwards womens issues'
+INFO - Query 750 with 4 terms has 4 posting lists
+INFO - Starting query expansion post-processing.
+WARN - qemodel control not set for QueryExpansion post process. Using default model Bo1
+INFO - query expansion model: Bo1bfree
+INFO - parameter free query expansion.
+INFO - First weight = 0.2714930617069459 last weight=0.0
+INFO - query length after expansion: 11
+INFO - Expanded query: 
+INFO - 1: john, normalisedFrequency: 1.0745
+INFO - 2: edward, normalisedFrequency: 1.2715
+INFO - 3: women, normalisedFrequency: 1.2597
+INFO - 4: issu, normalisedFrequency: 1.0000
+INFO - 5: right, normalisedFrequency: 0.0901
+INFO - 6: health, normalisedFrequency: 0.0795
+INFO - 7: park, normalisedFrequency: 0.0779
+INFO - 8: jim, normalisedFrequency: 0.0707
+INFO - 9: director, normalisedFrequency: 0.0646
+INFO - 10: patient, normalisedFrequency: 0.0642
+INFO - 11: encourag, normalisedFrequency: 0.0613
+INFO - NEWQUERY 750 john^1.074527324 edward^1.271493062 women^1.259693932 issu^1.000000000 right^0.090116226 health^0.079484820 park^0.077889495 jim^0.070680352 director^0.064623181 patient^0.064163532 encourag^0.061271976 
+INFO - Accessing inverted file for expanded query 750
+INFO - Query 750 with 11 terms has 11 posting lists
+INFO - Time to process query: 3.805
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/classical.DPH_QE.terrier.1.701-750.txt.settings
+INFO - Finished topics, executed 50 queries in 81.783 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/classical.DPH_QE.terrier.1.701-750.txt
+Time elapsed: 89.192 seconds.
+num_ret               	701	1000
+num_rel               	701	164
+num_rel_ret           	701	84
+map                   	701	0.1307
+Rprec                 	701	0.2439
+bpref                 	701	0.1941
+recip_rank            	701	1.0000
+iprec_at_recall_0.00  	701	1.0000
+iprec_at_recall_0.10  	701	0.3273
+iprec_at_recall_0.20  	701	0.2598
+iprec_at_recall_0.30  	701	0.2294
+iprec_at_recall_0.40  	701	0.1387
+iprec_at_recall_0.50  	701	0.0857
+iprec_at_recall_0.60  	701	0.0000
+iprec_at_recall_0.70  	701	0.0000
+iprec_at_recall_0.80  	701	0.0000
+iprec_at_recall_0.90  	701	0.0000
+iprec_at_recall_1.00  	701	0.0000
+P_5                   	701	0.8000
+P_10                  	701	0.4000
+P_15                  	701	0.4000
+P_20                  	701	0.3500
+P_30                  	701	0.3667
+P_100                 	701	0.2700
+P_200                 	701	0.2400
+P_500                 	701	0.1340
+P_1000                	701	0.0840
+num_ret               	702	1000
+num_rel               	702	201
+num_rel_ret           	702	72
+map                   	702	0.0638
+Rprec                 	702	0.1741
+bpref                 	702	0.1269
+recip_rank            	702	1.0000
+iprec_at_recall_0.00  	702	1.0000
+iprec_at_recall_0.10  	702	0.2727
+iprec_at_recall_0.20  	702	0.1353
+iprec_at_recall_0.30  	702	0.0910
+iprec_at_recall_0.40  	702	0.0000
+iprec_at_recall_0.50  	702	0.0000
+iprec_at_recall_0.60  	702	0.0000
+iprec_at_recall_0.70  	702	0.0000
+iprec_at_recall_0.80  	702	0.0000
+iprec_at_recall_0.90  	702	0.0000
+iprec_at_recall_1.00  	702	0.0000
+P_5                   	702	0.4000
+P_10                  	702	0.3000
+P_15                  	702	0.2000
+P_20                  	702	0.1500
+P_30                  	702	0.2000
+P_100                 	702	0.2400
+P_200                 	702	0.1750
+P_500                 	702	0.1020
+P_1000                	702	0.0720
+num_ret               	704	1000
+num_rel               	704	229
+num_rel_ret           	704	165
+map                   	704	0.3405
+Rprec                 	704	0.4934
+bpref                 	704	0.4447
+recip_rank            	704	1.0000
+iprec_at_recall_0.00  	704	1.0000
+iprec_at_recall_0.10  	704	0.7027
+iprec_at_recall_0.20  	704	0.6104
+iprec_at_recall_0.30  	704	0.4957
+iprec_at_recall_0.40  	704	0.4957
+iprec_at_recall_0.50  	704	0.4754
+iprec_at_recall_0.60  	704	0.3103
+iprec_at_recall_0.70  	704	0.1721
+iprec_at_recall_0.80  	704	0.0000
+iprec_at_recall_0.90  	704	0.0000
+iprec_at_recall_1.00  	704	0.0000
+P_5                   	704	0.4000
+P_10                  	704	0.7000
+P_15                  	704	0.6667
+P_20                  	704	0.6500
+P_30                  	704	0.7000
+P_100                 	704	0.5500
+P_200                 	704	0.4350
+P_500                 	704	0.2860
+P_1000                	704	0.1650
+num_ret               	705	1000
+num_rel               	705	167
+num_rel_ret           	705	144
+map                   	705	0.4939
+Rprec                 	705	0.5269
+bpref                 	705	0.5365
+recip_rank            	705	1.0000
+iprec_at_recall_0.00  	705	1.0000
+iprec_at_recall_0.10  	705	0.8696
+iprec_at_recall_0.20  	705	0.7451
+iprec_at_recall_0.30  	705	0.7282
+iprec_at_recall_0.40  	705	0.7282
+iprec_at_recall_0.50  	705	0.6222
+iprec_at_recall_0.60  	705	0.3713
+iprec_at_recall_0.70  	705	0.2752
+iprec_at_recall_0.80  	705	0.1923
+iprec_at_recall_0.90  	705	0.0000
+iprec_at_recall_1.00  	705	0.0000
+P_5                   	705	0.8000
+P_10                  	705	0.8000
+P_15                  	705	0.8000
+P_20                  	705	0.8500
+P_30                  	705	0.8000
+P_100                 	705	0.7200
+P_200                 	705	0.4700
+P_500                 	705	0.2480
+P_1000                	705	0.1440
+num_ret               	706	1000
+num_rel               	706	253
+num_rel_ret           	706	177
+map                   	706	0.1883
+Rprec                 	706	0.2767
+bpref                 	706	0.2971
+recip_rank            	706	0.3333
+iprec_at_recall_0.00  	706	0.4286
+iprec_at_recall_0.10  	706	0.3558
+iprec_at_recall_0.20  	706	0.3353
+iprec_at_recall_0.30  	706	0.2683
+iprec_at_recall_0.40  	706	0.2563
+iprec_at_recall_0.50  	706	0.2466
+iprec_at_recall_0.60  	706	0.2138
+iprec_at_recall_0.70  	706	0.0000
+iprec_at_recall_0.80  	706	0.0000
+iprec_at_recall_0.90  	706	0.0000
+iprec_at_recall_1.00  	706	0.0000
+P_5                   	706	0.2000
+P_10                  	706	0.3000
+P_15                  	706	0.2000
+P_20                  	706	0.3000
+P_30                  	706	0.3333
+P_100                 	706	0.3500
+P_200                 	706	0.3100
+P_500                 	706	0.2420
+P_1000                	706	0.1770
+num_ret               	707	1000
+num_rel               	707	112
+num_rel_ret           	707	100
+map                   	707	0.4673
+Rprec                 	707	0.4911
+bpref                 	707	0.4781
+recip_rank            	707	1.0000
+iprec_at_recall_0.00  	707	1.0000
+iprec_at_recall_0.10  	707	1.0000
+iprec_at_recall_0.20  	707	0.7667
+iprec_at_recall_0.30  	707	0.6538
+iprec_at_recall_0.40  	707	0.5227
+iprec_at_recall_0.50  	707	0.4746
+iprec_at_recall_0.60  	707	0.4172
+iprec_at_recall_0.70  	707	0.2500
+iprec_at_recall_0.80  	707	0.1461
+iprec_at_recall_0.90  	707	0.0000
+iprec_at_recall_1.00  	707	0.0000
+P_5                   	707	1.0000
+P_10                  	707	1.0000
+P_15                  	707	0.9333
+P_20                  	707	0.8000
+P_30                  	707	0.7667
+P_100                 	707	0.5000
+P_200                 	707	0.3500
+P_500                 	707	0.1720
+P_1000                	707	0.1000
+num_ret               	708	1000
+num_rel               	708	152
+num_rel_ret           	708	82
+map                   	708	0.0937
+Rprec                 	708	0.2434
+bpref                 	708	0.2579
+recip_rank            	708	0.0278
+iprec_at_recall_0.00  	708	0.2606
+iprec_at_recall_0.10  	708	0.2606
+iprec_at_recall_0.20  	708	0.2606
+iprec_at_recall_0.30  	708	0.2539
+iprec_at_recall_0.40  	708	0.1832
+iprec_at_recall_0.50  	708	0.1075
+iprec_at_recall_0.60  	708	0.0000
+iprec_at_recall_0.70  	708	0.0000
+iprec_at_recall_0.80  	708	0.0000
+iprec_at_recall_0.90  	708	0.0000
+iprec_at_recall_1.00  	708	0.0000
+P_5                   	708	0.0000
+P_10                  	708	0.0000
+P_15                  	708	0.0000
+P_20                  	708	0.0000
+P_30                  	708	0.0000
+P_100                 	708	0.1600
+P_200                 	708	0.2450
+P_500                 	708	0.1320
+P_1000                	708	0.0820
+num_ret               	709	1000
+num_rel               	709	120
+num_rel_ret           	709	117
+map                   	709	0.7551
+Rprec                 	709	0.7167
+bpref                 	709	0.7478
+recip_rank            	709	1.0000
+iprec_at_recall_0.00  	709	1.0000
+iprec_at_recall_0.10  	709	0.9667
+iprec_at_recall_0.20  	709	0.9667
+iprec_at_recall_0.30  	709	0.9184
+iprec_at_recall_0.40  	709	0.9138
+iprec_at_recall_0.50  	709	0.8824
+iprec_at_recall_0.60  	709	0.7912
+iprec_at_recall_0.70  	709	0.7227
+iprec_at_recall_0.80  	709	0.6234
+iprec_at_recall_0.90  	709	0.3418
+iprec_at_recall_1.00  	709	0.0000
+P_5                   	709	1.0000
+P_10                  	709	0.9000
+P_15                  	709	0.9333
+P_20                  	709	0.9500
+P_30                  	709	0.9667
+P_100                 	709	0.7700
+P_200                 	709	0.5000
+P_500                 	709	0.2280
+P_1000                	709	0.1170
+num_ret               	710	1000
+num_rel               	710	297
+num_rel_ret           	710	256
+map                   	710	0.6228
+Rprec                 	710	0.6094
+bpref                 	710	0.6917
+recip_rank            	710	1.0000
+iprec_at_recall_0.00  	710	1.0000
+iprec_at_recall_0.10  	710	0.9231
+iprec_at_recall_0.20  	710	0.9231
+iprec_at_recall_0.30  	710	0.8818
+iprec_at_recall_0.40  	710	0.8380
+iprec_at_recall_0.50  	710	0.7463
+iprec_at_recall_0.60  	710	0.6281
+iprec_at_recall_0.70  	710	0.4643
+iprec_at_recall_0.80  	710	0.3595
+iprec_at_recall_0.90  	710	0.0000
+iprec_at_recall_1.00  	710	0.0000
+P_5                   	710	0.8000
+P_10                  	710	0.8000
+P_15                  	710	0.8667
+P_20                  	710	0.9000
+P_30                  	710	0.9333
+P_100                 	710	0.8700
+P_200                 	710	0.7450
+P_500                 	710	0.4340
+P_1000                	710	0.2560
+num_ret               	711	1000
+num_rel               	711	67
+num_rel_ret           	711	44
+map                   	711	0.1831
+Rprec                 	711	0.2388
+bpref                 	711	0.3286
+recip_rank            	711	0.5000
+iprec_at_recall_0.00  	711	0.8571
+iprec_at_recall_0.10  	711	0.8000
+iprec_at_recall_0.20  	711	0.3182
+iprec_at_recall_0.30  	711	0.1810
+iprec_at_recall_0.40  	711	0.1063
+iprec_at_recall_0.50  	711	0.0562
+iprec_at_recall_0.60  	711	0.0562
+iprec_at_recall_0.70  	711	0.0000
+iprec_at_recall_0.80  	711	0.0000
+iprec_at_recall_0.90  	711	0.0000
+iprec_at_recall_1.00  	711	0.0000
+P_5                   	711	0.8000
+P_10                  	711	0.8000
+P_15                  	711	0.6000
+P_20                  	711	0.6000
+P_30                  	711	0.4000
+P_100                 	711	0.1800
+P_200                 	711	0.1150
+P_500                 	711	0.0600
+P_1000                	711	0.0440
+num_ret               	712	1000
+num_rel               	712	414
+num_rel_ret           	712	294
+map                   	712	0.5552
+Rprec                 	712	0.5821
+bpref                 	712	0.6755
+recip_rank            	712	1.0000
+iprec_at_recall_0.00  	712	1.0000
+iprec_at_recall_0.10  	712	0.9300
+iprec_at_recall_0.20  	712	0.9300
+iprec_at_recall_0.30  	712	0.9257
+iprec_at_recall_0.40  	712	0.8426
+iprec_at_recall_0.50  	712	0.7324
+iprec_at_recall_0.60  	712	0.5596
+iprec_at_recall_0.70  	712	0.3448
+iprec_at_recall_0.80  	712	0.0000
+iprec_at_recall_0.90  	712	0.0000
+iprec_at_recall_1.00  	712	0.0000
+P_5                   	712	1.0000
+P_10                  	712	0.9000
+P_15                  	712	0.9333
+P_20                  	712	0.9500
+P_30                  	712	0.9000
+P_100                 	712	0.9300
+P_200                 	712	0.8400
+P_500                 	712	0.5180
+P_1000                	712	0.2940
+num_ret               	713	1000
+num_rel               	713	282
+num_rel_ret           	713	207
+map                   	713	0.3359
+Rprec                 	713	0.4149
+bpref                 	713	0.4354
+recip_rank            	713	1.0000
+iprec_at_recall_0.00  	713	1.0000
+iprec_at_recall_0.10  	713	0.6889
+iprec_at_recall_0.20  	713	0.5859
+iprec_at_recall_0.30  	713	0.4971
+iprec_at_recall_0.40  	713	0.4431
+iprec_at_recall_0.50  	713	0.3653
+iprec_at_recall_0.60  	713	0.3097
+iprec_at_recall_0.70  	713	0.2247
+iprec_at_recall_0.80  	713	0.0000
+iprec_at_recall_0.90  	713	0.0000
+iprec_at_recall_1.00  	713	0.0000
+P_5                   	713	0.8000
+P_10                  	713	0.5000
+P_15                  	713	0.6000
+P_20                  	713	0.6000
+P_30                  	713	0.6000
+P_100                 	713	0.5800
+P_200                 	713	0.4750
+P_500                 	713	0.3200
+P_1000                	713	0.2070
+num_ret               	714	1000
+num_rel               	714	61
+num_rel_ret           	714	56
+map                   	714	0.1281
+Rprec                 	714	0.1148
+bpref                 	714	0.0986
+recip_rank            	714	1.0000
+iprec_at_recall_0.00  	714	1.0000
+iprec_at_recall_0.10  	714	0.2188
+iprec_at_recall_0.20  	714	0.1477
+iprec_at_recall_0.30  	714	0.1278
+iprec_at_recall_0.40  	714	0.0958
+iprec_at_recall_0.50  	714	0.0822
+iprec_at_recall_0.60  	714	0.0810
+iprec_at_recall_0.70  	714	0.0810
+iprec_at_recall_0.80  	714	0.0648
+iprec_at_recall_0.90  	714	0.0566
+iprec_at_recall_1.00  	714	0.0000
+P_5                   	714	0.6000
+P_10                  	714	0.3000
+P_15                  	714	0.3333
+P_20                  	714	0.2500
+P_30                  	714	0.2000
+P_100                 	714	0.1300
+P_200                 	714	0.1150
+P_500                 	714	0.0780
+P_1000                	714	0.0560
+num_ret               	715	1000
+num_rel               	715	80
+num_rel_ret           	715	66
+map                   	715	0.1873
+Rprec                 	715	0.2500
+bpref                 	715	0.1638
+recip_rank            	715	1.0000
+iprec_at_recall_0.00  	715	1.0000
+iprec_at_recall_0.10  	715	0.2639
+iprec_at_recall_0.20  	715	0.2639
+iprec_at_recall_0.30  	715	0.2632
+iprec_at_recall_0.40  	715	0.2481
+iprec_at_recall_0.50  	715	0.2212
+iprec_at_recall_0.60  	715	0.2162
+iprec_at_recall_0.70  	715	0.1707
+iprec_at_recall_0.80  	715	0.0956
+iprec_at_recall_0.90  	715	0.0000
+iprec_at_recall_1.00  	715	0.0000
+P_5                   	715	0.4000
+P_10                  	715	0.2000
+P_15                  	715	0.1333
+P_20                  	715	0.1500
+P_30                  	715	0.1333
+P_100                 	715	0.2600
+P_200                 	715	0.2150
+P_500                 	715	0.1240
+P_1000                	715	0.0660
+num_ret               	716	1000
+num_rel               	716	66
+num_rel_ret           	716	47
+map                   	716	0.1019
+Rprec                 	716	0.1515
+bpref                 	716	0.1015
+recip_rank            	716	0.5000
+iprec_at_recall_0.00  	716	0.5000
+iprec_at_recall_0.10  	716	0.2800
+iprec_at_recall_0.20  	716	0.1797
+iprec_at_recall_0.30  	716	0.1797
+iprec_at_recall_0.40  	716	0.1250
+iprec_at_recall_0.50  	716	0.1054
+iprec_at_recall_0.60  	716	0.0670
+iprec_at_recall_0.70  	716	0.0471
+iprec_at_recall_0.80  	716	0.0000
+iprec_at_recall_0.90  	716	0.0000
+iprec_at_recall_1.00  	716	0.0000
+P_5                   	716	0.2000
+P_10                  	716	0.1000
+P_15                  	716	0.2000
+P_20                  	716	0.2000
+P_30                  	716	0.2333
+P_100                 	716	0.1600
+P_200                 	716	0.1250
+P_500                 	716	0.0780
+P_1000                	716	0.0470
+num_ret               	717	1000
+num_rel               	717	537
+num_rel_ret           	717	315
+map                   	717	0.3541
+Rprec                 	717	0.4786
+bpref                 	717	0.5170
+recip_rank            	717	1.0000
+iprec_at_recall_0.00  	717	1.0000
+iprec_at_recall_0.10  	717	0.7376
+iprec_at_recall_0.20  	717	0.7358
+iprec_at_recall_0.30  	717	0.6403
+iprec_at_recall_0.40  	717	0.5059
+iprec_at_recall_0.50  	717	0.4711
+iprec_at_recall_0.60  	717	0.0000
+iprec_at_recall_0.70  	717	0.0000
+iprec_at_recall_0.80  	717	0.0000
+iprec_at_recall_0.90  	717	0.0000
+iprec_at_recall_1.00  	717	0.0000
+P_5                   	717	0.8000
+P_10                  	717	0.7000
+P_15                  	717	0.8000
+P_20                  	717	0.8000
+P_30                  	717	0.8000
+P_100                 	717	0.6900
+P_200                 	717	0.6950
+P_500                 	717	0.4860
+P_1000                	717	0.3150
+num_ret               	718	1000
+num_rel               	718	617
+num_rel_ret           	718	269
+map                   	718	0.2564
+Rprec                 	718	0.3371
+bpref                 	718	0.3793
+recip_rank            	718	1.0000
+iprec_at_recall_0.00  	718	1.0000
+iprec_at_recall_0.10  	718	0.8493
+iprec_at_recall_0.20  	718	0.6169
+iprec_at_recall_0.30  	718	0.3916
+iprec_at_recall_0.40  	718	0.2919
+iprec_at_recall_0.50  	718	0.0000
+iprec_at_recall_0.60  	718	0.0000
+iprec_at_recall_0.70  	718	0.0000
+iprec_at_recall_0.80  	718	0.0000
+iprec_at_recall_0.90  	718	0.0000
+iprec_at_recall_1.00  	718	0.0000
+P_5                   	718	1.0000
+P_10                  	718	0.9000
+P_15                  	718	0.9333
+P_20                  	718	0.8500
+P_30                  	718	0.9000
+P_100                 	718	0.7300
+P_200                 	718	0.6150
+P_500                 	718	0.3820
+P_1000                	718	0.2690
+num_ret               	719	1000
+num_rel               	719	315
+num_rel_ret           	719	91
+map                   	719	0.0496
+Rprec                 	719	0.1556
+bpref                 	719	0.1242
+recip_rank            	719	0.2000
+iprec_at_recall_0.00  	719	0.3077
+iprec_at_recall_0.10  	719	0.2021
+iprec_at_recall_0.20  	719	0.1301
+iprec_at_recall_0.30  	719	0.0000
+iprec_at_recall_0.40  	719	0.0000
+iprec_at_recall_0.50  	719	0.0000
+iprec_at_recall_0.60  	719	0.0000
+iprec_at_recall_0.70  	719	0.0000
+iprec_at_recall_0.80  	719	0.0000
+iprec_at_recall_0.90  	719	0.0000
+iprec_at_recall_1.00  	719	0.0000
+P_5                   	719	0.2000
+P_10                  	719	0.2000
+P_15                  	719	0.2667
+P_20                  	719	0.2500
+P_30                  	719	0.2667
+P_100                 	719	0.2400
+P_200                 	719	0.1900
+P_500                 	719	0.1280
+P_1000                	719	0.0910
+num_ret               	720	1000
+num_rel               	720	561
+num_rel_ret           	720	331
+map                   	720	0.2643
+Rprec                 	720	0.4118
+bpref                 	720	0.4812
+recip_rank            	720	0.3333
+iprec_at_recall_0.00  	720	0.5333
+iprec_at_recall_0.10  	720	0.5328
+iprec_at_recall_0.20  	720	0.5097
+iprec_at_recall_0.30  	720	0.4801
+iprec_at_recall_0.40  	720	0.4213
+iprec_at_recall_0.50  	720	0.3732
+iprec_at_recall_0.60  	720	0.0000
+iprec_at_recall_0.70  	720	0.0000
+iprec_at_recall_0.80  	720	0.0000
+iprec_at_recall_0.90  	720	0.0000
+iprec_at_recall_1.00  	720	0.0000
+P_5                   	720	0.4000
+P_10                  	720	0.5000
+P_15                  	720	0.5333
+P_20                  	720	0.4000
+P_30                  	720	0.4667
+P_100                 	720	0.5100
+P_200                 	720	0.4750
+P_500                 	720	0.4340
+P_1000                	720	0.3310
+num_ret               	721	1000
+num_rel               	721	362
+num_rel_ret           	721	56
+map                   	721	0.0103
+Rprec                 	721	0.0608
+bpref                 	721	0.0841
+recip_rank            	721	0.1250
+iprec_at_recall_0.00  	721	0.1250
+iprec_at_recall_0.10  	721	0.0630
+iprec_at_recall_0.20  	721	0.0000
+iprec_at_recall_0.30  	721	0.0000
+iprec_at_recall_0.40  	721	0.0000
+iprec_at_recall_0.50  	721	0.0000
+iprec_at_recall_0.60  	721	0.0000
+iprec_at_recall_0.70  	721	0.0000
+iprec_at_recall_0.80  	721	0.0000
+iprec_at_recall_0.90  	721	0.0000
+iprec_at_recall_1.00  	721	0.0000
+P_5                   	721	0.0000
+P_10                  	721	0.1000
+P_15                  	721	0.0667
+P_20                  	721	0.0500
+P_30                  	721	0.0333
+P_100                 	721	0.0900
+P_200                 	721	0.0600
+P_500                 	721	0.0560
+P_1000                	721	0.0560
+num_ret               	722	1000
+num_rel               	722	203
+num_rel_ret           	722	172
+map                   	722	0.4955
+Rprec                 	722	0.5172
+bpref                 	722	0.5635
+recip_rank            	722	1.0000
+iprec_at_recall_0.00  	722	1.0000
+iprec_at_recall_0.10  	722	0.7971
+iprec_at_recall_0.20  	722	0.7971
+iprec_at_recall_0.30  	722	0.7692
+iprec_at_recall_0.40  	722	0.6891
+iprec_at_recall_0.50  	722	0.5698
+iprec_at_recall_0.60  	722	0.4094
+iprec_at_recall_0.70  	722	0.2717
+iprec_at_recall_0.80  	722	0.2095
+iprec_at_recall_0.90  	722	0.0000
+iprec_at_recall_1.00  	722	0.0000
+P_5                   	722	1.0000
+P_10                  	722	1.0000
+P_15                  	722	0.8667
+P_20                  	722	0.8000
+P_30                  	722	0.7333
+P_100                 	722	0.7100
+P_200                 	722	0.5250
+P_500                 	722	0.2820
+P_1000                	722	0.1720
+num_ret               	723	1000
+num_rel               	723	109
+num_rel_ret           	723	65
+map                   	723	0.2697
+Rprec                 	723	0.3028
+bpref                 	723	0.2670
+recip_rank            	723	1.0000
+iprec_at_recall_0.00  	723	1.0000
+iprec_at_recall_0.10  	723	1.0000
+iprec_at_recall_0.20  	723	0.6875
+iprec_at_recall_0.30  	723	0.3333
+iprec_at_recall_0.40  	723	0.1416
+iprec_at_recall_0.50  	723	0.1050
+iprec_at_recall_0.60  	723	0.0000
+iprec_at_recall_0.70  	723	0.0000
+iprec_at_recall_0.80  	723	0.0000
+iprec_at_recall_0.90  	723	0.0000
+iprec_at_recall_1.00  	723	0.0000
+P_5                   	723	1.0000
+P_10                  	723	1.0000
+P_15                  	723	0.9333
+P_20                  	723	0.8500
+P_30                  	723	0.7000
+P_100                 	723	0.3300
+P_200                 	723	0.1750
+P_500                 	723	0.1040
+P_1000                	723	0.0650
+num_ret               	724	1000
+num_rel               	724	30
+num_rel_ret           	724	28
+map                   	724	0.2294
+Rprec                 	724	0.2667
+bpref                 	724	0.2033
+recip_rank            	724	1.0000
+iprec_at_recall_0.00  	724	1.0000
+iprec_at_recall_0.10  	724	0.4667
+iprec_at_recall_0.20  	724	0.4667
+iprec_at_recall_0.30  	724	0.2419
+iprec_at_recall_0.40  	724	0.2419
+iprec_at_recall_0.50  	724	0.2419
+iprec_at_recall_0.60  	724	0.1782
+iprec_at_recall_0.70  	724	0.1325
+iprec_at_recall_0.80  	724	0.1007
+iprec_at_recall_0.90  	724	0.1007
+iprec_at_recall_1.00  	724	0.0000
+P_5                   	724	0.2000
+P_10                  	724	0.3000
+P_15                  	724	0.4667
+P_20                  	724	0.3500
+P_30                  	724	0.2667
+P_100                 	724	0.1700
+P_200                 	724	0.1100
+P_500                 	724	0.0560
+P_1000                	724	0.0280
+num_ret               	725	1000
+num_rel               	725	211
+num_rel_ret           	725	155
+map                   	725	0.2855
+Rprec                 	725	0.3791
+bpref                 	725	0.3747
+recip_rank            	725	0.3333
+iprec_at_recall_0.00  	725	0.7143
+iprec_at_recall_0.10  	725	0.6286
+iprec_at_recall_0.20  	725	0.4842
+iprec_at_recall_0.30  	725	0.4221
+iprec_at_recall_0.40  	725	0.3686
+iprec_at_recall_0.50  	725	0.2963
+iprec_at_recall_0.60  	725	0.2714
+iprec_at_recall_0.70  	725	0.2073
+iprec_at_recall_0.80  	725	0.0000
+iprec_at_recall_0.90  	725	0.0000
+iprec_at_recall_1.00  	725	0.0000
+P_5                   	725	0.6000
+P_10                  	725	0.6000
+P_15                  	725	0.5333
+P_20                  	725	0.5500
+P_30                  	725	0.6333
+P_100                 	725	0.4700
+P_200                 	725	0.3950
+P_500                 	725	0.2580
+P_1000                	725	0.1550
+num_ret               	726	1000
+num_rel               	726	285
+num_rel_ret           	726	233
+map                   	726	0.5092
+Rprec                 	726	0.5579
+bpref                 	726	0.6104
+recip_rank            	726	1.0000
+iprec_at_recall_0.00  	726	1.0000
+iprec_at_recall_0.10  	726	0.8246
+iprec_at_recall_0.20  	726	0.8143
+iprec_at_recall_0.30  	726	0.7778
+iprec_at_recall_0.40  	726	0.7170
+iprec_at_recall_0.50  	726	0.6332
+iprec_at_recall_0.60  	726	0.4790
+iprec_at_recall_0.70  	726	0.3466
+iprec_at_recall_0.80  	726	0.2428
+iprec_at_recall_0.90  	726	0.0000
+iprec_at_recall_1.00  	726	0.0000
+P_5                   	726	1.0000
+P_10                  	726	0.8000
+P_15                  	726	0.8000
+P_20                  	726	0.7500
+P_30                  	726	0.7667
+P_100                 	726	0.7600
+P_200                 	726	0.6500
+P_500                 	726	0.3720
+P_1000                	726	0.2330
+num_ret               	727	1000
+num_rel               	727	83
+num_rel_ret           	727	73
+map                   	727	0.4769
+Rprec                 	727	0.5060
+bpref                 	727	0.4723
+recip_rank            	727	1.0000
+iprec_at_recall_0.00  	727	1.0000
+iprec_at_recall_0.10  	727	1.0000
+iprec_at_recall_0.20  	727	0.6538
+iprec_at_recall_0.30  	727	0.5510
+iprec_at_recall_0.40  	727	0.5479
+iprec_at_recall_0.50  	727	0.5122
+iprec_at_recall_0.60  	727	0.5050
+iprec_at_recall_0.70  	727	0.4067
+iprec_at_recall_0.80  	727	0.2384
+iprec_at_recall_0.90  	727	0.0000
+iprec_at_recall_1.00  	727	0.0000
+P_5                   	727	1.0000
+P_10                  	727	0.9000
+P_15                  	727	0.7333
+P_20                  	727	0.7000
+P_30                  	727	0.5667
+P_100                 	727	0.5000
+P_200                 	727	0.3050
+P_500                 	727	0.1420
+P_1000                	727	0.0730
+num_ret               	728	1000
+num_rel               	728	606
+num_rel_ret           	728	416
+map                   	728	0.4678
+Rprec                 	728	0.5380
+bpref                 	728	0.6374
+recip_rank            	728	1.0000
+iprec_at_recall_0.00  	728	1.0000
+iprec_at_recall_0.10  	728	0.9014
+iprec_at_recall_0.20  	728	0.7871
+iprec_at_recall_0.30  	728	0.6741
+iprec_at_recall_0.40  	728	0.6231
+iprec_at_recall_0.50  	728	0.5827
+iprec_at_recall_0.60  	728	0.4844
+iprec_at_recall_0.70  	728	0.0000
+iprec_at_recall_0.80  	728	0.0000
+iprec_at_recall_0.90  	728	0.0000
+iprec_at_recall_1.00  	728	0.0000
+P_5                   	728	1.0000
+P_10                  	728	1.0000
+P_15                  	728	1.0000
+P_20                  	728	1.0000
+P_30                  	728	1.0000
+P_100                 	728	0.8300
+P_200                 	728	0.7150
+P_500                 	728	0.5880
+P_1000                	728	0.4160
+num_ret               	729	1000
+num_rel               	729	7
+num_rel_ret           	729	2
+map                   	729	0.0046
+Rprec                 	729	0.0000
+bpref                 	729	0.0000
+recip_rank            	729	0.0278
+iprec_at_recall_0.00  	729	0.0278
+iprec_at_recall_0.10  	729	0.0278
+iprec_at_recall_0.20  	729	0.0046
+iprec_at_recall_0.30  	729	0.0000
+iprec_at_recall_0.40  	729	0.0000
+iprec_at_recall_0.50  	729	0.0000
+iprec_at_recall_0.60  	729	0.0000
+iprec_at_recall_0.70  	729	0.0000
+iprec_at_recall_0.80  	729	0.0000
+iprec_at_recall_0.90  	729	0.0000
+iprec_at_recall_1.00  	729	0.0000
+P_5                   	729	0.0000
+P_10                  	729	0.0000
+P_15                  	729	0.0000
+P_20                  	729	0.0000
+P_30                  	729	0.0000
+P_100                 	729	0.0100
+P_200                 	729	0.0050
+P_500                 	729	0.0040
+P_1000                	729	0.0020
+num_ret               	730	1000
+num_rel               	730	40
+num_rel_ret           	730	39
+map                   	730	0.5639
+Rprec                 	730	0.6000
+bpref                 	730	0.5431
+recip_rank            	730	0.5000
+iprec_at_recall_0.00  	730	0.9091
+iprec_at_recall_0.10  	730	0.9091
+iprec_at_recall_0.20  	730	0.9091
+iprec_at_recall_0.30  	730	0.8750
+iprec_at_recall_0.40  	730	0.8000
+iprec_at_recall_0.50  	730	0.6316
+iprec_at_recall_0.60  	730	0.6316
+iprec_at_recall_0.70  	730	0.3733
+iprec_at_recall_0.80  	730	0.3511
+iprec_at_recall_0.90  	730	0.1837
+iprec_at_recall_1.00  	730	0.0000
+P_5                   	730	0.8000
+P_10                  	730	0.9000
+P_15                  	730	0.8667
+P_20                  	730	0.8000
+P_30                  	730	0.6000
+P_100                 	730	0.3300
+P_200                 	730	0.1800
+P_500                 	730	0.0740
+P_1000                	730	0.0390
+num_ret               	731	1000
+num_rel               	731	247
+num_rel_ret           	731	186
+map                   	731	0.2565
+Rprec                 	731	0.4211
+bpref                 	731	0.4031
+recip_rank            	731	0.0435
+iprec_at_recall_0.00  	731	0.4655
+iprec_at_recall_0.10  	731	0.4655
+iprec_at_recall_0.20  	731	0.4655
+iprec_at_recall_0.30  	731	0.4655
+iprec_at_recall_0.40  	731	0.4375
+iprec_at_recall_0.50  	731	0.4092
+iprec_at_recall_0.60  	731	0.3014
+iprec_at_recall_0.70  	731	0.2079
+iprec_at_recall_0.80  	731	0.0000
+iprec_at_recall_0.90  	731	0.0000
+iprec_at_recall_1.00  	731	0.0000
+P_5                   	731	0.0000
+P_10                  	731	0.0000
+P_15                  	731	0.0000
+P_20                  	731	0.0000
+P_30                  	731	0.0667
+P_100                 	731	0.3200
+P_200                 	731	0.4350
+P_500                 	731	0.3000
+P_1000                	731	0.1860
+num_ret               	732	1000
+num_rel               	732	617
+num_rel_ret           	732	311
+map                   	732	0.1717
+Rprec                 	732	0.3355
+bpref                 	732	0.4000
+recip_rank            	732	0.2500
+iprec_at_recall_0.00  	732	0.3909
+iprec_at_recall_0.10  	732	0.3909
+iprec_at_recall_0.20  	732	0.3909
+iprec_at_recall_0.30  	732	0.3472
+iprec_at_recall_0.40  	732	0.3338
+iprec_at_recall_0.50  	732	0.3131
+iprec_at_recall_0.60  	732	0.0000
+iprec_at_recall_0.70  	732	0.0000
+iprec_at_recall_0.80  	732	0.0000
+iprec_at_recall_0.90  	732	0.0000
+iprec_at_recall_1.00  	732	0.0000
+P_5                   	732	0.2000
+P_10                  	732	0.1000
+P_15                  	732	0.1333
+P_20                  	732	0.2500
+P_30                  	732	0.2000
+P_100                 	732	0.3300
+P_200                 	732	0.3750
+P_500                 	732	0.3580
+P_1000                	732	0.3110
+num_ret               	733	1000
+num_rel               	733	68
+num_rel_ret           	733	66
+map                   	733	0.3517
+Rprec                 	733	0.4118
+bpref                 	733	0.3599
+recip_rank            	733	0.3333
+iprec_at_recall_0.00  	733	0.8667
+iprec_at_recall_0.10  	733	0.8667
+iprec_at_recall_0.20  	733	0.8235
+iprec_at_recall_0.30  	733	0.6774
+iprec_at_recall_0.40  	733	0.4242
+iprec_at_recall_0.50  	733	0.2500
+iprec_at_recall_0.60  	733	0.1012
+iprec_at_recall_0.70  	733	0.0927
+iprec_at_recall_0.80  	733	0.0912
+iprec_at_recall_0.90  	733	0.0912
+iprec_at_recall_1.00  	733	0.0000
+P_5                   	733	0.6000
+P_10                  	733	0.8000
+P_15                  	733	0.8667
+P_20                  	733	0.7000
+P_30                  	733	0.6667
+P_100                 	733	0.3300
+P_200                 	733	0.1900
+P_500                 	733	0.0880
+P_1000                	733	0.0660
+num_ret               	734	1000
+num_rel               	734	405
+num_rel_ret           	734	227
+map                   	734	0.2117
+Rprec                 	734	0.3407
+bpref                 	734	0.4032
+recip_rank            	734	0.1667
+iprec_at_recall_0.00  	734	0.5714
+iprec_at_recall_0.10  	734	0.5325
+iprec_at_recall_0.20  	734	0.4308
+iprec_at_recall_0.30  	734	0.3582
+iprec_at_recall_0.40  	734	0.3025
+iprec_at_recall_0.50  	734	0.2497
+iprec_at_recall_0.60  	734	0.0000
+iprec_at_recall_0.70  	734	0.0000
+iprec_at_recall_0.80  	734	0.0000
+iprec_at_recall_0.90  	734	0.0000
+iprec_at_recall_1.00  	734	0.0000
+P_5                   	734	0.0000
+P_10                  	734	0.3000
+P_15                  	734	0.3333
+P_20                  	734	0.4500
+P_30                  	734	0.5000
+P_100                 	734	0.5200
+P_200                 	734	0.4250
+P_500                 	734	0.3040
+P_1000                	734	0.2270
+num_ret               	735	1000
+num_rel               	735	163
+num_rel_ret           	735	150
+map                   	735	0.3329
+Rprec                 	735	0.3374
+bpref                 	735	0.3023
+recip_rank            	735	1.0000
+iprec_at_recall_0.00  	735	1.0000
+iprec_at_recall_0.10  	735	0.7826
+iprec_at_recall_0.20  	735	0.4778
+iprec_at_recall_0.30  	735	0.3876
+iprec_at_recall_0.40  	735	0.3091
+iprec_at_recall_0.50  	735	0.2388
+iprec_at_recall_0.60  	735	0.2258
+iprec_at_recall_0.70  	735	0.1802
+iprec_at_recall_0.80  	735	0.1629
+iprec_at_recall_0.90  	735	0.1544
+iprec_at_recall_1.00  	735	0.0000
+P_5                   	735	0.8000
+P_10                  	735	0.8000
+P_15                  	735	0.8000
+P_20                  	735	0.7500
+P_30                  	735	0.7333
+P_100                 	735	0.4400
+P_200                 	735	0.3250
+P_500                 	735	0.2000
+P_1000                	735	0.1500
+num_ret               	736	1000
+num_rel               	736	473
+num_rel_ret           	736	398
+map                   	736	0.6563
+Rprec                 	736	0.6342
+bpref                 	736	0.8064
+recip_rank            	736	1.0000
+iprec_at_recall_0.00  	736	1.0000
+iprec_at_recall_0.10  	736	0.9821
+iprec_at_recall_0.20  	736	0.9706
+iprec_at_recall_0.30  	736	0.8909
+iprec_at_recall_0.40  	736	0.8190
+iprec_at_recall_0.50  	736	0.7383
+iprec_at_recall_0.60  	736	0.6591
+iprec_at_recall_0.70  	736	0.5814
+iprec_at_recall_0.80  	736	0.4673
+iprec_at_recall_0.90  	736	0.0000
+iprec_at_recall_1.00  	736	0.0000
+P_5                   	736	1.0000
+P_10                  	736	1.0000
+P_15                  	736	1.0000
+P_20                  	736	1.0000
+P_30                  	736	1.0000
+P_100                 	736	0.9700
+P_200                 	736	0.8500
+P_500                 	736	0.6160
+P_1000                	736	0.3980
+num_ret               	737	1000
+num_rel               	737	230
+num_rel_ret           	737	207
+map                   	737	0.6471
+Rprec                 	737	0.6304
+bpref                 	737	0.7264
+recip_rank            	737	1.0000
+iprec_at_recall_0.00  	737	1.0000
+iprec_at_recall_0.10  	737	0.9184
+iprec_at_recall_0.20  	737	0.9153
+iprec_at_recall_0.30  	737	0.8495
+iprec_at_recall_0.40  	737	0.8017
+iprec_at_recall_0.50  	737	0.7597
+iprec_at_recall_0.60  	737	0.6465
+iprec_at_recall_0.70  	737	0.5876
+iprec_at_recall_0.80  	737	0.5069
+iprec_at_recall_0.90  	737	0.2290
+iprec_at_recall_1.00  	737	0.0000
+P_5                   	737	0.8000
+P_10                  	737	0.8000
+P_15                  	737	0.8000
+P_20                  	737	0.8000
+P_30                  	737	0.8667
+P_100                 	737	0.8400
+P_200                 	737	0.6650
+P_500                 	737	0.3920
+P_1000                	737	0.2070
+num_ret               	738	1000
+num_rel               	738	99
+num_rel_ret           	738	97
+map                   	738	0.6402
+Rprec                 	738	0.5859
+bpref                 	738	0.5842
+recip_rank            	738	1.0000
+iprec_at_recall_0.00  	738	1.0000
+iprec_at_recall_0.10  	738	1.0000
+iprec_at_recall_0.20  	738	0.9268
+iprec_at_recall_0.30  	738	0.9268
+iprec_at_recall_0.40  	738	0.8913
+iprec_at_recall_0.50  	738	0.7463
+iprec_at_recall_0.60  	738	0.5714
+iprec_at_recall_0.70  	738	0.4217
+iprec_at_recall_0.80  	738	0.2654
+iprec_at_recall_0.90  	738	0.1822
+iprec_at_recall_1.00  	738	0.0000
+P_5                   	738	1.0000
+P_10                  	738	1.0000
+P_15                  	738	1.0000
+P_20                  	738	0.9000
+P_30                  	738	0.9000
+P_100                 	738	0.5800
+P_200                 	738	0.3500
+P_500                 	738	0.1800
+P_1000                	738	0.0970
+num_ret               	739	1000
+num_rel               	739	447
+num_rel_ret           	739	248
+map                   	739	0.3891
+Rprec                 	739	0.4765
+bpref                 	739	0.5088
+recip_rank            	739	0.3333
+iprec_at_recall_0.00  	739	0.8684
+iprec_at_recall_0.10  	739	0.8469
+iprec_at_recall_0.20  	739	0.8409
+iprec_at_recall_0.30  	739	0.7889
+iprec_at_recall_0.40  	739	0.6618
+iprec_at_recall_0.50  	739	0.3993
+iprec_at_recall_0.60  	739	0.0000
+iprec_at_recall_0.70  	739	0.0000
+iprec_at_recall_0.80  	739	0.0000
+iprec_at_recall_0.90  	739	0.0000
+iprec_at_recall_1.00  	739	0.0000
+P_5                   	739	0.6000
+P_10                  	739	0.7000
+P_15                  	739	0.8000
+P_20                  	739	0.7500
+P_30                  	739	0.8333
+P_100                 	739	0.8400
+P_200                 	739	0.7750
+P_500                 	739	0.4360
+P_1000                	739	0.2480
+num_ret               	740	1000
+num_rel               	740	63
+num_rel_ret           	740	52
+map                   	740	0.2820
+Rprec                 	740	0.3651
+bpref                 	740	0.2792
+recip_rank            	740	1.0000
+iprec_at_recall_0.00  	740	1.0000
+iprec_at_recall_0.10  	740	0.5882
+iprec_at_recall_0.20  	740	0.4643
+iprec_at_recall_0.30  	740	0.3818
+iprec_at_recall_0.40  	740	0.3333
+iprec_at_recall_0.50  	740	0.2619
+iprec_at_recall_0.60  	740	0.2159
+iprec_at_recall_0.70  	740	0.1888
+iprec_at_recall_0.80  	740	0.0672
+iprec_at_recall_0.90  	740	0.0000
+iprec_at_recall_1.00  	740	0.0000
+P_5                   	740	0.6000
+P_10                  	740	0.5000
+P_15                  	740	0.5333
+P_20                  	740	0.5000
+P_30                  	740	0.4333
+P_100                 	740	0.2700
+P_200                 	740	0.2000
+P_500                 	740	0.0960
+P_1000                	740	0.0520
+num_ret               	741	1000
+num_rel               	741	95
+num_rel_ret           	741	76
+map                   	741	0.0827
+Rprec                 	741	0.1053
+bpref                 	741	0.0448
+recip_rank            	741	0.0286
+iprec_at_recall_0.00  	741	0.1360
+iprec_at_recall_0.10  	741	0.1360
+iprec_at_recall_0.20  	741	0.1271
+iprec_at_recall_0.30  	741	0.1271
+iprec_at_recall_0.40  	741	0.1130
+iprec_at_recall_0.50  	741	0.1054
+iprec_at_recall_0.60  	741	0.1042
+iprec_at_recall_0.70  	741	0.0874
+iprec_at_recall_0.80  	741	0.0768
+iprec_at_recall_0.90  	741	0.0000
+iprec_at_recall_1.00  	741	0.0000
+P_5                   	741	0.0000
+P_10                  	741	0.0000
+P_15                  	741	0.0000
+P_20                  	741	0.0000
+P_30                  	741	0.0000
+P_100                 	741	0.1000
+P_200                 	741	0.1150
+P_500                 	741	0.1020
+P_1000                	741	0.0760
+num_ret               	742	1000
+num_rel               	742	103
+num_rel_ret           	742	99
+map                   	742	0.3623
+Rprec                 	742	0.3981
+bpref                 	742	0.3273
+recip_rank            	742	1.0000
+iprec_at_recall_0.00  	742	1.0000
+iprec_at_recall_0.10  	742	0.4412
+iprec_at_recall_0.20  	742	0.4412
+iprec_at_recall_0.30  	742	0.4342
+iprec_at_recall_0.40  	742	0.4038
+iprec_at_recall_0.50  	742	0.3897
+iprec_at_recall_0.60  	742	0.3455
+iprec_at_recall_0.70  	742	0.3244
+iprec_at_recall_0.80  	742	0.2365
+iprec_at_recall_0.90  	742	0.1429
+iprec_at_recall_1.00  	742	0.0000
+P_5                   	742	0.8000
+P_10                  	742	0.7000
+P_15                  	742	0.5333
+P_20                  	742	0.4000
+P_30                  	742	0.3667
+P_100                 	742	0.4100
+P_200                 	742	0.3350
+P_500                 	742	0.1760
+P_1000                	742	0.0990
+num_ret               	743	1000
+num_rel               	743	54
+num_rel_ret           	743	26
+map                   	743	0.0280
+Rprec                 	743	0.0556
+bpref                 	743	0.0103
+recip_rank            	743	0.0250
+iprec_at_recall_0.00  	743	0.0745
+iprec_at_recall_0.10  	743	0.0745
+iprec_at_recall_0.20  	743	0.0719
+iprec_at_recall_0.30  	743	0.0616
+iprec_at_recall_0.40  	743	0.0591
+iprec_at_recall_0.50  	743	0.0000
+iprec_at_recall_0.60  	743	0.0000
+iprec_at_recall_0.70  	743	0.0000
+iprec_at_recall_0.80  	743	0.0000
+iprec_at_recall_0.90  	743	0.0000
+iprec_at_recall_1.00  	743	0.0000
+P_5                   	743	0.0000
+P_10                  	743	0.0000
+P_15                  	743	0.0000
+P_20                  	743	0.0000
+P_30                  	743	0.0000
+P_100                 	743	0.0700
+P_200                 	743	0.0600
+P_500                 	743	0.0460
+P_1000                	743	0.0260
+num_ret               	744	1000
+num_rel               	744	84
+num_rel_ret           	744	30
+map                   	744	0.0127
+Rprec                 	744	0.0119
+bpref                 	744	0.0014
+recip_rank            	744	0.0120
+iprec_at_recall_0.00  	744	0.0425
+iprec_at_recall_0.10  	744	0.0425
+iprec_at_recall_0.20  	744	0.0424
+iprec_at_recall_0.30  	744	0.0349
+iprec_at_recall_0.40  	744	0.0000
+iprec_at_recall_0.50  	744	0.0000
+iprec_at_recall_0.60  	744	0.0000
+iprec_at_recall_0.70  	744	0.0000
+iprec_at_recall_0.80  	744	0.0000
+iprec_at_recall_0.90  	744	0.0000
+iprec_at_recall_1.00  	744	0.0000
+P_5                   	744	0.0000
+P_10                  	744	0.0000
+P_15                  	744	0.0000
+P_20                  	744	0.0000
+P_30                  	744	0.0000
+P_100                 	744	0.0200
+P_200                 	744	0.0350
+P_500                 	744	0.0380
+P_1000                	744	0.0300
+num_ret               	745	1000
+num_rel               	745	46
+num_rel_ret           	745	43
+map                   	745	0.4993
+Rprec                 	745	0.5217
+bpref                 	745	0.5043
+recip_rank            	745	1.0000
+iprec_at_recall_0.00  	745	1.0000
+iprec_at_recall_0.10  	745	1.0000
+iprec_at_recall_0.20  	745	0.9231
+iprec_at_recall_0.30  	745	0.5625
+iprec_at_recall_0.40  	745	0.5319
+iprec_at_recall_0.50  	745	0.5319
+iprec_at_recall_0.60  	745	0.4179
+iprec_at_recall_0.70  	745	0.3028
+iprec_at_recall_0.80  	745	0.2242
+iprec_at_recall_0.90  	745	0.0522
+iprec_at_recall_1.00  	745	0.0000
+P_5                   	745	1.0000
+P_10                  	745	0.9000
+P_15                  	745	0.8000
+P_20                  	745	0.6000
+P_30                  	745	0.5333
+P_100                 	745	0.3200
+P_200                 	745	0.1850
+P_500                 	745	0.0780
+P_1000                	745	0.0430
+num_ret               	746	1000
+num_rel               	746	173
+num_rel_ret           	746	99
+map                   	746	0.2579
+Rprec                 	746	0.2890
+bpref                 	746	0.2730
+recip_rank            	746	1.0000
+iprec_at_recall_0.00  	746	1.0000
+iprec_at_recall_0.10  	746	0.9474
+iprec_at_recall_0.20  	746	0.6207
+iprec_at_recall_0.30  	746	0.2821
+iprec_at_recall_0.40  	746	0.2365
+iprec_at_recall_0.50  	746	0.1220
+iprec_at_recall_0.60  	746	0.0000
+iprec_at_recall_0.70  	746	0.0000
+iprec_at_recall_0.80  	746	0.0000
+iprec_at_recall_0.90  	746	0.0000
+iprec_at_recall_1.00  	746	0.0000
+P_5                   	746	1.0000
+P_10                  	746	1.0000
+P_15                  	746	1.0000
+P_20                  	746	0.9000
+P_30                  	746	0.7333
+P_100                 	746	0.4200
+P_200                 	746	0.2750
+P_500                 	746	0.1520
+P_1000                	746	0.0990
+num_ret               	747	1000
+num_rel               	747	189
+num_rel_ret           	747	84
+map                   	747	0.1595
+Rprec                 	747	0.2011
+bpref                 	747	0.2804
+recip_rank            	747	1.0000
+iprec_at_recall_0.00  	747	1.0000
+iprec_at_recall_0.10  	747	0.5758
+iprec_at_recall_0.20  	747	0.2159
+iprec_at_recall_0.30  	747	0.1355
+iprec_at_recall_0.40  	747	0.1095
+iprec_at_recall_0.50  	747	0.0000
+iprec_at_recall_0.60  	747	0.0000
+iprec_at_recall_0.70  	747	0.0000
+iprec_at_recall_0.80  	747	0.0000
+iprec_at_recall_0.90  	747	0.0000
+iprec_at_recall_1.00  	747	0.0000
+P_5                   	747	1.0000
+P_10                  	747	1.0000
+P_15                  	747	1.0000
+P_20                  	747	0.7500
+P_30                  	747	0.5667
+P_100                 	747	0.3100
+P_200                 	747	0.1950
+P_500                 	747	0.1180
+P_1000                	747	0.0840
+num_ret               	748	1000
+num_rel               	748	312
+num_rel_ret           	748	201
+map                   	748	0.2649
+Rprec                 	748	0.4840
+bpref                 	748	0.4664
+recip_rank            	748	1.0000
+iprec_at_recall_0.00  	748	1.0000
+iprec_at_recall_0.10  	748	0.4903
+iprec_at_recall_0.20  	748	0.4903
+iprec_at_recall_0.30  	748	0.4903
+iprec_at_recall_0.40  	748	0.4903
+iprec_at_recall_0.50  	748	0.4470
+iprec_at_recall_0.60  	748	0.2586
+iprec_at_recall_0.70  	748	0.0000
+iprec_at_recall_0.80  	748	0.0000
+iprec_at_recall_0.90  	748	0.0000
+iprec_at_recall_1.00  	748	0.0000
+P_5                   	748	0.6000
+P_10                  	748	0.6000
+P_15                  	748	0.6000
+P_20                  	748	0.6500
+P_30                  	748	0.4667
+P_100                 	748	0.2800
+P_200                 	748	0.4150
+P_500                 	748	0.3500
+P_1000                	748	0.2010
+num_ret               	749	1000
+num_rel               	749	102
+num_rel_ret           	749	78
+map                   	749	0.1732
+Rprec                 	749	0.2647
+bpref                 	749	0.1991
+recip_rank            	749	0.1000
+iprec_at_recall_0.00  	749	0.3913
+iprec_at_recall_0.10  	749	0.3889
+iprec_at_recall_0.20  	749	0.3200
+iprec_at_recall_0.30  	749	0.2719
+iprec_at_recall_0.40  	749	0.2172
+iprec_at_recall_0.50  	749	0.1809
+iprec_at_recall_0.60  	749	0.1645
+iprec_at_recall_0.70  	749	0.1241
+iprec_at_recall_0.80  	749	0.0000
+iprec_at_recall_0.90  	749	0.0000
+iprec_at_recall_1.00  	749	0.0000
+P_5                   	749	0.0000
+P_10                  	749	0.1000
+P_15                  	749	0.2000
+P_20                  	749	0.3000
+P_30                  	749	0.3333
+P_100                 	749	0.2700
+P_200                 	749	0.2150
+P_500                 	749	0.1420
+P_1000                	749	0.0780
+num_ret               	750	1000
+num_rel               	750	16
+num_rel_ret           	750	12
+map                   	750	0.2186
+Rprec                 	750	0.3125
+bpref                 	750	0.2383
+recip_rank            	750	1.0000
+iprec_at_recall_0.00  	750	1.0000
+iprec_at_recall_0.10  	750	0.5000
+iprec_at_recall_0.20  	750	0.5000
+iprec_at_recall_0.30  	750	0.3571
+iprec_at_recall_0.40  	750	0.2800
+iprec_at_recall_0.50  	750	0.0833
+iprec_at_recall_0.60  	750	0.0338
+iprec_at_recall_0.70  	750	0.0138
+iprec_at_recall_0.80  	750	0.0000
+iprec_at_recall_0.90  	750	0.0000
+iprec_at_recall_1.00  	750	0.0000
+P_5                   	750	0.4000
+P_10                  	750	0.4000
+P_15                  	750	0.3333
+P_20                  	750	0.2500
+P_30                  	750	0.2333
+P_100                 	750	0.0800
+P_200                 	750	0.0400
+P_500                 	750	0.0200
+P_1000                	750	0.0120
+runid                 	all	DPH_Bo1bfree
+num_q                 	all	49
+num_ret               	all	49000
+num_rel               	all	10617
+num_rel_ret           	all	6846
+map                   	all	0.3037
+gm_map                	all	0.2123
+Rprec                 	all	0.3637
+bpref                 	all	0.3664
+recip_rank            	all	0.6974
+iprec_at_recall_0.00  	all	0.7851
+iprec_at_recall_0.10  	all	0.6076
+iprec_at_recall_0.20  	all	0.5201
+iprec_at_recall_0.30  	all	0.4425
+iprec_at_recall_0.40  	all	0.3886
+iprec_at_recall_0.50  	all	0.3234
+iprec_at_recall_0.60  	all	0.2250
+iprec_at_recall_0.70  	all	0.1552
+iprec_at_recall_0.80  	all	0.0964
+iprec_at_recall_0.90  	all	0.0313
+iprec_at_recall_1.00  	all	0.0000
+P_5                   	all	0.5837
+P_10                  	all	0.5633
+P_15                  	all	0.5578
+P_20                  	all	0.5265
+P_30                  	all	0.5041
+P_100                 	all	0.4237
+P_200                 	all	0.3451
+P_500                 	all	0.2187
+P_1000                	all	0.1397

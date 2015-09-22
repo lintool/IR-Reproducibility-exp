@@ -1,0 +1,54 @@
+Welcome to the MG4J query class (setup with $mode snippet, $score BM25Scorer VignaScorer, $mplex on, $equalize 1000, $select all)
+Please type $ for help.
+Multiplex: off
+1000 results; 14105766 documents examined; 1779.052833 ms; 7,928,806.69 documents/s, 126.12 ns/document
+1000 results; 651723 documents examined; 83.164319 ms; 7,836,569.91 documents/s, 127.61 ns/document
+1000 results; 14266091 documents examined; 1964.694515 ms; 7,261,226.05 documents/s, 137.72 ns/document
+1000 results; 7284662 documents examined; 693.298965 ms; 10,507,244.88 documents/s, 95.17 ns/document
+1000 results; 1754720 documents examined; 189.36994 ms; 9,266,095.77 documents/s, 107.92 ns/document
+1000 results; 6746696 documents examined; 710.758061 ms; 9,492,253.93 documents/s, 105.35 ns/document
+1000 results; 2945766 documents examined; 246.145393 ms; 11,967,585.35 documents/s, 83.56 ns/document
+1000 results; 3294137 documents examined; 250.536341 ms; 13,148,340.02 documents/s, 76.06 ns/document
+1000 results; 1036659 documents examined; 116.48438 ms; 8,899,553.74 documents/s, 112.37 ns/document
+1000 results; 1735470 documents examined; 155.05449 ms; 11,192,645.89 documents/s, 89.34 ns/document
+1000 results; 6688749 documents examined; 751.542403 ms; 8,900,028.76 documents/s, 112.36 ns/document
+1000 results; 196547 documents examined; 25.993863 ms; 7,561,284.75 documents/s, 132.25 ns/document
+1000 results; 1780007 documents examined; 182.505704 ms; 9,753,158.18 documents/s, 102.53 ns/document
+1000 results; 1979242 documents examined; 234.555773 ms; 8,438,257.45 documents/s, 118.51 ns/document
+1000 results; 716537 documents examined; 67.24106 ms; 10,656,241.89 documents/s, 93.84 ns/document
+1000 results; 411743 documents examined; 49.972938 ms; 8,239,319.45 documents/s, 121.37 ns/document
+1000 results; 7345581 documents examined; 558.644338 ms; 13,148,940.21 documents/s, 76.05 ns/document
+1000 results; 3231867 documents examined; 257.462963 ms; 12,552,745.30 documents/s, 79.66 ns/document
+1000 results; 2140387 documents examined; 251.479264 ms; 8,511,186.83 documents/s, 117.49 ns/document
+1000 results; 5212750 documents examined; 414.653843 ms; 12,571,329.29 documents/s, 79.55 ns/document
+1000 results; 9463290 documents examined; 808.803856 ms; 11,700,352.23 documents/s, 85.47 ns/document
+1000 results; 191417 documents examined; 28.432531 ms; 6,732,323.62 documents/s, 148.54 ns/document
+1000 results; 2705290 documents examined; 197.362716 ms; 13,707,198.88 documents/s, 72.95 ns/document
+1000 results; 98243 documents examined; 16.296329 ms; 6,028,535.63 documents/s, 165.88 ns/document
+1000 results; 4148252 documents examined; 463.139204 ms; 8,956,814.63 documents/s, 111.65 ns/document
+1000 results; 615731 documents examined; 63.776885 ms; 9,654,453.96 documents/s, 103.58 ns/document
+1000 results; 216801 documents examined; 27.348145 ms; 7,927,448.10 documents/s, 126.14 ns/document
+1000 results; 1554543 documents examined; 130.255621 ms; 11,934,555.98 documents/s, 83.79 ns/document
+1000 results; 7064897 documents examined; 502.473867 ms; 14,060,227.73 documents/s, 71.12 ns/document
+1000 results; 301846 documents examined; 38.357456 ms; 7,869,291.44 documents/s, 127.08 ns/document
+1000 results; 2254700 documents examined; 159.08187 ms; 14,173,205.28 documents/s, 70.56 ns/document
+1000 results; 14037440 documents examined; 1427.287368 ms; 9,835,048.16 documents/s, 101.68 ns/document
+1000 results; 82137 documents examined; 14.655055 ms; 5,604,687.26 documents/s, 178.42 ns/document
+1000 results; 1914996 documents examined; 148.496384 ms; 12,895,909.98 documents/s, 77.54 ns/document
+1000 results; 4036190 documents examined; 322.908716 ms; 12,499,476.79 documents/s, 80.00 ns/document
+1000 results; 5427701 documents examined; 386.694451 ms; 14,036,149.18 documents/s, 71.24 ns/document
+1000 results; 4051136 documents examined; 360.66119 ms; 11,232,525.46 documents/s, 89.03 ns/document
+1000 results; 27145 documents examined; 6.712226 ms; 4,044,112.94 documents/s, 247.27 ns/document
+1000 results; 2468327 documents examined; 187.726055 ms; 13,148,558.41 documents/s, 76.05 ns/document
+1000 results; 5315793 documents examined; 584.686634 ms; 9,091,695.77 documents/s, 109.99 ns/document
+1000 results; 427434 documents examined; 48.273931 ms; 8,854,344.18 documents/s, 112.94 ns/document
+1000 results; 3924920 documents examined; 385.196836 ms; 10,189,387.95 documents/s, 98.14 ns/document
+1000 results; 1530442 documents examined; 127.89861 ms; 11,966,056.55 documents/s, 83.57 ns/document
+1000 results; 1518332 documents examined; 128.798704 ms; 11,788,410.54 documents/s, 84.83 ns/document
+1000 results; 9649 documents examined; 3.474043 ms; 2,777,455.55 documents/s, 360.04 ns/document
+1000 results; 2112105 documents examined; 170.542826 ms; 12,384,601.86 documents/s, 80.75 ns/document
+1000 results; 8231226 documents examined; 675.774115 ms; 12,180,439.91 documents/s, 82.10 ns/document
+1000 results; 5051022 documents examined; 383.113365 ms; 13,184,144.59 documents/s, 75.85 ns/document
+1000 results; 10411527 documents examined; 680.749514 ms; 15,294,211.43 documents/s, 65.38 ns/document
+1000 results; 5297479 documents examined; 514.275085 ms; 10,300,866.51 documents/s, 97.08 ns/document
+

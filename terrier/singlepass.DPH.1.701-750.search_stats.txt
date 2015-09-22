@@ -1,0 +1,1571 @@
+Setting TERRIER_HOME to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0
+INFO - Loading document document lengths 16% done. Estimated finished in 0m05s
+INFO - Loading document document lengths 32% done. Estimated finished in 0m04s
+INFO - Loading document document lengths 48% done. Estimated finished in 0m03s
+INFO - Loading document document lengths 65% done. Estimated finished in 0m02s
+INFO - Loading document document lengths 82% done. Estimated finished in 0m01s
+INFO - Loading document document lengths 99% done. Estimated finished in 0m00s
+WARN - Structure meta reading lookup file directly from disk (SLOW) - try index.meta.index-source=fileinmem in the index properties file
+WARN - Structure meta reading data file directly from disk (SLOW) - try index.meta.data-source=fileinmem in the index properties file
+INFO - time to intialise index : 6.116
+INFO - 701 : u s oil industry history
+INFO - Processing query: 701: 'u s oil industry history'
+INFO - Query 701 with 3 terms has 3 posting lists
+INFO - Writing results to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.DPH.terrier.1.701-750.txt
+INFO - Time to process query: 0.883
+INFO - 702 : pearl farming
+INFO - Processing query: 702: 'pearl farming'
+INFO - Query 702 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.124
+INFO - 703 : u s against international criminal court
+INFO - Processing query: 703: 'u s against international criminal court'
+INFO - Query 703 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.821
+INFO - 704 : green party political views
+INFO - Processing query: 704: 'green party political views'
+INFO - Query 704 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.437
+INFO - 705 : iraq foreign debt reduction
+INFO - Processing query: 705: 'iraq foreign debt reduction'
+INFO - Query 705 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.335
+INFO - 706 : controlling type ii diabetes
+INFO - Processing query: 706: 'controlling type ii diabetes'
+INFO - Query 706 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.331
+INFO - 707 : aspirin cancer prevention
+INFO - Processing query: 707: 'aspirin cancer prevention'
+INFO - Query 707 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.587
+INFO - 708 : decorative slate sources
+INFO - Processing query: 708: 'decorative slate sources'
+INFO - Query 708 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.623
+INFO - 709 : horse racing jockey weight
+INFO - Processing query: 709: 'horse racing jockey weight'
+INFO - Query 709 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.349
+INFO - 710 : prostate cancer treatments
+INFO - Processing query: 710: 'prostate cancer treatments'
+INFO - Query 710 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.268
+INFO - 711 : train station security measures
+INFO - Processing query: 711: 'train station security measures'
+INFO - Query 711 with 4 terms has 4 posting lists
+INFO - Time to process query: 1.323
+INFO - 712 : pyramid scheme
+INFO - Processing query: 712: 'pyramid scheme'
+INFO - Query 712 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.041
+INFO - 713 : chesapeake bay maryland clean
+INFO - Processing query: 713: 'chesapeake bay maryland clean'
+INFO - Query 713 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.295
+INFO - 714 : license restrictions older drivers
+INFO - Processing query: 714: 'license restrictions older drivers'
+INFO - Query 714 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.395
+INFO - 715 : schizophrenia drugs
+INFO - Processing query: 715: 'schizophrenia drugs'
+INFO - Query 715 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.118
+INFO - 716 : spammer arrest sue
+INFO - Processing query: 716: 'spammer arrest sue'
+INFO - Query 716 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.079
+INFO - 717 : gifted talented student programs
+INFO - Processing query: 717: 'gifted talented student programs'
+WARN - query term program has low idf - ignored from scoring.
+INFO - Query 717 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.2
+INFO - 718 : controlling acid rain
+INFO - Processing query: 718: 'controlling acid rain'
+INFO - Query 718 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.473
+INFO - 719 : cruise ship damage sea life
+INFO - Processing query: 719: 'cruise ship damage sea life'
+INFO - Query 719 with 5 terms has 5 posting lists
+INFO - Time to process query: 0.387
+INFO - 720 : federal welfare reform
+INFO - Processing query: 720: 'federal welfare reform'
+INFO - Query 720 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.764
+INFO - 721 : census data applications
+INFO - Processing query: 721: 'census data applications'
+WARN - query term data has low idf - ignored from scoring.
+INFO - Query 721 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.604
+INFO - 722 : iran terrorism
+INFO - Processing query: 722: 'iran terrorism'
+INFO - Query 722 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.044
+INFO - 723 : executive privilege
+INFO - Processing query: 723: 'executive privilege'
+INFO - Query 723 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.363
+INFO - 724 : iran contra
+INFO - Processing query: 724: 'iran contra'
+INFO - Query 724 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.025
+INFO - 725 : low white blood cell count
+INFO - Processing query: 725: 'low white blood cell count'
+INFO - Query 725 with 5 terms has 5 posting lists
+INFO - Time to process query: 0.746
+INFO - 726 : hubble telescope repairs
+INFO - Processing query: 726: 'hubble telescope repairs'
+INFO - Query 726 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.103
+INFO - 727 : church arson
+INFO - Processing query: 727: 'church arson'
+INFO - Query 727 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.045
+INFO - 728 : whales save endangered
+INFO - Processing query: 728: 'whales save endangered'
+INFO - Query 728 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.219
+INFO - 729 : whistle blower department of defense
+INFO - Processing query: 729: 'whistle blower department of defense'
+WARN - query term depart has low idf - ignored from scoring.
+INFO - Query 729 with 4 terms has 3 posting lists
+INFO - Time to process query: 0.112
+INFO - 730 : gastric bypass complications
+INFO - Processing query: 730: 'gastric bypass complications'
+INFO - Query 730 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.059
+INFO - 731 : kurds history
+INFO - Processing query: 731: 'kurds history'
+INFO - Query 731 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.295
+INFO - 732 : u s cheese production
+INFO - Processing query: 732: 'u s cheese production'
+INFO - Query 732 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.481
+INFO - 733 : airline overbooking
+INFO - Processing query: 733: 'airline overbooking'
+INFO - Query 733 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.021
+INFO - 734 : recycling successes
+INFO - Processing query: 734: 'recycling successes'
+INFO - Query 734 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.25
+INFO - 735 : afghan women condition
+INFO - Processing query: 735: 'afghan women condition'
+INFO - Query 735 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.672
+INFO - 736 : location bse infections
+INFO - Processing query: 736: 'location bse infections'
+INFO - Query 736 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.842
+INFO - 737 : enron california energy crisis
+INFO - Processing query: 737: 'enron california energy crisis'
+INFO - Query 737 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.6
+INFO - 738 : anthrax hoaxes
+INFO - Processing query: 738: 'anthrax hoaxes'
+INFO - Query 738 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.014
+INFO - 739 : habitat for humanity
+INFO - Processing query: 739: 'habitat for humanity'
+INFO - Query 739 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.344
+INFO - 740 : regulate assisted living maryland
+INFO - Processing query: 740: 'regulate assisted living maryland'
+INFO - Query 740 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.999
+INFO - 741 : artificial intelligence
+INFO - Processing query: 741: 'artificial intelligence'
+INFO - Query 741 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.079
+INFO - 742 : hedge funds fraud protection
+INFO - Processing query: 742: 'hedge funds fraud protection'
+INFO - Query 742 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.652
+INFO - 743 : freighter ship registration
+INFO - Processing query: 743: 'freighter ship registration'
+INFO - Query 743 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.224
+INFO - 744 : counterfeit id punishments
+INFO - Processing query: 744: 'counterfeit id punishments'
+INFO - Query 744 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.233
+INFO - 745 : doomsday cults
+INFO - Processing query: 745: 'doomsday cults'
+INFO - Query 745 with 2 terms has 2 posting lists
+INFO - Time to process query: 0.007
+INFO - 746 : outsource job india
+INFO - Processing query: 746: 'outsource job india'
+INFO - Query 746 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.297
+INFO - 747 : library computer oversight
+INFO - Processing query: 747: 'library computer oversight'
+INFO - Query 747 with 3 terms has 3 posting lists
+INFO - Time to process query: 1.187
+INFO - 748 : nuclear reactor types
+INFO - Processing query: 748: 'nuclear reactor types'
+INFO - Query 748 with 3 terms has 3 posting lists
+INFO - Time to process query: 0.721
+INFO - 749 : puerto rico state
+INFO - Processing query: 749: 'puerto rico state'
+WARN - query term state has low idf - ignored from scoring.
+INFO - Query 749 with 3 terms has 2 posting lists
+INFO - Time to process query: 0.106
+INFO - 750 : john edwards womens issues
+INFO - Processing query: 750: 'john edwards womens issues'
+INFO - Query 750 with 4 terms has 4 posting lists
+INFO - Time to process query: 0.896
+INFO - Settings of Terrier written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.DPH.terrier.1.701-750.txt.settings
+INFO - Finished topics, executed 50 queries in 22.088 seconds, results written to /media/workspace/IR-Reproducibility/systems/terrier/terrier-4.0/singlepass.DPH.terrier.1.701-750.txt
+Time elapsed: 28.23 seconds.
+num_ret               	701	1000
+num_rel               	701	164
+num_rel_ret           	701	77
+map                   	701	0.1042
+Rprec                 	701	0.2378
+bpref                 	701	0.1735
+recip_rank            	701	0.5000
+iprec_at_recall_0.00  	701	0.8000
+iprec_at_recall_0.10  	701	0.2637
+iprec_at_recall_0.20  	701	0.2532
+iprec_at_recall_0.30  	701	0.1742
+iprec_at_recall_0.40  	701	0.1058
+iprec_at_recall_0.50  	701	0.0000
+iprec_at_recall_0.60  	701	0.0000
+iprec_at_recall_0.70  	701	0.0000
+iprec_at_recall_0.80  	701	0.0000
+iprec_at_recall_0.90  	701	0.0000
+iprec_at_recall_1.00  	701	0.0000
+P_5                   	701	0.8000
+P_10                  	701	0.4000
+P_15                  	701	0.4000
+P_20                  	701	0.3500
+P_30                  	701	0.2667
+P_100                 	701	0.2400
+P_200                 	701	0.2150
+P_500                 	701	0.1120
+P_1000                	701	0.0770
+num_ret               	702	1000
+num_rel               	702	201
+num_rel_ret           	702	73
+map                   	702	0.0590
+Rprec                 	702	0.1592
+bpref                 	702	0.1080
+recip_rank            	702	1.0000
+iprec_at_recall_0.00  	702	1.0000
+iprec_at_recall_0.10  	702	0.1657
+iprec_at_recall_0.20  	702	0.1327
+iprec_at_recall_0.30  	702	0.1080
+iprec_at_recall_0.40  	702	0.0000
+iprec_at_recall_0.50  	702	0.0000
+iprec_at_recall_0.60  	702	0.0000
+iprec_at_recall_0.70  	702	0.0000
+iprec_at_recall_0.80  	702	0.0000
+iprec_at_recall_0.90  	702	0.0000
+iprec_at_recall_1.00  	702	0.0000
+P_5                   	702	0.4000
+P_10                  	702	0.3000
+P_15                  	702	0.2000
+P_20                  	702	0.2000
+P_30                  	702	0.2333
+P_100                 	702	0.1600
+P_200                 	702	0.1600
+P_500                 	702	0.1100
+P_1000                	702	0.0730
+num_ret               	704	1000
+num_rel               	704	229
+num_rel_ret           	704	169
+map                   	704	0.2978
+Rprec                 	704	0.3231
+bpref                 	704	0.3979
+recip_rank            	704	1.0000
+iprec_at_recall_0.00  	704	1.0000
+iprec_at_recall_0.10  	704	0.6486
+iprec_at_recall_0.20  	704	0.4554
+iprec_at_recall_0.30  	704	0.4218
+iprec_at_recall_0.40  	704	0.4218
+iprec_at_recall_0.50  	704	0.4218
+iprec_at_recall_0.60  	704	0.2920
+iprec_at_recall_0.70  	704	0.2310
+iprec_at_recall_0.80  	704	0.0000
+iprec_at_recall_0.90  	704	0.0000
+iprec_at_recall_1.00  	704	0.0000
+P_5                   	704	0.6000
+P_10                  	704	0.6000
+P_15                  	704	0.6000
+P_20                  	704	0.6000
+P_30                  	704	0.6333
+P_100                 	704	0.4500
+P_200                 	704	0.3350
+P_500                 	704	0.2780
+P_1000                	704	0.1690
+num_ret               	705	1000
+num_rel               	705	167
+num_rel_ret           	705	145
+map                   	705	0.3884
+Rprec                 	705	0.4611
+bpref                 	705	0.4391
+recip_rank            	705	1.0000
+iprec_at_recall_0.00  	705	1.0000
+iprec_at_recall_0.10  	705	0.6154
+iprec_at_recall_0.20  	705	0.6154
+iprec_at_recall_0.30  	705	0.5429
+iprec_at_recall_0.40  	705	0.5076
+iprec_at_recall_0.50  	705	0.4323
+iprec_at_recall_0.60  	705	0.3471
+iprec_at_recall_0.70  	705	0.2583
+iprec_at_recall_0.80  	705	0.1847
+iprec_at_recall_0.90  	705	0.0000
+iprec_at_recall_1.00  	705	0.0000
+P_5                   	705	0.6000
+P_10                  	705	0.6000
+P_15                  	705	0.7333
+P_20                  	705	0.6500
+P_30                  	705	0.5000
+P_100                 	705	0.5200
+P_200                 	705	0.4250
+P_500                 	705	0.2440
+P_1000                	705	0.1450
+num_ret               	706	1000
+num_rel               	706	253
+num_rel_ret           	706	166
+map                   	706	0.1467
+Rprec                 	706	0.2451
+bpref                 	706	0.2306
+recip_rank            	706	0.5000
+iprec_at_recall_0.00  	706	0.5000
+iprec_at_recall_0.10  	706	0.2667
+iprec_at_recall_0.20  	706	0.2470
+iprec_at_recall_0.30  	706	0.2316
+iprec_at_recall_0.40  	706	0.2248
+iprec_at_recall_0.50  	706	0.1849
+iprec_at_recall_0.60  	706	0.1816
+iprec_at_recall_0.70  	706	0.0000
+iprec_at_recall_0.80  	706	0.0000
+iprec_at_recall_0.90  	706	0.0000
+iprec_at_recall_1.00  	706	0.0000
+P_5                   	706	0.2000
+P_10                  	706	0.4000
+P_15                  	706	0.2667
+P_20                  	706	0.2500
+P_30                  	706	0.2333
+P_100                 	706	0.2200
+P_200                 	706	0.2350
+P_500                 	706	0.2120
+P_1000                	706	0.1660
+num_ret               	707	1000
+num_rel               	707	112
+num_rel_ret           	707	95
+map                   	707	0.3449
+Rprec                 	707	0.3304
+bpref                 	707	0.3120
+recip_rank            	707	1.0000
+iprec_at_recall_0.00  	707	1.0000
+iprec_at_recall_0.10  	707	1.0000
+iprec_at_recall_0.20  	707	0.6279
+iprec_at_recall_0.30  	707	0.5862
+iprec_at_recall_0.40  	707	0.3108
+iprec_at_recall_0.50  	707	0.1906
+iprec_at_recall_0.60  	707	0.1700
+iprec_at_recall_0.70  	707	0.1385
+iprec_at_recall_0.80  	707	0.1121
+iprec_at_recall_0.90  	707	0.0000
+iprec_at_recall_1.00  	707	0.0000
+P_5                   	707	1.0000
+P_10                  	707	1.0000
+P_15                  	707	0.8667
+P_20                  	707	0.7500
+P_30                  	707	0.6000
+P_100                 	707	0.3700
+P_200                 	707	0.2600
+P_500                 	707	0.1440
+P_1000                	707	0.0950
+num_ret               	708	1000
+num_rel               	708	152
+num_rel_ret           	708	84
+map                   	708	0.1292
+Rprec                 	708	0.2763
+bpref                 	708	0.2423
+recip_rank            	708	0.1667
+iprec_at_recall_0.00  	708	0.4444
+iprec_at_recall_0.10  	708	0.2934
+iprec_at_recall_0.20  	708	0.2934
+iprec_at_recall_0.30  	708	0.2934
+iprec_at_recall_0.40  	708	0.2421
+iprec_at_recall_0.50  	708	0.1143
+iprec_at_recall_0.60  	708	0.0000
+iprec_at_recall_0.70  	708	0.0000
+iprec_at_recall_0.80  	708	0.0000
+iprec_at_recall_0.90  	708	0.0000
+iprec_at_recall_1.00  	708	0.0000
+P_5                   	708	0.0000
+P_10                  	708	0.4000
+P_15                  	708	0.2667
+P_20                  	708	0.2000
+P_30                  	708	0.2667
+P_100                 	708	0.2600
+P_200                 	708	0.2750
+P_500                 	708	0.1380
+P_1000                	708	0.0840
+num_ret               	709	1000
+num_rel               	709	120
+num_rel_ret           	709	117
+map                   	709	0.7710
+Rprec                 	709	0.7417
+bpref                 	709	0.7610
+recip_rank            	709	1.0000
+iprec_at_recall_0.00  	709	1.0000
+iprec_at_recall_0.10  	709	0.9697
+iprec_at_recall_0.20  	709	0.9697
+iprec_at_recall_0.30  	709	0.9512
+iprec_at_recall_0.40  	709	0.9167
+iprec_at_recall_0.50  	709	0.8630
+iprec_at_recall_0.60  	709	0.8409
+iprec_at_recall_0.70  	709	0.7568
+iprec_at_recall_0.80  	709	0.6194
+iprec_at_recall_0.90  	709	0.3624
+iprec_at_recall_1.00  	709	0.0000
+P_5                   	709	1.0000
+P_10                  	709	0.9000
+P_15                  	709	0.9333
+P_20                  	709	0.9500
+P_30                  	709	0.9667
+P_100                 	709	0.7600
+P_200                 	709	0.5200
+P_500                 	709	0.2240
+P_1000                	709	0.1170
+num_ret               	710	1000
+num_rel               	710	297
+num_rel_ret           	710	253
+map                   	710	0.5378
+Rprec                 	710	0.5455
+bpref                 	710	0.6212
+recip_rank            	710	1.0000
+iprec_at_recall_0.00  	710	1.0000
+iprec_at_recall_0.10  	710	0.8889
+iprec_at_recall_0.20  	710	0.8354
+iprec_at_recall_0.30  	710	0.7377
+iprec_at_recall_0.40  	710	0.7027
+iprec_at_recall_0.50  	710	0.6183
+iprec_at_recall_0.60  	710	0.4973
+iprec_at_recall_0.70  	710	0.4150
+iprec_at_recall_0.80  	710	0.3123
+iprec_at_recall_0.90  	710	0.0000
+iprec_at_recall_1.00  	710	0.0000
+P_5                   	710	1.0000
+P_10                  	710	0.8000
+P_15                  	710	0.8000
+P_20                  	710	0.8000
+P_30                  	710	0.8667
+P_100                 	710	0.7600
+P_200                 	710	0.6750
+P_500                 	710	0.4140
+P_1000                	710	0.2530
+num_ret               	711	1000
+num_rel               	711	67
+num_rel_ret           	711	31
+map                   	711	0.1194
+Rprec                 	711	0.2388
+bpref                 	711	0.1889
+recip_rank            	711	0.5000
+iprec_at_recall_0.00  	711	0.6667
+iprec_at_recall_0.10  	711	0.5000
+iprec_at_recall_0.20  	711	0.3889
+iprec_at_recall_0.30  	711	0.1010
+iprec_at_recall_0.40  	711	0.0440
+iprec_at_recall_0.50  	711	0.0000
+iprec_at_recall_0.60  	711	0.0000
+iprec_at_recall_0.70  	711	0.0000
+iprec_at_recall_0.80  	711	0.0000
+iprec_at_recall_0.90  	711	0.0000
+iprec_at_recall_1.00  	711	0.0000
+P_5                   	711	0.4000
+P_10                  	711	0.5000
+P_15                  	711	0.4667
+P_20                  	711	0.4000
+P_30                  	711	0.3667
+P_100                 	711	0.1600
+P_200                 	711	0.1000
+P_500                 	711	0.0520
+P_1000                	711	0.0310
+num_ret               	712	1000
+num_rel               	712	414
+num_rel_ret           	712	301
+map                   	712	0.5604
+Rprec                 	712	0.5749
+bpref                 	712	0.6888
+recip_rank            	712	1.0000
+iprec_at_recall_0.00  	712	1.0000
+iprec_at_recall_0.10  	712	0.9279
+iprec_at_recall_0.20  	712	0.9279
+iprec_at_recall_0.30  	712	0.8951
+iprec_at_recall_0.40  	712	0.8426
+iprec_at_recall_0.50  	712	0.7247
+iprec_at_recall_0.60  	712	0.5521
+iprec_at_recall_0.70  	712	0.4011
+iprec_at_recall_0.80  	712	0.0000
+iprec_at_recall_0.90  	712	0.0000
+iprec_at_recall_1.00  	712	0.0000
+P_5                   	712	1.0000
+P_10                  	712	1.0000
+P_15                  	712	1.0000
+P_20                  	712	0.8500
+P_30                  	712	0.8667
+P_100                 	712	0.9200
+P_200                 	712	0.8350
+P_500                 	712	0.5120
+P_1000                	712	0.3010
+num_ret               	713	1000
+num_rel               	713	282
+num_rel_ret           	713	203
+map                   	713	0.3181
+Rprec                 	713	0.4007
+bpref                 	713	0.4173
+recip_rank            	713	1.0000
+iprec_at_recall_0.00  	713	1.0000
+iprec_at_recall_0.10  	713	0.6304
+iprec_at_recall_0.20  	713	0.5317
+iprec_at_recall_0.30  	713	0.4913
+iprec_at_recall_0.40  	713	0.4021
+iprec_at_recall_0.50  	713	0.3456
+iprec_at_recall_0.60  	713	0.2950
+iprec_at_recall_0.70  	713	0.2472
+iprec_at_recall_0.80  	713	0.0000
+iprec_at_recall_0.90  	713	0.0000
+iprec_at_recall_1.00  	713	0.0000
+P_5                   	713	0.8000
+P_10                  	713	0.7000
+P_15                  	713	0.6000
+P_20                  	713	0.5500
+P_30                  	713	0.5667
+P_100                 	713	0.5300
+P_200                 	713	0.4600
+P_500                 	713	0.3120
+P_1000                	713	0.2030
+num_ret               	714	1000
+num_rel               	714	61
+num_rel_ret           	714	55
+map                   	714	0.1226
+Rprec                 	714	0.1148
+bpref                 	714	0.1008
+recip_rank            	714	0.5000
+iprec_at_recall_0.00  	714	0.6667
+iprec_at_recall_0.10  	714	0.2500
+iprec_at_recall_0.20  	714	0.1667
+iprec_at_recall_0.30  	714	0.1458
+iprec_at_recall_0.40  	714	0.0846
+iprec_at_recall_0.50  	714	0.0808
+iprec_at_recall_0.60  	714	0.0808
+iprec_at_recall_0.70  	714	0.0738
+iprec_at_recall_0.80  	714	0.0620
+iprec_at_recall_0.90  	714	0.0593
+iprec_at_recall_1.00  	714	0.0000
+P_5                   	714	0.4000
+P_10                  	714	0.4000
+P_15                  	714	0.2667
+P_20                  	714	0.3000
+P_30                  	714	0.2333
+P_100                 	714	0.1500
+P_200                 	714	0.1100
+P_500                 	714	0.0740
+P_1000                	714	0.0550
+num_ret               	715	1000
+num_rel               	715	80
+num_rel_ret           	715	67
+map                   	715	0.1765
+Rprec                 	715	0.2250
+bpref                 	715	0.1711
+recip_rank            	715	0.5000
+iprec_at_recall_0.00  	715	0.6667
+iprec_at_recall_0.10  	715	0.3810
+iprec_at_recall_0.20  	715	0.2857
+iprec_at_recall_0.30  	715	0.2456
+iprec_at_recall_0.40  	715	0.1744
+iprec_at_recall_0.50  	715	0.1254
+iprec_at_recall_0.60  	715	0.1116
+iprec_at_recall_0.70  	715	0.1002
+iprec_at_recall_0.80  	715	0.0880
+iprec_at_recall_0.90  	715	0.0000
+iprec_at_recall_1.00  	715	0.0000
+P_5                   	715	0.4000
+P_10                  	715	0.5000
+P_15                  	715	0.4667
+P_20                  	715	0.3500
+P_30                  	715	0.3000
+P_100                 	715	0.2100
+P_200                 	715	0.1700
+P_500                 	715	0.1040
+P_1000                	715	0.0670
+num_ret               	716	1000
+num_rel               	716	66
+num_rel_ret           	716	47
+map                   	716	0.0956
+Rprec                 	716	0.2273
+bpref                 	716	0.1430
+recip_rank            	716	0.2000
+iprec_at_recall_0.00  	716	0.2727
+iprec_at_recall_0.10  	716	0.2703
+iprec_at_recall_0.20  	716	0.2542
+iprec_at_recall_0.30  	716	0.1439
+iprec_at_recall_0.40  	716	0.0698
+iprec_at_recall_0.50  	716	0.0698
+iprec_at_recall_0.60  	716	0.0698
+iprec_at_recall_0.70  	716	0.0518
+iprec_at_recall_0.80  	716	0.0000
+iprec_at_recall_0.90  	716	0.0000
+iprec_at_recall_1.00  	716	0.0000
+P_5                   	716	0.2000
+P_10                  	716	0.2000
+P_15                  	716	0.1333
+P_20                  	716	0.2000
+P_30                  	716	0.2000
+P_100                 	716	0.1700
+P_200                 	716	0.1100
+P_500                 	716	0.0660
+P_1000                	716	0.0470
+num_ret               	717	1000
+num_rel               	717	537
+num_rel_ret           	717	312
+map                   	717	0.3502
+Rprec                 	717	0.4916
+bpref                 	717	0.5126
+recip_rank            	717	1.0000
+iprec_at_recall_0.00  	717	1.0000
+iprec_at_recall_0.10  	717	0.7324
+iprec_at_recall_0.20  	717	0.7303
+iprec_at_recall_0.30  	717	0.6250
+iprec_at_recall_0.40  	717	0.5452
+iprec_at_recall_0.50  	717	0.4778
+iprec_at_recall_0.60  	717	0.0000
+iprec_at_recall_0.70  	717	0.0000
+iprec_at_recall_0.80  	717	0.0000
+iprec_at_recall_0.90  	717	0.0000
+iprec_at_recall_1.00  	717	0.0000
+P_5                   	717	0.8000
+P_10                  	717	0.7000
+P_15                  	717	0.7333
+P_20                  	717	0.7000
+P_30                  	717	0.7000
+P_100                 	717	0.6900
+P_200                 	717	0.6800
+P_500                 	717	0.5140
+P_1000                	717	0.3120
+num_ret               	718	1000
+num_rel               	718	617
+num_rel_ret           	718	287
+map                   	718	0.2703
+Rprec                 	718	0.3452
+bpref                 	718	0.3993
+recip_rank            	718	1.0000
+iprec_at_recall_0.00  	718	1.0000
+iprec_at_recall_0.10  	718	0.7609
+iprec_at_recall_0.20  	718	0.6526
+iprec_at_recall_0.30  	718	0.4078
+iprec_at_recall_0.40  	718	0.3293
+iprec_at_recall_0.50  	718	0.0000
+iprec_at_recall_0.60  	718	0.0000
+iprec_at_recall_0.70  	718	0.0000
+iprec_at_recall_0.80  	718	0.0000
+iprec_at_recall_0.90  	718	0.0000
+iprec_at_recall_1.00  	718	0.0000
+P_5                   	718	1.0000
+P_10                  	718	1.0000
+P_15                  	718	1.0000
+P_20                  	718	0.9500
+P_30                  	718	0.9667
+P_100                 	718	0.7300
+P_200                 	718	0.6400
+P_500                 	718	0.3880
+P_1000                	718	0.2870
+num_ret               	719	1000
+num_rel               	719	315
+num_rel_ret           	719	88
+map                   	719	0.0467
+Rprec                 	719	0.1524
+bpref                 	719	0.1173
+recip_rank            	719	0.1667
+iprec_at_recall_0.00  	719	0.4118
+iprec_at_recall_0.10  	719	0.1719
+iprec_at_recall_0.20  	719	0.1270
+iprec_at_recall_0.30  	719	0.0000
+iprec_at_recall_0.40  	719	0.0000
+iprec_at_recall_0.50  	719	0.0000
+iprec_at_recall_0.60  	719	0.0000
+iprec_at_recall_0.70  	719	0.0000
+iprec_at_recall_0.80  	719	0.0000
+iprec_at_recall_0.90  	719	0.0000
+iprec_at_recall_1.00  	719	0.0000
+P_5                   	719	0.0000
+P_10                  	719	0.2000
+P_15                  	719	0.3333
+P_20                  	719	0.3500
+P_30                  	719	0.2333
+P_100                 	719	0.1900
+P_200                 	719	0.1700
+P_500                 	719	0.1260
+P_1000                	719	0.0880
+num_ret               	720	1000
+num_rel               	720	561
+num_rel_ret           	720	317
+map                   	720	0.2483
+Rprec                 	720	0.3850
+bpref                 	720	0.4636
+recip_rank            	720	0.3333
+iprec_at_recall_0.00  	720	0.6207
+iprec_at_recall_0.10  	720	0.5260
+iprec_at_recall_0.20  	720	0.4978
+iprec_at_recall_0.30  	720	0.4494
+iprec_at_recall_0.40  	720	0.3910
+iprec_at_recall_0.50  	720	0.3402
+iprec_at_recall_0.60  	720	0.0000
+iprec_at_recall_0.70  	720	0.0000
+iprec_at_recall_0.80  	720	0.0000
+iprec_at_recall_0.90  	720	0.0000
+iprec_at_recall_1.00  	720	0.0000
+P_5                   	720	0.2000
+P_10                  	720	0.4000
+P_15                  	720	0.4667
+P_20                  	720	0.4500
+P_30                  	720	0.6000
+P_100                 	720	0.5000
+P_200                 	720	0.5050
+P_500                 	720	0.4000
+P_1000                	720	0.3170
+num_ret               	721	1000
+num_rel               	721	362
+num_rel_ret           	721	51
+map                   	721	0.0089
+Rprec                 	721	0.0552
+bpref                 	721	0.0771
+recip_rank            	721	0.0625
+iprec_at_recall_0.00  	721	0.1143
+iprec_at_recall_0.10  	721	0.0544
+iprec_at_recall_0.20  	721	0.0000
+iprec_at_recall_0.30  	721	0.0000
+iprec_at_recall_0.40  	721	0.0000
+iprec_at_recall_0.50  	721	0.0000
+iprec_at_recall_0.60  	721	0.0000
+iprec_at_recall_0.70  	721	0.0000
+iprec_at_recall_0.80  	721	0.0000
+iprec_at_recall_0.90  	721	0.0000
+iprec_at_recall_1.00  	721	0.0000
+P_5                   	721	0.0000
+P_10                  	721	0.0000
+P_15                  	721	0.0000
+P_20                  	721	0.0500
+P_30                  	721	0.1000
+P_100                 	721	0.0900
+P_200                 	721	0.0650
+P_500                 	721	0.0520
+P_1000                	721	0.0510
+num_ret               	722	1000
+num_rel               	722	203
+num_rel_ret           	722	164
+map                   	722	0.4047
+Rprec                 	722	0.5123
+bpref                 	722	0.5062
+recip_rank            	722	1.0000
+iprec_at_recall_0.00  	722	1.0000
+iprec_at_recall_0.10  	722	0.7200
+iprec_at_recall_0.20  	722	0.7200
+iprec_at_recall_0.30  	722	0.6882
+iprec_at_recall_0.40  	722	0.6212
+iprec_at_recall_0.50  	722	0.5691
+iprec_at_recall_0.60  	722	0.3526
+iprec_at_recall_0.70  	722	0.2708
+iprec_at_recall_0.80  	722	0.1689
+iprec_at_recall_0.90  	722	0.0000
+iprec_at_recall_1.00  	722	0.0000
+P_5                   	722	0.2000
+P_10                  	722	0.2000
+P_15                  	722	0.3333
+P_20                  	722	0.5000
+P_30                  	722	0.5333
+P_100                 	722	0.6800
+P_200                 	722	0.5200
+P_500                 	722	0.2800
+P_1000                	722	0.1640
+num_ret               	723	1000
+num_rel               	723	109
+num_rel_ret           	723	47
+map                   	723	0.1587
+Rprec                 	723	0.2385
+bpref                 	723	0.1861
+recip_rank            	723	1.0000
+iprec_at_recall_0.00  	723	1.0000
+iprec_at_recall_0.10  	723	0.7857
+iprec_at_recall_0.20  	723	0.2549
+iprec_at_recall_0.30  	723	0.1168
+iprec_at_recall_0.40  	723	0.0609
+iprec_at_recall_0.50  	723	0.0000
+iprec_at_recall_0.60  	723	0.0000
+iprec_at_recall_0.70  	723	0.0000
+iprec_at_recall_0.80  	723	0.0000
+iprec_at_recall_0.90  	723	0.0000
+iprec_at_recall_1.00  	723	0.0000
+P_5                   	723	0.8000
+P_10                  	723	0.9000
+P_15                  	723	0.7333
+P_20                  	723	0.6500
+P_30                  	723	0.5000
+P_100                 	723	0.2400
+P_200                 	723	0.1500
+P_500                 	723	0.0800
+P_1000                	723	0.0470
+num_ret               	724	1000
+num_rel               	724	30
+num_rel_ret           	724	28
+map                   	724	0.2002
+Rprec                 	724	0.2667
+bpref                 	724	0.2011
+recip_rank            	724	0.5000
+iprec_at_recall_0.00  	724	0.5000
+iprec_at_recall_0.10  	724	0.4375
+iprec_at_recall_0.20  	724	0.4375
+iprec_at_recall_0.30  	724	0.2308
+iprec_at_recall_0.40  	724	0.2308
+iprec_at_recall_0.50  	724	0.2308
+iprec_at_recall_0.60  	724	0.1488
+iprec_at_recall_0.70  	724	0.1089
+iprec_at_recall_0.80  	724	0.1089
+iprec_at_recall_0.90  	724	0.1089
+iprec_at_recall_1.00  	724	0.0000
+P_5                   	724	0.2000
+P_10                  	724	0.3000
+P_15                  	724	0.4000
+P_20                  	724	0.4000
+P_30                  	724	0.2667
+P_100                 	724	0.1500
+P_200                 	724	0.1050
+P_500                 	724	0.0540
+P_1000                	724	0.0280
+num_ret               	725	1000
+num_rel               	725	211
+num_rel_ret           	725	152
+map                   	725	0.2756
+Rprec                 	725	0.3649
+bpref                 	725	0.3489
+recip_rank            	725	0.3333
+iprec_at_recall_0.00  	725	0.7000
+iprec_at_recall_0.10  	725	0.5897
+iprec_at_recall_0.20  	725	0.4519
+iprec_at_recall_0.30  	725	0.4129
+iprec_at_recall_0.40  	725	0.3680
+iprec_at_recall_0.50  	725	0.3183
+iprec_at_recall_0.60  	725	0.2486
+iprec_at_recall_0.70  	725	0.1545
+iprec_at_recall_0.80  	725	0.0000
+iprec_at_recall_0.90  	725	0.0000
+iprec_at_recall_1.00  	725	0.0000
+P_5                   	725	0.6000
+P_10                  	725	0.7000
+P_15                  	725	0.6000
+P_20                  	725	0.6500
+P_30                  	725	0.6333
+P_100                 	725	0.4400
+P_200                 	725	0.3750
+P_500                 	725	0.2500
+P_1000                	725	0.1520
+num_ret               	726	1000
+num_rel               	726	285
+num_rel_ret           	726	238
+map                   	726	0.4716
+Rprec                 	726	0.5193
+bpref                 	726	0.5866
+recip_rank            	726	1.0000
+iprec_at_recall_0.00  	726	1.0000
+iprec_at_recall_0.10  	726	0.7705
+iprec_at_recall_0.20  	726	0.7692
+iprec_at_recall_0.30  	726	0.7246
+iprec_at_recall_0.40  	726	0.6970
+iprec_at_recall_0.50  	726	0.5902
+iprec_at_recall_0.60  	726	0.4296
+iprec_at_recall_0.70  	726	0.3210
+iprec_at_recall_0.80  	726	0.2522
+iprec_at_recall_0.90  	726	0.0000
+iprec_at_recall_1.00  	726	0.0000
+P_5                   	726	0.8000
+P_10                  	726	0.7000
+P_15                  	726	0.6000
+P_20                  	726	0.5000
+P_30                  	726	0.6000
+P_100                 	726	0.7200
+P_200                 	726	0.6300
+P_500                 	726	0.3700
+P_1000                	726	0.2380
+num_ret               	727	1000
+num_rel               	727	83
+num_rel_ret           	727	73
+map                   	727	0.4011
+Rprec                 	727	0.4458
+bpref                 	727	0.4124
+recip_rank            	727	1.0000
+iprec_at_recall_0.00  	727	1.0000
+iprec_at_recall_0.10  	727	0.5238
+iprec_at_recall_0.20  	727	0.4865
+iprec_at_recall_0.30  	727	0.4821
+iprec_at_recall_0.40  	727	0.4821
+iprec_at_recall_0.50  	727	0.4821
+iprec_at_recall_0.60  	727	0.4821
+iprec_at_recall_0.70  	727	0.4427
+iprec_at_recall_0.80  	727	0.2099
+iprec_at_recall_0.90  	727	0.0000
+iprec_at_recall_1.00  	727	0.0000
+P_5                   	727	0.8000
+P_10                  	727	0.7000
+P_15                  	727	0.4667
+P_20                  	727	0.5000
+P_30                  	727	0.4667
+P_100                 	727	0.4600
+P_200                 	727	0.3000
+P_500                 	727	0.1440
+P_1000                	727	0.0730
+num_ret               	728	1000
+num_rel               	728	606
+num_rel_ret           	728	409
+map                   	728	0.4784
+Rprec                 	728	0.5479
+bpref                 	728	0.6306
+recip_rank            	728	1.0000
+iprec_at_recall_0.00  	728	1.0000
+iprec_at_recall_0.10  	728	0.9000
+iprec_at_recall_0.20  	728	0.8380
+iprec_at_recall_0.30  	728	0.7741
+iprec_at_recall_0.40  	728	0.6517
+iprec_at_recall_0.50  	728	0.5782
+iprec_at_recall_0.60  	728	0.5112
+iprec_at_recall_0.70  	728	0.0000
+iprec_at_recall_0.80  	728	0.0000
+iprec_at_recall_0.90  	728	0.0000
+iprec_at_recall_1.00  	728	0.0000
+P_5                   	728	1.0000
+P_10                  	728	0.9000
+P_15                  	728	0.8667
+P_20                  	728	0.8500
+P_30                  	728	0.8667
+P_100                 	728	0.8300
+P_200                 	728	0.8150
+P_500                 	728	0.5940
+P_1000                	728	0.4090
+num_ret               	729	1000
+num_rel               	729	7
+num_rel_ret           	729	3
+map                   	729	0.0061
+Rprec                 	729	0.0000
+bpref                 	729	0.0000
+recip_rank            	729	0.0333
+iprec_at_recall_0.00  	729	0.0333
+iprec_at_recall_0.10  	729	0.0333
+iprec_at_recall_0.20  	729	0.0060
+iprec_at_recall_0.30  	729	0.0036
+iprec_at_recall_0.40  	729	0.0036
+iprec_at_recall_0.50  	729	0.0000
+iprec_at_recall_0.60  	729	0.0000
+iprec_at_recall_0.70  	729	0.0000
+iprec_at_recall_0.80  	729	0.0000
+iprec_at_recall_0.90  	729	0.0000
+iprec_at_recall_1.00  	729	0.0000
+P_5                   	729	0.0000
+P_10                  	729	0.0000
+P_15                  	729	0.0000
+P_20                  	729	0.0000
+P_30                  	729	0.0333
+P_100                 	729	0.0100
+P_200                 	729	0.0050
+P_500                 	729	0.0040
+P_1000                	729	0.0030
+num_ret               	730	1000
+num_rel               	730	40
+num_rel_ret           	730	37
+map                   	730	0.5059
+Rprec                 	730	0.6250
+bpref                 	730	0.5419
+recip_rank            	730	0.5000
+iprec_at_recall_0.00  	730	0.8333
+iprec_at_recall_0.10  	730	0.8333
+iprec_at_recall_0.20  	730	0.8000
+iprec_at_recall_0.30  	730	0.8000
+iprec_at_recall_0.40  	730	0.7037
+iprec_at_recall_0.50  	730	0.6970
+iprec_at_recall_0.60  	730	0.6410
+iprec_at_recall_0.70  	730	0.3218
+iprec_at_recall_0.80  	730	0.1667
+iprec_at_recall_0.90  	730	0.0921
+iprec_at_recall_1.00  	730	0.0000
+P_5                   	730	0.8000
+P_10                  	730	0.7000
+P_15                  	730	0.8000
+P_20                  	730	0.6500
+P_30                  	730	0.6667
+P_100                 	730	0.2800
+P_200                 	730	0.1600
+P_500                 	730	0.0720
+P_1000                	730	0.0370
+num_ret               	731	1000
+num_rel               	731	247
+num_rel_ret           	731	186
+map                   	731	0.2787
+Rprec                 	731	0.4575
+bpref                 	731	0.4477
+recip_rank            	731	0.1250
+iprec_at_recall_0.00  	731	0.4902
+iprec_at_recall_0.10  	731	0.4902
+iprec_at_recall_0.20  	731	0.4902
+iprec_at_recall_0.30  	731	0.4902
+iprec_at_recall_0.40  	731	0.4902
+iprec_at_recall_0.50  	731	0.4262
+iprec_at_recall_0.60  	731	0.2976
+iprec_at_recall_0.70  	731	0.2101
+iprec_at_recall_0.80  	731	0.0000
+iprec_at_recall_0.90  	731	0.0000
+iprec_at_recall_1.00  	731	0.0000
+P_5                   	731	0.0000
+P_10                  	731	0.2000
+P_15                  	731	0.2000
+P_20                  	731	0.2000
+P_30                  	731	0.3000
+P_100                 	731	0.3500
+P_200                 	731	0.4850
+P_500                 	731	0.2960
+P_1000                	731	0.1860
+num_ret               	732	1000
+num_rel               	732	617
+num_rel_ret           	732	240
+map                   	732	0.1192
+Rprec                 	732	0.2253
+bpref                 	732	0.3020
+recip_rank            	732	0.2000
+iprec_at_recall_0.00  	732	0.4783
+iprec_at_recall_0.10  	732	0.4241
+iprec_at_recall_0.20  	732	0.2450
+iprec_at_recall_0.30  	732	0.2450
+iprec_at_recall_0.40  	732	0.0000
+iprec_at_recall_0.50  	732	0.0000
+iprec_at_recall_0.60  	732	0.0000
+iprec_at_recall_0.70  	732	0.0000
+iprec_at_recall_0.80  	732	0.0000
+iprec_at_recall_0.90  	732	0.0000
+iprec_at_recall_1.00  	732	0.0000
+P_5                   	732	0.2000
+P_10                  	732	0.4000
+P_15                  	732	0.4000
+P_20                  	732	0.4500
+P_30                  	732	0.4000
+P_100                 	732	0.4500
+P_200                 	732	0.3650
+P_500                 	732	0.2420
+P_1000                	732	0.2400
+num_ret               	733	1000
+num_rel               	733	68
+num_rel_ret           	733	37
+map                   	733	0.3097
+Rprec                 	733	0.3824
+bpref                 	733	0.3391
+recip_rank            	733	1.0000
+iprec_at_recall_0.00  	733	1.0000
+iprec_at_recall_0.10  	733	0.8571
+iprec_at_recall_0.20  	733	0.7895
+iprec_at_recall_0.30  	733	0.6562
+iprec_at_recall_0.40  	733	0.3191
+iprec_at_recall_0.50  	733	0.2518
+iprec_at_recall_0.60  	733	0.0000
+iprec_at_recall_0.70  	733	0.0000
+iprec_at_recall_0.80  	733	0.0000
+iprec_at_recall_0.90  	733	0.0000
+iprec_at_recall_1.00  	733	0.0000
+P_5                   	733	0.6000
+P_10                  	733	0.8000
+P_15                  	733	0.8000
+P_20                  	733	0.7500
+P_30                  	733	0.6333
+P_100                 	733	0.3000
+P_200                 	733	0.1800
+P_500                 	733	0.0740
+P_1000                	733	0.0370
+num_ret               	734	1000
+num_rel               	734	405
+num_rel_ret           	734	216
+map                   	734	0.2105
+Rprec                 	734	0.3457
+bpref                 	734	0.3883
+recip_rank            	734	1.0000
+iprec_at_recall_0.00  	734	1.0000
+iprec_at_recall_0.10  	734	0.5000
+iprec_at_recall_0.20  	734	0.3897
+iprec_at_recall_0.30  	734	0.3650
+iprec_at_recall_0.40  	734	0.3043
+iprec_at_recall_0.50  	734	0.2294
+iprec_at_recall_0.60  	734	0.0000
+iprec_at_recall_0.70  	734	0.0000
+iprec_at_recall_0.80  	734	0.0000
+iprec_at_recall_0.90  	734	0.0000
+iprec_at_recall_1.00  	734	0.0000
+P_5                   	734	0.2000
+P_10                  	734	0.5000
+P_15                  	734	0.6000
+P_20                  	734	0.6000
+P_30                  	734	0.6000
+P_100                 	734	0.4800
+P_200                 	734	0.3950
+P_500                 	734	0.3140
+P_1000                	734	0.2160
+num_ret               	735	1000
+num_rel               	735	163
+num_rel_ret           	735	124
+map                   	735	0.1946
+Rprec                 	735	0.2638
+bpref                 	735	0.1953
+recip_rank            	735	0.5000
+iprec_at_recall_0.00  	735	0.6667
+iprec_at_recall_0.10  	735	0.4130
+iprec_at_recall_0.20  	735	0.2993
+iprec_at_recall_0.30  	735	0.2387
+iprec_at_recall_0.40  	735	0.2387
+iprec_at_recall_0.50  	735	0.2363
+iprec_at_recall_0.60  	735	0.1715
+iprec_at_recall_0.70  	735	0.1372
+iprec_at_recall_0.80  	735	0.0000
+iprec_at_recall_0.90  	735	0.0000
+iprec_at_recall_1.00  	735	0.0000
+P_5                   	735	0.6000
+P_10                  	735	0.4000
+P_15                  	735	0.2667
+P_20                  	735	0.3500
+P_30                  	735	0.3000
+P_100                 	735	0.3000
+P_200                 	735	0.2350
+P_500                 	735	0.1860
+P_1000                	735	0.1240
+num_ret               	736	1000
+num_rel               	736	473
+num_rel_ret           	736	372
+map                   	736	0.6004
+Rprec                 	736	0.6089
+bpref                 	736	0.7409
+recip_rank            	736	1.0000
+iprec_at_recall_0.00  	736	1.0000
+iprec_at_recall_0.10  	736	0.9649
+iprec_at_recall_0.20  	736	0.9450
+iprec_at_recall_0.30  	736	0.8683
+iprec_at_recall_0.40  	736	0.7851
+iprec_at_recall_0.50  	736	0.7075
+iprec_at_recall_0.60  	736	0.6311
+iprec_at_recall_0.70  	736	0.4804
+iprec_at_recall_0.80  	736	0.0000
+iprec_at_recall_0.90  	736	0.0000
+iprec_at_recall_1.00  	736	0.0000
+P_5                   	736	1.0000
+P_10                  	736	1.0000
+P_15                  	736	1.0000
+P_20                  	736	1.0000
+P_30                  	736	0.9333
+P_100                 	736	0.9400
+P_200                 	736	0.8300
+P_500                 	736	0.5900
+P_1000                	736	0.3720
+num_ret               	737	1000
+num_rel               	737	230
+num_rel_ret           	737	201
+map                   	737	0.5748
+Rprec                 	737	0.6043
+bpref                 	737	0.6565
+recip_rank            	737	1.0000
+iprec_at_recall_0.00  	737	1.0000
+iprec_at_recall_0.10  	737	0.8571
+iprec_at_recall_0.20  	737	0.8364
+iprec_at_recall_0.30  	737	0.8353
+iprec_at_recall_0.40  	737	0.7603
+iprec_at_recall_0.50  	737	0.6667
+iprec_at_recall_0.60  	737	0.6096
+iprec_at_recall_0.70  	737	0.4849
+iprec_at_recall_0.80  	737	0.3825
+iprec_at_recall_0.90  	737	0.0000
+iprec_at_recall_1.00  	737	0.0000
+P_5                   	737	0.4000
+P_10                  	737	0.7000
+P_15                  	737	0.8000
+P_20                  	737	0.8000
+P_30                  	737	0.8333
+P_100                 	737	0.7700
+P_200                 	737	0.6300
+P_500                 	737	0.3700
+P_1000                	737	0.2010
+num_ret               	738	1000
+num_rel               	738	99
+num_rel_ret           	738	96
+map                   	738	0.5808
+Rprec                 	738	0.5758
+bpref                 	738	0.5384
+recip_rank            	738	1.0000
+iprec_at_recall_0.00  	738	1.0000
+iprec_at_recall_0.10  	738	1.0000
+iprec_at_recall_0.20  	738	0.8519
+iprec_at_recall_0.30  	738	0.7955
+iprec_at_recall_0.40  	738	0.7273
+iprec_at_recall_0.50  	738	0.6044
+iprec_at_recall_0.60  	738	0.5545
+iprec_at_recall_0.70  	738	0.3241
+iprec_at_recall_0.80  	738	0.2736
+iprec_at_recall_0.90  	738	0.1633
+iprec_at_recall_1.00  	738	0.0000
+P_5                   	738	1.0000
+P_10                  	738	1.0000
+P_15                  	738	1.0000
+P_20                  	738	0.8500
+P_30                  	738	0.8333
+P_100                 	738	0.5700
+P_200                 	738	0.3300
+P_500                 	738	0.1780
+P_1000                	738	0.0960
+num_ret               	739	1000
+num_rel               	739	447
+num_rel_ret           	739	254
+map                   	739	0.3970
+Rprec                 	739	0.4810
+bpref                 	739	0.5189
+recip_rank            	739	1.0000
+iprec_at_recall_0.00  	739	1.0000
+iprec_at_recall_0.10  	739	0.8462
+iprec_at_recall_0.20  	739	0.8264
+iprec_at_recall_0.30  	739	0.7886
+iprec_at_recall_0.40  	739	0.6767
+iprec_at_recall_0.50  	739	0.3972
+iprec_at_recall_0.60  	739	0.0000
+iprec_at_recall_0.70  	739	0.0000
+iprec_at_recall_0.80  	739	0.0000
+iprec_at_recall_0.90  	739	0.0000
+iprec_at_recall_1.00  	739	0.0000
+P_5                   	739	0.6000
+P_10                  	739	0.8000
+P_15                  	739	0.8000
+P_20                  	739	0.8500
+P_30                  	739	0.9000
+P_100                 	739	0.8000
+P_200                 	739	0.7650
+P_500                 	739	0.4380
+P_1000                	739	0.2540
+num_ret               	740	1000
+num_rel               	740	63
+num_rel_ret           	740	50
+map                   	740	0.2486
+Rprec                 	740	0.3016
+bpref                 	740	0.2535
+recip_rank            	740	1.0000
+iprec_at_recall_0.00  	740	1.0000
+iprec_at_recall_0.10  	740	0.5294
+iprec_at_recall_0.20  	740	0.4194
+iprec_at_recall_0.30  	740	0.3276
+iprec_at_recall_0.40  	740	0.2281
+iprec_at_recall_0.50  	740	0.2273
+iprec_at_recall_0.60  	740	0.2099
+iprec_at_recall_0.70  	740	0.1192
+iprec_at_recall_0.80  	740	0.0000
+iprec_at_recall_0.90  	740	0.0000
+iprec_at_recall_1.00  	740	0.0000
+P_5                   	740	0.4000
+P_10                  	740	0.5000
+P_15                  	740	0.4667
+P_20                  	740	0.4500
+P_30                  	740	0.4000
+P_100                 	740	0.2500
+P_200                 	740	0.1900
+P_500                 	740	0.0920
+P_1000                	740	0.0500
+num_ret               	741	1000
+num_rel               	741	95
+num_rel_ret           	741	74
+map                   	741	0.0828
+Rprec                 	741	0.1053
+bpref                 	741	0.0512
+recip_rank            	741	0.0345
+iprec_at_recall_0.00  	741	0.1298
+iprec_at_recall_0.10  	741	0.1298
+iprec_at_recall_0.20  	741	0.1290
+iprec_at_recall_0.30  	741	0.1283
+iprec_at_recall_0.40  	741	0.1141
+iprec_at_recall_0.50  	741	0.1085
+iprec_at_recall_0.60  	741	0.1009
+iprec_at_recall_0.70  	741	0.0868
+iprec_at_recall_0.80  	741	0.0000
+iprec_at_recall_0.90  	741	0.0000
+iprec_at_recall_1.00  	741	0.0000
+P_5                   	741	0.0000
+P_10                  	741	0.0000
+P_15                  	741	0.0000
+P_20                  	741	0.0000
+P_30                  	741	0.0333
+P_100                 	741	0.1000
+P_200                 	741	0.1200
+P_500                 	741	0.1060
+P_1000                	741	0.0740
+num_ret               	742	1000
+num_rel               	742	103
+num_rel_ret           	742	97
+map                   	742	0.3613
+Rprec                 	742	0.3981
+bpref                 	742	0.3462
+recip_rank            	742	1.0000
+iprec_at_recall_0.00  	742	1.0000
+iprec_at_recall_0.10  	742	0.4471
+iprec_at_recall_0.20  	742	0.4471
+iprec_at_recall_0.30  	742	0.4471
+iprec_at_recall_0.40  	742	0.4196
+iprec_at_recall_0.50  	742	0.3931
+iprec_at_recall_0.60  	742	0.3636
+iprec_at_recall_0.70  	742	0.3364
+iprec_at_recall_0.80  	742	0.2427
+iprec_at_recall_0.90  	742	0.1797
+iprec_at_recall_1.00  	742	0.0000
+P_5                   	742	0.8000
+P_10                  	742	0.6000
+P_15                  	742	0.4667
+P_20                  	742	0.4000
+P_30                  	742	0.3667
+P_100                 	742	0.4000
+P_200                 	742	0.3500
+P_500                 	742	0.1840
+P_1000                	742	0.0970
+num_ret               	743	1000
+num_rel               	743	54
+num_rel_ret           	743	26
+map                   	743	0.0273
+Rprec                 	743	0.0741
+bpref                 	743	0.0237
+recip_rank            	743	0.0370
+iprec_at_recall_0.00  	743	0.0851
+iprec_at_recall_0.10  	743	0.0814
+iprec_at_recall_0.20  	743	0.0634
+iprec_at_recall_0.30  	743	0.0562
+iprec_at_recall_0.40  	743	0.0554
+iprec_at_recall_0.50  	743	0.0000
+iprec_at_recall_0.60  	743	0.0000
+iprec_at_recall_0.70  	743	0.0000
+iprec_at_recall_0.80  	743	0.0000
+iprec_at_recall_0.90  	743	0.0000
+iprec_at_recall_1.00  	743	0.0000
+P_5                   	743	0.0000
+P_10                  	743	0.0000
+P_15                  	743	0.0000
+P_20                  	743	0.0000
+P_30                  	743	0.0333
+P_100                 	743	0.0700
+P_200                 	743	0.0550
+P_500                 	743	0.0460
+P_1000                	743	0.0260
+num_ret               	744	1000
+num_rel               	744	84
+num_rel_ret           	744	35
+map                   	744	0.0182
+Rprec                 	744	0.0000
+bpref                 	744	0.0000
+recip_rank            	744	0.0111
+iprec_at_recall_0.00  	744	0.0621
+iprec_at_recall_0.10  	744	0.0621
+iprec_at_recall_0.20  	744	0.0621
+iprec_at_recall_0.30  	744	0.0368
+iprec_at_recall_0.40  	744	0.0365
+iprec_at_recall_0.50  	744	0.0000
+iprec_at_recall_0.60  	744	0.0000
+iprec_at_recall_0.70  	744	0.0000
+iprec_at_recall_0.80  	744	0.0000
+iprec_at_recall_0.90  	744	0.0000
+iprec_at_recall_1.00  	744	0.0000
+P_5                   	744	0.0000
+P_10                  	744	0.0000
+P_15                  	744	0.0000
+P_20                  	744	0.0000
+P_30                  	744	0.0000
+P_100                 	744	0.0200
+P_200                 	744	0.0450
+P_500                 	744	0.0480
+P_1000                	744	0.0350
+num_ret               	745	1000
+num_rel               	745	46
+num_rel_ret           	745	44
+map                   	745	0.4651
+Rprec                 	745	0.4565
+bpref                 	745	0.4263
+recip_rank            	745	1.0000
+iprec_at_recall_0.00  	745	1.0000
+iprec_at_recall_0.10  	745	1.0000
+iprec_at_recall_0.20  	745	0.7083
+iprec_at_recall_0.30  	745	0.7083
+iprec_at_recall_0.40  	745	0.6552
+iprec_at_recall_0.50  	745	0.4182
+iprec_at_recall_0.60  	745	0.3889
+iprec_at_recall_0.70  	745	0.1915
+iprec_at_recall_0.80  	745	0.1810
+iprec_at_recall_0.90  	745	0.1228
+iprec_at_recall_1.00  	745	0.0000
+P_5                   	745	1.0000
+P_10                  	745	0.6000
+P_15                  	745	0.6000
+P_20                  	745	0.7000
+P_30                  	745	0.6333
+P_100                 	745	0.3000
+P_200                 	745	0.1800
+P_500                 	745	0.0860
+P_1000                	745	0.0440
+num_ret               	746	1000
+num_rel               	746	173
+num_rel_ret           	746	105
+map                   	746	0.3053
+Rprec                 	746	0.3468
+bpref                 	746	0.3244
+recip_rank            	746	1.0000
+iprec_at_recall_0.00  	746	1.0000
+iprec_at_recall_0.10  	746	0.9474
+iprec_at_recall_0.20  	746	0.6604
+iprec_at_recall_0.30  	746	0.5000
+iprec_at_recall_0.40  	746	0.2659
+iprec_at_recall_0.50  	746	0.2009
+iprec_at_recall_0.60  	746	0.1282
+iprec_at_recall_0.70  	746	0.0000
+iprec_at_recall_0.80  	746	0.0000
+iprec_at_recall_0.90  	746	0.0000
+iprec_at_recall_1.00  	746	0.0000
+P_5                   	746	1.0000
+P_10                  	746	1.0000
+P_15                  	746	1.0000
+P_20                  	746	0.9000
+P_30                  	746	0.7667
+P_100                 	746	0.5000
+P_200                 	746	0.3100
+P_500                 	746	0.1880
+P_1000                	746	0.1050
+num_ret               	747	1000
+num_rel               	747	189
+num_rel_ret           	747	49
+map                   	747	0.0709
+Rprec                 	747	0.1270
+bpref                 	747	0.1162
+recip_rank            	747	1.0000
+iprec_at_recall_0.00  	747	1.0000
+iprec_at_recall_0.10  	747	0.2386
+iprec_at_recall_0.20  	747	0.0681
+iprec_at_recall_0.30  	747	0.0000
+iprec_at_recall_0.40  	747	0.0000
+iprec_at_recall_0.50  	747	0.0000
+iprec_at_recall_0.60  	747	0.0000
+iprec_at_recall_0.70  	747	0.0000
+iprec_at_recall_0.80  	747	0.0000
+iprec_at_recall_0.90  	747	0.0000
+iprec_at_recall_1.00  	747	0.0000
+P_5                   	747	0.8000
+P_10                  	747	0.7000
+P_15                  	747	0.6000
+P_20                  	747	0.5000
+P_30                  	747	0.3667
+P_100                 	747	0.2200
+P_200                 	747	0.1200
+P_500                 	747	0.0640
+P_1000                	747	0.0490
+num_ret               	748	1000
+num_rel               	748	312
+num_rel_ret           	748	180
+map                   	748	0.3660
+Rprec                 	748	0.4359
+bpref                 	748	0.4840
+recip_rank            	748	0.5000
+iprec_at_recall_0.00  	748	0.8514
+iprec_at_recall_0.10  	748	0.8514
+iprec_at_recall_0.20  	748	0.8514
+iprec_at_recall_0.30  	748	0.7846
+iprec_at_recall_0.40  	748	0.5924
+iprec_at_recall_0.50  	748	0.2979
+iprec_at_recall_0.60  	748	0.0000
+iprec_at_recall_0.70  	748	0.0000
+iprec_at_recall_0.80  	748	0.0000
+iprec_at_recall_0.90  	748	0.0000
+iprec_at_recall_1.00  	748	0.0000
+P_5                   	748	0.4000
+P_10                  	748	0.6000
+P_15                  	748	0.6667
+P_20                  	748	0.7000
+P_30                  	748	0.7667
+P_100                 	748	0.7900
+P_200                 	748	0.6050
+P_500                 	748	0.3060
+P_1000                	748	0.1800
+num_ret               	749	1000
+num_rel               	749	102
+num_rel_ret           	749	78
+map                   	749	0.1735
+Rprec                 	749	0.2941
+bpref                 	749	0.2025
+recip_rank            	749	0.1429
+iprec_at_recall_0.00  	749	0.3846
+iprec_at_recall_0.10  	749	0.3846
+iprec_at_recall_0.20  	749	0.3165
+iprec_at_recall_0.30  	749	0.2623
+iprec_at_recall_0.40  	749	0.2150
+iprec_at_recall_0.50  	749	0.1763
+iprec_at_recall_0.60  	749	0.1502
+iprec_at_recall_0.70  	749	0.1293
+iprec_at_recall_0.80  	749	0.0000
+iprec_at_recall_0.90  	749	0.0000
+iprec_at_recall_1.00  	749	0.0000
+P_5                   	749	0.0000
+P_10                  	749	0.1000
+P_15                  	749	0.2667
+P_20                  	749	0.3500
+P_30                  	749	0.3333
+P_100                 	749	0.2900
+P_200                 	749	0.2150
+P_500                 	749	0.1340
+P_1000                	749	0.0780
+num_ret               	750	1000
+num_rel               	750	16
+num_rel_ret           	750	10
+map                   	750	0.1797
+Rprec                 	750	0.2500
+bpref                 	750	0.1797
+recip_rank            	750	1.0000
+iprec_at_recall_0.00  	750	1.0000
+iprec_at_recall_0.10  	750	0.4000
+iprec_at_recall_0.20  	750	0.4000
+iprec_at_recall_0.30  	750	0.2917
+iprec_at_recall_0.40  	750	0.2917
+iprec_at_recall_0.50  	750	0.0702
+iprec_at_recall_0.60  	750	0.0143
+iprec_at_recall_0.70  	750	0.0000
+iprec_at_recall_0.80  	750	0.0000
+iprec_at_recall_0.90  	750	0.0000
+iprec_at_recall_1.00  	750	0.0000
+P_5                   	750	0.2000
+P_10                  	750	0.4000
+P_15                  	750	0.2667
+P_20                  	750	0.2000
+P_30                  	750	0.2333
+P_100                 	750	0.0700
+P_200                 	750	0.0400
+P_500                 	750	0.0160
+P_1000                	750	0.0100
+runid                 	all	DPH
+num_q                 	all	49
+num_ret               	all	49000
+num_rel               	all	10617
+num_rel_ret           	all	6563
+map                   	all	0.2768
+gm_map                	all	0.1937
+Rprec                 	all	0.3426
+bpref                 	all	0.3370
+recip_rank            	all	0.6805
+iprec_at_recall_0.00  	all	0.7628
+iprec_at_recall_0.10  	all	0.5579
+iprec_at_recall_0.20  	all	0.4807
+iprec_at_recall_0.30  	all	0.4206
+iprec_at_recall_0.40  	all	0.3533
+iprec_at_recall_0.50  	all	0.2830
+iprec_at_recall_0.60  	all	0.2015
+iprec_at_recall_0.70  	all	0.1386
+iprec_at_recall_0.80  	all	0.0687
+iprec_at_recall_0.90  	all	0.0222
+iprec_at_recall_1.00  	all	0.0000
+P_5                   	all	0.5143
+P_10                  	all	0.5388
+P_15                  	all	0.5211
+P_20                  	all	0.5031
+P_30                  	all	0.4884
+P_100                 	all	0.4053
+P_200                 	all	0.3357
+P_500                 	all	0.2098
+P_1000                	all	0.1339
