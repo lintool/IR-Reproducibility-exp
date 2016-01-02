@@ -1,0 +1,65 @@
+Ranking mode: anytime
+Settings: top k = 1000, postings to process = 2500000, decompress then process (non-interleaved)
+Loading postings... done
+QMX-D4 Compressed Index
+Loading doclist... done
+Loading vocab... done
+
+Averages over 50 queries
+--------------------------------------------------------
+Total time excluding I/O   (per query) :     30621086 ns
+--------------------------------------------------------
+Total running time                     :  14168704070 ns
+--------------------------------------------------------
+Total number of segments processed     :         8913
+--------------------------------------------------------
+query id,postings processed,ns:701,2495456,110802535
+query id,postings processed,ns:702,149824,9666088
+query id,postings processed,ns:703,2435421,43845900
+query id,postings processed,ns:704,2484047,41608848
+query id,postings processed,ns:705,2066019,42636117
+query id,postings processed,ns:706,1746893,35207156
+query id,postings processed,ns:707,1771868,35129346
+query id,postings processed,ns:708,1467738,29651704
+query id,postings processed,ns:709,1886497,32719489
+query id,postings processed,ns:710,1883893,38028015
+query id,postings processed,ns:711,2453366,42716484
+query id,postings processed,ns:712,155992,10052759
+query id,postings processed,ns:713,1899620,39828462
+query id,postings processed,ns:714,1908005,40649211
+query id,postings processed,ns:715,726793,19237829
+query id,postings processed,ns:716,381380,13318812
+query id,postings processed,ns:717,2189199,38417650
+query id,postings processed,ns:718,742284,21119160
+query id,postings processed,ns:719,2278234,46214169
+query id,postings processed,ns:720,2476568,42786529
+query id,postings processed,ns:721,2307129,38472820
+query id,postings processed,ns:722,166137,10233459
+query id,postings processed,ns:723,2184028,36681249
+query id,postings processed,ns:724,96750,8706460
+query id,postings processed,ns:725,2423445,47158702
+query id,postings processed,ns:726,572305,17594343
+query id,postings processed,ns:727,220073,11136136
+query id,postings processed,ns:728,705247,19521158
+query id,postings processed,ns:729,2055392,35909752
+query id,postings processed,ns:730,170175,10319171
+query id,postings processed,ns:731,2299532,35447559
+query id,postings processed,ns:732,1799165,31428397
+query id,postings processed,ns:733,49700,7488250
+query id,postings processed,ns:734,325581,12457214
+query id,postings processed,ns:735,2277065,39809796
+query id,postings processed,ns:736,1979708,27751289
+query id,postings processed,ns:737,2392056,41841089
+query id,postings processed,ns:738,27707,7121772
+query id,postings processed,ns:739,502490,15528384
+query id,postings processed,ns:740,1972602,39200356
+query id,postings processed,ns:741,369944,13226494
+query id,postings processed,ns:742,2300344,41282137
+query id,postings processed,ns:743,1399262,28559012
+query id,postings processed,ns:744,2210022,26198924
+query id,postings processed,ns:745,9943,5177137
+query id,postings processed,ns:746,2128790,35617823
+query id,postings processed,ns:747,2463377,37892052
+query id,postings processed,ns:748,2434874,44655832
+query id,postings processed,ns:749,2461116,24935668
+query id,postings processed,ns:750,2487721,46065635

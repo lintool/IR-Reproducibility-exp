@@ -1,0 +1,107 @@
+ATIRE Version 0.5 alpha (64-bit)
+Written (w) 2008-2014 Andrew Trotman, University of Otago
+1000000 Documents (18988733985 bytes) in 1929336614 bytes of memory in 01:41.806 minutes
+2000000 Documents (37840316271 bytes) in 3553544045 bytes of memory in 03:04.397 minutes
+3000000 Documents (56268461424 bytes) in 5083480451 bytes of memory in 04:30.189 minutes
+4000000 Documents (74724675599 bytes) in 6573282233 bytes of memory in 05:43.551 minutes
+5000000 Documents (92973799992 bytes) in 7956310783 bytes of memory in 06:58.863 minutes
+6000000 Documents (111252877863 bytes) in 9385729611 bytes of memory in 08:09.208 minutes
+7000000 Documents (129521818295 bytes) in 10723416348 bytes of memory in 09:21.554 minutes
+8000000 Documents (148136768655 bytes) in 12081510353 bytes of memory in 10:42.419 minutes
+9000000 Documents (166761916240 bytes) in 13594365989 bytes of memory in 12:17.501 minutes
+10000000 Documents (185639024408 bytes) in 14982215283 bytes of memory in 13:56.224 minutes
+11000000 Documents (204536918982 bytes) in 16402687617 bytes of memory in 15:40.185 minutes
+12000000 Documents (223340029266 bytes) in 17768839277 bytes of memory in 17:12.399 minutes
+13000000 Documents (242086444341 bytes) in 19283863455 bytes of memory in 18:43.743 minutes
+14000000 Documents (260701934409 bytes) in 20690765094 bytes of memory in 20:15.024 minutes
+15000000 Documents (279280252336 bytes) in 22054777731 bytes of memory in 21:32.979 minutes
+16000000 Documents (297915100413 bytes) in 23400544507 bytes of memory in 22:48.032 minutes
+17000000 Documents (316400560534 bytes) in 24731492013 bytes of memory in 24:06.102 minutes
+18000000 Documents (334631947790 bytes) in 25989395376 bytes of memory in 25:26.633 minutes
+19000000 Documents (352812155365 bytes) in 27425325033 bytes of memory in 26:56.062 minutes
+20000000 Documents (371056025658 bytes) in 28782143902 bytes of memory in 28:29.961 minutes
+21000000 Documents (388900818386 bytes) in 30111740948 bytes of memory in 30:10.617 minutes
+22000000 Documents (406208782427 bytes) in 31531079413 bytes of memory in 31:50.221 minutes
+23000000 Documents (423072472300 bytes) in 33103220344 bytes of memory in 33:38.832 minutes
+24000000 Documents (439299880878 bytes) in 34473022957 bytes of memory in 35:22.082 minutes
+25000000 Documents (454264544654 bytes) in 35778103081 bytes of memory in 37:03.751 minutes
+25205179 Documents (457140001403 bytes) in 36025218799 bytes of memory in 37:22.400 minutes
+GLOBAL STATISTICS
+-----------------
+Documents            :  25205179 documents
+Unique terms         :  39995040 terms
+Term occurences      :26502272477 occurences
+Total memory allocd  :38654706240 bytes
+Total memory used    :36963057280 bytes
+Time to Quantise     :17:27.102 minutes
+Time to Store Docs   :09.548 seconds
+Bytes to Store Docs  :         0 bytes
+
+INTERNAL MEMORY BREAKDOWN
+-------------------------
+Hash nodes total     :  16777216 nodes
+Hash nodes used      :  15230647 nodes
+Hash nodes used      :2315058344 bytes
+HASH utilisation     :     90.78%
+Mem used for docIDs  :8777686005 bytes
+Mem allocd for docIDs:10767587189 bytes
+DOCID mem utilisation:     81.52%
+Mem used for tfs     :14124648188 bytes
+Mem allocd for tfs   :17276988250 bytes
+TF mem utilisation   :     81.75%
+Postings fragments   :  65054715 fragments
+Postings fragments   :1040875440 bytes
+Total allocd for postings (fragments + docIDs + tfs):29085450879 bytes
+Total needed for postings (docIDs + tfs)            :22902334193
+Total wasted for postings                           :6183116686
+Total Postings utilisation                          :     78.74%
+Total strings        :  39995040 strings
+Space for strings    : 421169697 bytes
+Disk buffering       :  10485760 bytes
+Recompression Buffers: 304428228 bytes
+
+MEMORY UTILISATION
+------------------
+Total memory allocd  :38654706240 bytes
+Total memory used    :36963057280 bytes
+Posting Fragments    :1040875440 bytes
+Unique Terms         :6079246080 bytes
+Strings              : 421169697 bytes
+DocIDs               :10767587189 bytes
+TFs                  :17276988250 bytes
+Term List (uniq sort): 319960328 bytes
+Disk Output Buffer   :  10485760 bytes
+Recompression Buffers: 304428228 bytes
+Quantization overhead: 100820720 bytes
+Unaccounted for      : 641495588 bytes
+Time to Store Docs   :09.548 seconds
+Bytes to Store Docs  :         0 bytes
+
+COMPRESSION FACTORY USAGE
+-------------------------
+Variable-Byte        : 119890710 terms into 12092036276 bytes (13.20 bpi)
+Factory calls        : 119890710 terms
+        into         :12092036276 bytes
+        total space  :12211926986 bytes
+
+COMPRESSION COMPARISON
+----------------------
+Only Variable-Byte   :12092036276 bytes (13.20 bpi) Compression Rate: 182389750 ips 
+Mixed                :12211926986 bytes (13.33 bpi)
+Mixed cf best other  :-119890710 bytes saved
+Mixed cf best other  :-0.99% saved
+
+COMPRESSION MISCELLANY
+----------------------
+Integers compressed  :7330234200
+Terms                : 119890710
+Bytes                :12092036276
+
+TIMINGS
+-------
+Disk input time      :07:20.319 minutes
+Indexing time        :29:11.494 minutes
+Disk ouput time      :22:13.740 minutes
+Other CPU time       :50.586 seconds
+Total CPU time       :30:02.080 minutes
+Total Elapsed Time   :59:36.141 minutes

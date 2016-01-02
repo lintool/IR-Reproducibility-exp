@@ -1,0 +1,65 @@
+Ranking mode: anytime
+Settings: top k = 1000, postings to process = 1000000000, decompress then process (non-interleaved)
+Loading postings... done
+QMX-D4 Compressed Index
+Loading doclist... done
+Loading vocab... done
+
+Averages over 50 queries
+--------------------------------------------------------
+Total time excluding I/O   (per query) :     55283540 ns
+--------------------------------------------------------
+Total running time                     :  14532215725 ns
+--------------------------------------------------------
+Total number of segments processed     :        10121
+--------------------------------------------------------
+query id,postings processed,ns:751,124132,71462740
+query id,postings processed,ns:752,1088920,23175304
+query id,postings processed,ns:753,7742806,85350738
+query id,postings processed,ns:754,5397725,79358148
+query id,postings processed,ns:755,422912,14151202
+query id,postings processed,ns:756,4013592,58176472
+query id,postings processed,ns:757,8886,4889714
+query id,postings processed,ns:758,703957,19872246
+query id,postings processed,ns:759,1873801,37879152
+query id,postings processed,ns:760,4987568,75980687
+query id,postings processed,ns:761,22771566,126437437
+query id,postings processed,ns:762,38987632,186312696
+query id,postings processed,ns:763,1510685,29484234
+query id,postings processed,ns:764,8920882,102965537
+query id,postings processed,ns:765,1293074,28436580
+query id,postings processed,ns:766,83269,8320188
+query id,postings processed,ns:767,2536923,46439320
+query id,postings processed,ns:768,25553832,136587298
+query id,postings processed,ns:769,2306402,40412343
+query id,postings processed,ns:770,8926416,115199314
+query id,postings processed,ns:771,45717,8042180
+query id,postings processed,ns:772,3597921,60395897
+query id,postings processed,ns:773,1179558,28042608
+query id,postings processed,ns:774,20829319,85914777
+query id,postings processed,ns:775,2429737,39280638
+query id,postings processed,ns:776,2729159,47480754
+query id,postings processed,ns:777,1625725,36279695
+query id,postings processed,ns:778,606274,17940368
+query id,postings processed,ns:779,24639029,143887390
+query id,postings processed,ns:780,2111626,34445427
+query id,postings processed,ns:781,24659163,142491751
+query id,postings processed,ns:782,1256275,29606230
+query id,postings processed,ns:783,2365296,41196386
+query id,postings processed,ns:784,14081,5888675
+query id,postings processed,ns:785,93983,8923242
+query id,postings processed,ns:786,229160,11209967
+query id,postings processed,ns:787,49623,7654828
+query id,postings processed,ns:788,224629,11203799
+query id,postings processed,ns:789,444360,15854690
+query id,postings processed,ns:790,19150402,121881916
+query id,postings processed,ns:791,1756587,33234829
+query id,postings processed,ns:792,8878502,124201718
+query id,postings processed,ns:793,762043,41669814
+query id,postings processed,ns:794,528349,16761031
+query id,postings processed,ns:795,58921,7825891
+query id,postings processed,ns:796,4640250,69556005
+query id,postings processed,ns:797,21206104,88775222
+query id,postings processed,ns:798,922942,23324438
+query id,postings processed,ns:799,20864384,132384367
+query id,postings processed,ns:800,1864907,37931138
