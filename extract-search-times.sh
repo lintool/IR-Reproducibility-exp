@@ -50,7 +50,7 @@ do
 			do
 				for r in 1 2 3
 				do
-					cat indri/final/query_times_${m}_${q}_${r} | cut -d":" -f2 | nl -v `echo ${q} | cut -d'-' -f1` | sed -e "s/^/${ENGINE} ${m} ${q} /"
+					cat indri/final/query_times_${m}_${q}_${r} | cut -d":" -f2 | head -n 50 | nl -v `echo ${q} | cut -d'-' -f1` | sed -e "s/^/${ENGINE} ${m} ${q} /"
 				done
 			done
 			;;
